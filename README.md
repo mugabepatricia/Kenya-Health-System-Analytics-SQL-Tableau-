@@ -71,10 +71,7 @@ Two interactive Tableau dashboards:
 - <a href="https://public.tableau.com/app/profile/patricia.mbabazi.mugabe/viz/OperationsFinancedashboard/OperationsFinance">Operations & Finance Dashboard</a>
 
 ## Project Structure
-health-analytics/
-├── health_db.sql          # Full database schema and data
-├── analysis_queries.sql   # All analytical SQL queries
-└── README.md
+- <a href="https://github.com/mugabepatricia/Kenya-Health-System-Analytics-SQL-Tableau-/blob/main/Kenya%20Health%20database.sql">Kenyan Health SQL code</a>
 
 ## About
 Built as a portfolio project during a transition from clinical medicine (MBChB) into health data analytics. Domain knowledge from medical training informed the clinical relevance of the analytical questions and interpretation of results.
