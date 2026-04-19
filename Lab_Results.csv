@@ -1,0 +1,1401 @@
+lab_id,visit_id,test_code,test_name,department,result_value,result_unit,result_category,test_date
+1,491,"Chest X-Ray","Radiological investigation",Radiology,422.67,units,Abnormal,2022-05-02
+2,93,FBC,"Full Blood Count",Haematology,409.52,cells/μL,Abnormal,2022-02-11
+3,1048,ECG,Electrocardiogram,Cardiology,18.87,units,Abnormal,2023-06-25
+4,1763,"Lipid Profile","Cholesterol and triglycerides",Chemistry,380.91,mmol/L,Critical,2023-10-23
+5,1169,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,221.24,units,Critical,2022-10-03
+6,1321,Echocardiogram,"Cardiac ultrasound",Cardiology,484.52,units,Normal,2022-08-22
+7,1212,"Widal Test","Typhoid serology",Microbiology,259.25,units,Abnormal,2023-04-19
+8,1698,"Lipid Profile","Cholesterol and triglycerides",Chemistry,217.00,mmol/L,Abnormal,2023-11-07
+9,1379,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,345.36,units,Normal,2022-10-26
+10,799,"Widal Test","Typhoid serology",Microbiology,310.48,units,Abnormal,2022-07-09
+11,575,Echocardiogram,"Cardiac ultrasound",Cardiology,29.82,units,Normal,2022-07-13
+12,806,HbA1c,"Glycated Haemoglobin",Chemistry,433.57,%,Critical,2023-06-03
+13,1643,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,396.14,units,Abnormal,2022-09-20
+14,1246,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,369.94,units,Normal,2023-03-15
+15,1311,ECG,Electrocardiogram,Cardiology,372.36,units,Abnormal,2023-10-02
+16,339,Echocardiogram,"Cardiac ultrasound",Cardiology,414.49,units,Abnormal,2022-10-01
+17,544,RBS,"Random Blood Sugar",Chemistry,275.86,mmol/L,Critical,2023-08-10
+18,456,"HIV Rapid Test","HIV antibody test",Serology,498.26,units,Critical,2022-08-09
+19,611,FBC,"Full Blood Count",Haematology,100.75,cells/μL,Normal,2023-10-03
+20,1587,RBS,"Random Blood Sugar",Chemistry,231.12,mmol/L,Abnormal,2023-03-23
+21,476,FBC,"Full Blood Count",Haematology,422.53,cells/μL,Abnormal,2022-06-08
+22,734,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,310.04,units,Normal,2022-05-08
+23,515,Urinalysis,"Urine dipstick",Chemistry,181.44,units,Normal,2023-10-27
+24,1083,RBS,"Random Blood Sugar",Chemistry,449.57,mmol/L,Critical,2023-09-05
+25,831,"Prothrombin Time","Coagulation test",Haematology,311.60,units,Abnormal,2022-07-20
+26,1219,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,11.64,units,Critical,2022-06-19
+27,676,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,179.75,units,Abnormal,2022-12-28
+28,363,"Widal Test","Typhoid serology",Microbiology,484.56,units,Normal,2022-01-31
+29,230,"Sputum GeneXpert","TB molecular test",Microbiology,299.02,units,Critical,2022-05-01
+30,383,"CD4 Count","CD4 lymphocyte count",Immunology,138.31,cells/μL,Normal,2022-07-04
+31,1680,"Prothrombin Time","Coagulation test",Haematology,231.99,units,Normal,2022-01-27
+32,210,HbA1c,"Glycated Haemoglobin",Chemistry,73.84,%,Critical,2023-09-16
+33,1405,"CD4 Count","CD4 lymphocyte count",Immunology,108.29,cells/μL,Critical,2022-12-01
+34,729,FBC,"Full Blood Count",Haematology,11.97,cells/μL,Normal,2022-07-25
+35,797,FBS,"Fasting Blood Sugar",Chemistry,332.49,mmol/L,Critical,2022-05-24
+36,66,"Thyroid Function Tests",TSH/T3/T4,Chemistry,20.45,units,Critical,2023-01-29
+37,1685,Echocardiogram,"Cardiac ultrasound",Cardiology,64.03,units,Normal,2022-11-05
+38,482,Echocardiogram,"Cardiac ultrasound",Cardiology,437.37,units,Critical,2022-02-03
+39,1034,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,119.52,mL/min/1.73m²,Normal,2022-12-21
+40,926,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,265.81,units,Critical,2023-04-05
+41,131,"Lipid Profile","Cholesterol and triglycerides",Chemistry,457.70,mmol/L,Abnormal,2023-03-31
+42,11,ECG,Electrocardiogram,Cardiology,300.40,units,Normal,2023-08-24
+43,1068,Echocardiogram,"Cardiac ultrasound",Cardiology,470.64,units,Normal,2022-10-05
+44,1119,"Thyroid Function Tests",TSH/T3/T4,Chemistry,165.42,units,Critical,2022-12-02
+45,1799,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,263.61,units,Normal,2023-01-19
+46,430,FBS,"Fasting Blood Sugar",Chemistry,268.36,mmol/L,Abnormal,2022-05-29
+47,677,"Prothrombin Time","Coagulation test",Haematology,94.71,units,Critical,2022-05-22
+48,636,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,465.97,units,Normal,2023-08-24
+49,860,"CD4 Count","CD4 lymphocyte count",Immunology,434.17,cells/μL,Normal,2023-06-01
+50,1274,"HIV Rapid Test","HIV antibody test",Serology,93.15,units,Abnormal,2023-01-09
+51,596,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,234.05,units,Abnormal,2023-06-25
+52,782,Echocardiogram,"Cardiac ultrasound",Cardiology,331.03,units,Normal,2022-12-11
+53,875,"HIV Rapid Test","HIV antibody test",Serology,296.28,units,Normal,2022-02-24
+54,2,Echocardiogram,"Cardiac ultrasound",Cardiology,62.84,units,Abnormal,2023-09-28
+55,614,"HIV Rapid Test","HIV antibody test",Serology,422.64,units,Abnormal,2023-05-29
+56,1204,"Sputum GeneXpert","TB molecular test",Microbiology,194.45,units,Critical,2022-12-13
+57,1644,FBC,"Full Blood Count",Haematology,412.45,cells/μL,Abnormal,2023-06-09
+58,121,Creatinine,"Renal biomarker",Chemistry,141.58,μmol/L,Critical,2022-04-28
+59,435,"Thyroid Function Tests",TSH/T3/T4,Chemistry,422.81,units,Critical,2022-02-01
+60,977,Echocardiogram,"Cardiac ultrasound",Cardiology,286.48,units,Critical,2022-09-19
+61,825,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,204.20,units,Abnormal,2022-02-12
+62,532,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,458.81,units,Normal,2023-03-31
+63,904,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,298.23,units,Abnormal,2022-12-21
+64,566,"CD4 Count","CD4 lymphocyte count",Immunology,301.07,cells/μL,Normal,2023-01-13
+65,942,"HIV Rapid Test","HIV antibody test",Serology,254.64,units,Normal,2022-03-05
+66,882,Echocardiogram,"Cardiac ultrasound",Cardiology,378.56,units,Normal,2023-11-11
+67,1505,LFTs,"Liver Function Tests",Chemistry,223.87,units,Abnormal,2022-11-04
+68,1194,"Sputum GeneXpert","TB molecular test",Microbiology,384.05,units,Abnormal,2023-10-05
+69,251,ECG,Electrocardiogram,Cardiology,466.95,units,Abnormal,2023-01-17
+70,1346,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,437.07,mL/min/1.73m²,Abnormal,2022-10-18
+71,1519,"Thyroid Function Tests",TSH/T3/T4,Chemistry,59.62,units,Normal,2023-06-11
+72,168,"Sputum GeneXpert","TB molecular test",Microbiology,75.04,units,Abnormal,2023-08-24
+73,873,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,241.78,units,Abnormal,2023-09-23
+74,167,RBS,"Random Blood Sugar",Chemistry,9.50,mmol/L,Normal,2023-12-29
+75,382,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,437.21,units,Abnormal,2023-09-07
+76,364,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,274.16,units,Abnormal,2023-08-06
+77,238,"Thyroid Function Tests",TSH/T3/T4,Chemistry,368.87,units,Abnormal,2022-09-29
+78,1664,Urinalysis,"Urine dipstick",Chemistry,422.88,units,Normal,2023-03-23
+79,693,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,67.15,units,Critical,2023-08-01
+80,91,"HIV Rapid Test","HIV antibody test",Serology,394.26,units,Critical,2023-05-16
+81,1546,HbA1c,"Glycated Haemoglobin",Chemistry,77.86,%,Abnormal,2023-08-24
+82,487,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,172.41,units,Normal,2022-06-22
+83,1489,"Sputum GeneXpert","TB molecular test",Microbiology,216.03,units,Abnormal,2023-10-02
+84,1177,Urinalysis,"Urine dipstick",Chemistry,395.83,units,Abnormal,2022-11-05
+85,1672,HbA1c,"Glycated Haemoglobin",Chemistry,391.34,%,Normal,2023-05-18
+86,1394,LFTs,"Liver Function Tests",Chemistry,340.09,units,Abnormal,2023-01-05
+87,830,"Lipid Profile","Cholesterol and triglycerides",Chemistry,402.83,mmol/L,Abnormal,2023-01-12
+88,1432,HbA1c,"Glycated Haemoglobin",Chemistry,347.02,%,Normal,2022-10-10
+89,642,HbA1c,"Glycated Haemoglobin",Chemistry,248.72,%,Critical,2022-02-20
+90,720,RBS,"Random Blood Sugar",Chemistry,170.15,mmol/L,Abnormal,2022-12-11
+91,1129,Creatinine,"Renal biomarker",Chemistry,121.09,μmol/L,Abnormal,2022-12-28
+92,1616,"CD4 Count","CD4 lymphocyte count",Immunology,311.62,cells/μL,Abnormal,2023-01-08
+93,838,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,400.91,units,Normal,2023-03-11
+94,1455,Creatinine,"Renal biomarker",Chemistry,478.20,μmol/L,Critical,2022-08-08
+95,1030,"Lipid Profile","Cholesterol and triglycerides",Chemistry,187.13,mmol/L,Critical,2023-05-11
+96,1457,"Thyroid Function Tests",TSH/T3/T4,Chemistry,485.30,units,Abnormal,2023-03-01
+97,1438,Echocardiogram,"Cardiac ultrasound",Cardiology,27.93,units,Critical,2022-12-31
+98,144,FBC,"Full Blood Count",Haematology,151.46,cells/μL,Critical,2023-08-18
+99,1308,FBS,"Fasting Blood Sugar",Chemistry,15.95,mmol/L,Abnormal,2022-02-22
+100,1154,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,101.26,units,Abnormal,2022-04-01
+101,1309,"CD4 Count","CD4 lymphocyte count",Immunology,455.45,cells/μL,Critical,2023-04-28
+102,1721,Creatinine,"Renal biomarker",Chemistry,161.21,μmol/L,Normal,2022-04-06
+103,87,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,359.38,units,Abnormal,2023-08-21
+104,1614,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,112.31,units,Critical,2023-01-28
+105,620,RBS,"Random Blood Sugar",Chemistry,389.44,mmol/L,Critical,2023-11-30
+106,252,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,435.30,units,Critical,2023-11-28
+107,643,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,18.99,units,Critical,2023-06-15
+108,1758,Echocardiogram,"Cardiac ultrasound",Cardiology,273.61,units,Critical,2023-11-27
+109,1234,FBC,"Full Blood Count",Haematology,489.78,cells/μL,Normal,2023-01-13
+110,454,"CD4 Count","CD4 lymphocyte count",Immunology,395.24,cells/μL,Critical,2022-07-21
+111,441,"Troponin I","Cardiac biomarker",Chemistry,40.06,ng/mL,Normal,2023-01-14
+112,444,"Lipid Profile","Cholesterol and triglycerides",Chemistry,87.43,mmol/L,Normal,2023-02-20
+113,764,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,25.20,units,Critical,2023-12-27
+114,269,"Lipid Profile","Cholesterol and triglycerides",Chemistry,343.30,mmol/L,Critical,2022-09-01
+115,1114,"Thyroid Function Tests",TSH/T3/T4,Chemistry,109.35,units,Critical,2023-03-20
+116,852,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,250.39,units,Normal,2022-07-09
+117,1464,FBC,"Full Blood Count",Haematology,333.18,cells/μL,Normal,2023-07-11
+118,1465,Creatinine,"Renal biomarker",Chemistry,318.50,μmol/L,Critical,2022-06-23
+119,1355,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,497.15,units,Normal,2023-07-28
+120,822,Creatinine,"Renal biomarker",Chemistry,307.85,μmol/L,Critical,2022-11-01
+121,3,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,476.34,units,Abnormal,2023-06-17
+122,206,HbA1c,"Glycated Haemoglobin",Chemistry,376.59,%,Abnormal,2023-04-09
+123,1669,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,202.69,units,Critical,2022-10-07
+124,458,LFTs,"Liver Function Tests",Chemistry,369.83,units,Critical,2022-08-27
+125,1056,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,256.74,units,Normal,2022-07-10
+126,1694,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,93.99,units,Abnormal,2023-03-22
+127,647,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,240.89,units,Normal,2023-02-27
+128,1535,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,138.13,units,Normal,2022-09-21
+129,1,"Sputum GeneXpert","TB molecular test",Microbiology,324.47,units,Normal,2023-12-02
+130,1570,RFTs,"Renal Function Tests",Chemistry,381.05,units,Critical,2023-03-21
+131,54,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,120.57,units,Critical,2023-10-29
+132,343,"HIV Rapid Test","HIV antibody test",Serology,259.62,units,Critical,2023-12-11
+133,1201,Creatinine,"Renal biomarker",Chemistry,237.71,μmol/L,Abnormal,2022-10-07
+134,694,"Troponin I","Cardiac biomarker",Chemistry,283.67,ng/mL,Abnormal,2023-02-02
+135,1609,Echocardiogram,"Cardiac ultrasound",Cardiology,223.49,units,Normal,2022-11-10
+136,987,"Widal Test","Typhoid serology",Microbiology,192.63,units,Critical,2022-08-11
+137,396,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,308.69,mL/min/1.73m²,Abnormal,2022-09-13
+138,1618,FBS,"Fasting Blood Sugar",Chemistry,405.38,mmol/L,Abnormal,2023-03-24
+139,1063,"Chest X-Ray","Radiological investigation",Radiology,156.17,units,Normal,2022-07-20
+140,24,"Troponin I","Cardiac biomarker",Chemistry,140.30,ng/mL,Normal,2023-10-04
+141,217,"Chest X-Ray","Radiological investigation",Radiology,396.33,units,Critical,2022-01-12
+142,64,Creatinine,"Renal biomarker",Chemistry,469.43,μmol/L,Abnormal,2022-10-02
+143,141,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,194.91,mL/min/1.73m²,Abnormal,2023-11-15
+144,378,Echocardiogram,"Cardiac ultrasound",Cardiology,32.87,units,Normal,2023-11-09
+145,603,Creatinine,"Renal biomarker",Chemistry,91.85,μmol/L,Normal,2023-08-14
+146,725,LFTs,"Liver Function Tests",Chemistry,122.25,units,Critical,2023-10-08
+147,954,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,69.06,units,Abnormal,2023-07-28
+148,194,ECG,Electrocardiogram,Cardiology,69.55,units,Normal,2022-08-20
+149,1110,"Sputum GeneXpert","TB molecular test",Microbiology,104.69,units,Abnormal,2023-12-25
+150,190,Creatinine,"Renal biomarker",Chemistry,387.00,μmol/L,Normal,2023-02-01
+151,768,"Prothrombin Time","Coagulation test",Haematology,356.44,units,Normal,2023-06-12
+152,1145,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,246.48,units,Abnormal,2023-12-25
+153,113,Echocardiogram,"Cardiac ultrasound",Cardiology,481.87,units,Abnormal,2023-05-29
+154,789,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,26.68,units,Abnormal,2022-12-04
+155,1532,"HIV Rapid Test","HIV antibody test",Serology,292.48,units,Critical,2022-11-30
+156,1340,"Prothrombin Time","Coagulation test",Haematology,388.00,units,Critical,2023-02-13
+157,186,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,409.90,units,Abnormal,2023-04-17
+158,1225,Echocardiogram,"Cardiac ultrasound",Cardiology,193.30,units,Critical,2022-01-03
+159,605,RBS,"Random Blood Sugar",Chemistry,443.46,mmol/L,Abnormal,2022-03-10
+160,1245,Urinalysis,"Urine dipstick",Chemistry,66.75,units,Abnormal,2023-10-15
+161,1164,Urinalysis,"Urine dipstick",Chemistry,240.01,units,Abnormal,2022-09-25
+162,1579,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,128.47,units,Critical,2022-09-28
+163,1185,"Lipid Profile","Cholesterol and triglycerides",Chemistry,484.09,mmol/L,Normal,2022-06-19
+164,1724,"Sputum GeneXpert","TB molecular test",Microbiology,19.17,units,Abnormal,2022-04-20
+165,389,"Widal Test","Typhoid serology",Microbiology,481.10,units,Abnormal,2022-07-17
+166,1681,"Widal Test","Typhoid serology",Microbiology,400.02,units,Normal,2022-02-13
+167,1281,RBS,"Random Blood Sugar",Chemistry,146.63,mmol/L,Normal,2023-12-03
+168,1607,Echocardiogram,"Cardiac ultrasound",Cardiology,216.22,units,Abnormal,2023-04-12
+169,1483,"Thyroid Function Tests",TSH/T3/T4,Chemistry,50.78,units,Abnormal,2022-05-21
+170,766,RBS,"Random Blood Sugar",Chemistry,125.53,mmol/L,Normal,2023-10-09
+171,75,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,47.25,mL/min/1.73m²,Critical,2022-12-22
+172,730,"Prothrombin Time","Coagulation test",Haematology,472.08,units,Normal,2022-12-15
+173,689,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,187.66,units,Normal,2022-08-30
+174,248,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,158.98,units,Critical,2022-11-24
+175,1179,RBS,"Random Blood Sugar",Chemistry,272.17,mmol/L,Critical,2022-09-27
+176,195,"Lipid Profile","Cholesterol and triglycerides",Chemistry,456.31,mmol/L,Normal,2023-12-28
+177,1376,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,250.85,mL/min/1.73m²,Abnormal,2023-03-10
+178,1515,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,355.40,units,Normal,2022-07-10
+179,1215,ECG,Electrocardiogram,Cardiology,336.14,units,Critical,2022-02-18
+180,1783,"Widal Test","Typhoid serology",Microbiology,65.30,units,Normal,2023-07-16
+181,1181,HbA1c,"Glycated Haemoglobin",Chemistry,1.78,%,Normal,2023-06-02
+182,844,"Troponin I","Cardiac biomarker",Chemistry,485.30,ng/mL,Critical,2023-05-18
+183,1091,RBS,"Random Blood Sugar",Chemistry,20.04,mmol/L,Normal,2022-05-10
+184,898,"Troponin I","Cardiac biomarker",Chemistry,41.68,ng/mL,Abnormal,2022-12-24
+185,1727,"Sputum GeneXpert","TB molecular test",Microbiology,450.19,units,Critical,2022-10-30
+186,1028,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,416.11,mL/min/1.73m²,Abnormal,2023-01-06
+187,887,"Troponin I","Cardiac biomarker",Chemistry,299.70,ng/mL,Abnormal,2022-05-16
+188,1353,ECG,Electrocardiogram,Cardiology,10.45,units,Normal,2022-12-26
+189,1009,"Troponin I","Cardiac biomarker",Chemistry,310.60,ng/mL,Normal,2022-04-26
+190,158,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,108.57,units,Critical,2022-07-18
+191,990,RBS,"Random Blood Sugar",Chemistry,156.74,mmol/L,Normal,2023-10-05
+192,16,ECG,Electrocardiogram,Cardiology,240.09,units,Critical,2023-01-11
+193,1099,HbA1c,"Glycated Haemoglobin",Chemistry,111.19,%,Abnormal,2022-03-20
+194,1661,FBC,"Full Blood Count",Haematology,298.07,cells/μL,Normal,2022-05-24
+195,1315,HbA1c,"Glycated Haemoglobin",Chemistry,201.33,%,Critical,2023-04-12
+196,638,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,170.24,units,Normal,2023-04-16
+197,1250,HbA1c,"Glycated Haemoglobin",Chemistry,141.98,%,Abnormal,2022-09-02
+198,303,LFTs,"Liver Function Tests",Chemistry,22.82,units,Normal,2022-03-26
+199,1224,"Troponin I","Cardiac biomarker",Chemistry,64.00,ng/mL,Abnormal,2022-09-12
+200,418,FBS,"Fasting Blood Sugar",Chemistry,90.63,mmol/L,Abnormal,2023-02-26
+201,1449,"CD4 Count","CD4 lymphocyte count",Immunology,199.67,cells/μL,Normal,2022-06-29
+202,334,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,101.42,units,Normal,2023-02-28
+203,1539,"CD4 Count","CD4 lymphocyte count",Immunology,170.54,cells/μL,Normal,2023-03-05
+204,1144,LFTs,"Liver Function Tests",Chemistry,126.02,units,Abnormal,2022-12-06
+205,1466,"HIV Rapid Test","HIV antibody test",Serology,75.75,units,Abnormal,2022-05-23
+206,749,RBS,"Random Blood Sugar",Chemistry,337.55,mmol/L,Abnormal,2023-10-07
+207,36,ECG,Electrocardiogram,Cardiology,373.95,units,Normal,2023-04-11
+208,1005,Urinalysis,"Urine dipstick",Chemistry,157.73,units,Normal,2022-01-08
+209,1704,"CD4 Count","CD4 lymphocyte count",Immunology,451.81,cells/μL,Critical,2023-03-24
+210,208,Creatinine,"Renal biomarker",Chemistry,244.23,μmol/L,Abnormal,2023-08-16
+211,1230,FBC,"Full Blood Count",Haematology,160.28,cells/μL,Normal,2022-03-14
+212,866,RFTs,"Renal Function Tests",Chemistry,42.53,units,Critical,2022-04-04
+213,172,"Chest X-Ray","Radiological investigation",Radiology,227.37,units,Critical,2023-09-06
+214,315,"Lipid Profile","Cholesterol and triglycerides",Chemistry,405.29,mmol/L,Normal,2023-01-09
+215,1211,"Lipid Profile","Cholesterol and triglycerides",Chemistry,287.60,mmol/L,Normal,2023-12-14
+216,451,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,9.33,units,Abnormal,2022-10-07
+217,426,Echocardiogram,"Cardiac ultrasound",Cardiology,141.66,units,Critical,2023-12-19
+218,288,"HIV Rapid Test","HIV antibody test",Serology,484.19,units,Abnormal,2022-12-05
+219,153,ECG,Electrocardiogram,Cardiology,409.03,units,Abnormal,2023-08-19
+220,1562,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,94.98,units,Normal,2023-12-25
+221,399,Echocardiogram,"Cardiac ultrasound",Cardiology,114.37,units,Normal,2022-10-05
+222,573,RFTs,"Renal Function Tests",Chemistry,198.58,units,Abnormal,2023-02-27
+223,1620,Urinalysis,"Urine dipstick",Chemistry,264.63,units,Abnormal,2023-10-06
+224,723,"Prothrombin Time","Coagulation test",Haematology,166.13,units,Normal,2023-08-11
+225,335,FBC,"Full Blood Count",Haematology,72.20,cells/μL,Normal,2022-11-08
+226,277,FBS,"Fasting Blood Sugar",Chemistry,428.24,mmol/L,Critical,2022-03-08
+227,1793,"HIV Rapid Test","HIV antibody test",Serology,355.34,units,Critical,2023-06-01
+228,1153,RBS,"Random Blood Sugar",Chemistry,389.75,mmol/L,Normal,2022-02-21
+229,1784,"Troponin I","Cardiac biomarker",Chemistry,111.46,ng/mL,Abnormal,2023-02-05
+230,85,"CD4 Count","CD4 lymphocyte count",Immunology,361.98,cells/μL,Normal,2023-03-03
+231,1364,"Lipid Profile","Cholesterol and triglycerides",Chemistry,382.21,mmol/L,Normal,2022-11-20
+232,107,ECG,Electrocardiogram,Cardiology,354.63,units,Abnormal,2023-12-18
+233,437,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,97.56,units,Critical,2022-02-24
+234,979,FBC,"Full Blood Count",Haematology,289.24,cells/μL,Critical,2022-10-16
+235,1385,HbA1c,"Glycated Haemoglobin",Chemistry,203.40,%,Abnormal,2022-08-27
+236,150,"Sputum GeneXpert","TB molecular test",Microbiology,464.61,units,Normal,2023-10-18
+237,965,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,74.21,units,Abnormal,2022-01-11
+238,1016,Urinalysis,"Urine dipstick",Chemistry,135.51,units,Normal,2022-04-24
+239,744,RFTs,"Renal Function Tests",Chemistry,171.16,units,Critical,2023-09-30
+240,1070,RFTs,"Renal Function Tests",Chemistry,276.35,units,Critical,2022-08-18
+241,1139,"Lipid Profile","Cholesterol and triglycerides",Chemistry,460.29,mmol/L,Critical,2023-08-02
+242,715,Urinalysis,"Urine dipstick",Chemistry,235.88,units,Abnormal,2023-10-20
+243,790,Creatinine,"Renal biomarker",Chemistry,187.68,μmol/L,Critical,2022-04-22
+244,317,"Sputum GeneXpert","TB molecular test",Microbiology,189.92,units,Abnormal,2023-01-19
+245,1468,RBS,"Random Blood Sugar",Chemistry,177.95,mmol/L,Normal,2023-05-21
+246,920,Urinalysis,"Urine dipstick",Chemistry,119.14,units,Critical,2023-07-31
+247,523,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,16.23,units,Critical,2022-03-12
+248,1108,RBS,"Random Blood Sugar",Chemistry,343.13,mmol/L,Critical,2023-01-07
+249,15,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,42.90,mL/min/1.73m²,Abnormal,2023-09-14
+250,796,Creatinine,"Renal biomarker",Chemistry,95.41,μmol/L,Critical,2023-10-29
+251,819,FBS,"Fasting Blood Sugar",Chemistry,244.57,mmol/L,Normal,2023-01-20
+252,218,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,322.15,units,Normal,2023-06-16
+253,140,"Troponin I","Cardiac biomarker",Chemistry,356.98,ng/mL,Abnormal,2022-11-04
+254,1415,RBS,"Random Blood Sugar",Chemistry,193.47,mmol/L,Critical,2023-10-07
+255,372,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,464.11,units,Abnormal,2022-06-02
+256,849,Urinalysis,"Urine dipstick",Chemistry,167.69,units,Normal,2023-01-13
+257,1517,"Sputum GeneXpert","TB molecular test",Microbiology,11.71,units,Abnormal,2023-01-27
+258,1687,"CD4 Count","CD4 lymphocyte count",Immunology,4.35,cells/μL,Abnormal,2023-02-06
+259,1477,RFTs,"Renal Function Tests",Chemistry,434.80,units,Abnormal,2023-07-05
+260,68,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,160.85,units,Normal,2023-10-31
+261,1331,Urinalysis,"Urine dipstick",Chemistry,91.96,units,Normal,2023-08-18
+262,471,"Prothrombin Time","Coagulation test",Haematology,409.57,units,Abnormal,2022-01-27
+263,122,LFTs,"Liver Function Tests",Chemistry,489.12,units,Critical,2023-11-05
+264,1551,"Chest X-Ray","Radiological investigation",Radiology,394.03,units,Normal,2022-05-05
+265,1213,Creatinine,"Renal biomarker",Chemistry,218.62,μmol/L,Normal,2022-05-01
+266,759,FBC,"Full Blood Count",Haematology,494.94,cells/μL,Normal,2023-03-23
+267,151,FBC,"Full Blood Count",Haematology,294.23,cells/μL,Normal,2023-08-27
+268,880,"Widal Test","Typhoid serology",Microbiology,422.31,units,Normal,2023-07-24
+269,652,FBS,"Fasting Blood Sugar",Chemistry,327.19,mmol/L,Normal,2022-02-20
+270,1593,"Lipid Profile","Cholesterol and triglycerides",Chemistry,497.34,mmol/L,Abnormal,2023-12-08
+271,1380,"Chest X-Ray","Radiological investigation",Radiology,333.72,units,Critical,2022-01-25
+272,192,"CD4 Count","CD4 lymphocyte count",Immunology,464.60,cells/μL,Critical,2023-11-14
+273,345,"Thyroid Function Tests",TSH/T3/T4,Chemistry,262.42,units,Abnormal,2023-05-18
+274,226,ECG,Electrocardiogram,Cardiology,392.66,units,Normal,2022-10-12
+275,242,"Prothrombin Time","Coagulation test",Haematology,294.75,units,Normal,2023-12-16
+276,1136,"Chest X-Ray","Radiological investigation",Radiology,253.75,units,Normal,2022-04-18
+277,884,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,168.59,mL/min/1.73m²,Critical,2023-11-03
+278,99,Urinalysis,"Urine dipstick",Chemistry,300.35,units,Abnormal,2022-11-10
+279,1318,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,15.06,units,Abnormal,2023-04-06
+280,130,"Lipid Profile","Cholesterol and triglycerides",Chemistry,318.23,mmol/L,Critical,2023-01-06
+281,1111,"Chest X-Ray","Radiological investigation",Radiology,347.99,units,Critical,2023-12-04
+282,1729,HbA1c,"Glycated Haemoglobin",Chemistry,495.25,%,Normal,2022-06-02
+283,249,RBS,"Random Blood Sugar",Chemistry,177.70,mmol/L,Normal,2022-07-29
+284,1367,"CD4 Count","CD4 lymphocyte count",Immunology,201.23,cells/μL,Critical,2023-08-06
+285,1495,Urinalysis,"Urine dipstick",Chemistry,331.78,units,Abnormal,2023-06-28
+286,270,"Prothrombin Time","Coagulation test",Haematology,305.30,units,Abnormal,2022-02-15
+287,1369,RBS,"Random Blood Sugar",Chemistry,248.50,mmol/L,Normal,2023-03-11
+288,1456,"Sputum GeneXpert","TB molecular test",Microbiology,373.76,units,Critical,2023-06-22
+289,1322,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,319.84,units,Normal,2023-01-07
+290,472,Creatinine,"Renal biomarker",Chemistry,61.20,μmol/L,Normal,2022-04-26
+291,1392,ECG,Electrocardiogram,Cardiology,363.74,units,Abnormal,2023-06-06
+292,1259,"Sputum GeneXpert","TB molecular test",Microbiology,471.99,units,Abnormal,2023-05-27
+293,1247,"Sputum GeneXpert","TB molecular test",Microbiology,304.00,units,Abnormal,2023-09-21
+294,1691,"Troponin I","Cardiac biomarker",Chemistry,333.67,ng/mL,Abnormal,2023-11-02
+295,401,Creatinine,"Renal biomarker",Chemistry,154.14,μmol/L,Critical,2022-08-29
+296,1538,"CD4 Count","CD4 lymphocyte count",Immunology,193.93,cells/μL,Critical,2023-08-28
+297,373,ECG,Electrocardiogram,Cardiology,376.11,units,Normal,2022-12-26
+298,665,LFTs,"Liver Function Tests",Chemistry,386.74,units,Normal,2023-09-19
+299,732,"Lipid Profile","Cholesterol and triglycerides",Chemistry,31.73,mmol/L,Abnormal,2022-09-18
+300,1196,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,320.57,units,Normal,2022-06-02
+301,1041,"Chest X-Ray","Radiological investigation",Radiology,405.12,units,Normal,2023-08-15
+302,1015,FBS,"Fasting Blood Sugar",Chemistry,284.73,mmol/L,Critical,2023-08-13
+303,1190,"Lipid Profile","Cholesterol and triglycerides",Chemistry,106.20,mmol/L,Normal,2023-11-26
+304,1476,RBS,"Random Blood Sugar",Chemistry,107.23,mmol/L,Normal,2022-09-09
+305,278,Creatinine,"Renal biomarker",Chemistry,239.72,μmol/L,Normal,2022-02-10
+306,1734,"HIV Rapid Test","HIV antibody test",Serology,321.06,units,Critical,2022-05-16
+307,879,Echocardiogram,"Cardiac ultrasound",Cardiology,399.12,units,Critical,2023-05-04
+308,309,"CD4 Count","CD4 lymphocyte count",Immunology,116.84,cells/μL,Abnormal,2022-12-06
+309,453,RFTs,"Renal Function Tests",Chemistry,212.34,units,Normal,2022-02-24
+310,236,LFTs,"Liver Function Tests",Chemistry,299.51,units,Abnormal,2023-07-17
+311,583,ECG,Electrocardiogram,Cardiology,127.54,units,Critical,2022-05-07
+312,1358,HbA1c,"Glycated Haemoglobin",Chemistry,93.96,%,Normal,2023-02-17
+313,699,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,427.39,mL/min/1.73m²,Critical,2022-07-21
+314,1229,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,373.26,units,Normal,2023-04-08
+315,1735,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,285.72,units,Normal,2022-05-11
+316,1137,LFTs,"Liver Function Tests",Chemistry,289.93,units,Normal,2023-03-28
+317,1348,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,230.58,units,Abnormal,2022-12-10
+318,1409,FBC,"Full Blood Count",Haematology,396.81,cells/μL,Critical,2023-10-29
+319,1035,"Widal Test","Typhoid serology",Microbiology,343.14,units,Abnormal,2023-01-18
+320,1436,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,324.54,units,Abnormal,2022-11-30
+321,1240,ECG,Electrocardiogram,Cardiology,346.67,units,Abnormal,2023-05-10
+322,216,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,40.36,mL/min/1.73m²,Abnormal,2022-07-28
+323,42,FBS,"Fasting Blood Sugar",Chemistry,457.40,mmol/L,Critical,2022-11-05
+324,1733,"Lipid Profile","Cholesterol and triglycerides",Chemistry,151.60,mmol/L,Abnormal,2022-07-31
+325,1442,"CD4 Count","CD4 lymphocyte count",Immunology,124.57,cells/μL,Critical,2022-03-20
+326,793,FBS,"Fasting Blood Sugar",Chemistry,345.28,mmol/L,Abnormal,2022-12-27
+327,1297,RBS,"Random Blood Sugar",Chemistry,428.67,mmol/L,Normal,2023-04-16
+328,221,RFTs,"Renal Function Tests",Chemistry,26.03,units,Abnormal,2023-06-12
+329,1796,RBS,"Random Blood Sugar",Chemistry,366.80,mmol/L,Normal,2023-01-25
+330,829,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,351.21,mL/min/1.73m²,Abnormal,2023-04-07
+331,1122,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,176.82,units,Abnormal,2022-07-10
+332,100,"Troponin I","Cardiac biomarker",Chemistry,129.03,ng/mL,Normal,2023-08-14
+333,591,HbA1c,"Glycated Haemoglobin",Chemistry,204.06,%,Abnormal,2023-04-17
+334,736,FBC,"Full Blood Count",Haematology,403.49,cells/μL,Critical,2022-11-19
+335,1659,"HIV Rapid Test","HIV antibody test",Serology,9.27,units,Critical,2022-10-06
+336,705,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,387.23,units,Critical,2023-10-21
+337,1576,"Widal Test","Typhoid serology",Microbiology,133.75,units,Normal,2022-03-03
+338,183,"Thyroid Function Tests",TSH/T3/T4,Chemistry,34.66,units,Abnormal,2022-05-30
+339,134,ECG,Electrocardiogram,Cardiology,389.98,units,Critical,2023-05-01
+340,289,"Widal Test","Typhoid serology",Microbiology,311.49,units,Abnormal,2022-10-13
+341,101,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,75.98,mL/min/1.73m²,Normal,2022-04-20
+342,445,Echocardiogram,"Cardiac ultrasound",Cardiology,400.05,units,Critical,2023-07-13
+343,865,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,307.86,units,Critical,2023-09-30
+344,13,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,57.70,units,Normal,2023-10-05
+345,1662,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,123.46,mL/min/1.73m²,Abnormal,2022-11-25
+346,1732,"Lipid Profile","Cholesterol and triglycerides",Chemistry,264.81,mmol/L,Critical,2023-10-12
+347,1714,FBS,"Fasting Blood Sugar",Chemistry,51.27,mmol/L,Abnormal,2023-05-27
+348,562,RBS,"Random Blood Sugar",Chemistry,427.69,mmol/L,Abnormal,2023-04-15
+349,212,"CD4 Count","CD4 lymphocyte count",Immunology,198.42,cells/μL,Critical,2022-04-05
+350,1412,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,143.86,units,Critical,2022-06-15
+351,1141,"Chest X-Ray","Radiological investigation",Radiology,94.50,units,Abnormal,2022-11-28
+352,28,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,208.70,units,Normal,2022-01-04
+353,519,RFTs,"Renal Function Tests",Chemistry,480.80,units,Normal,2022-12-16
+354,1554,"Thyroid Function Tests",TSH/T3/T4,Chemistry,126.08,units,Abnormal,2023-09-30
+355,834,"Thyroid Function Tests",TSH/T3/T4,Chemistry,348.19,units,Normal,2023-11-11
+356,88,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,285.24,units,Normal,2023-05-17
+357,1109,FBS,"Fasting Blood Sugar",Chemistry,375.62,mmol/L,Normal,2023-11-14
+358,1437,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,115.31,units,Abnormal,2023-01-28
+359,155,RBS,"Random Blood Sugar",Chemistry,459.24,mmol/L,Critical,2022-12-15
+360,1417,"Widal Test","Typhoid serology",Microbiology,236.67,units,Normal,2023-11-09
+361,1252,RBS,"Random Blood Sugar",Chemistry,209.14,mmol/L,Normal,2023-08-08
+362,1024,Echocardiogram,"Cardiac ultrasound",Cardiology,426.76,units,Normal,2022-02-22
+363,1769,"Sputum GeneXpert","TB molecular test",Microbiology,289.47,units,Abnormal,2022-04-21
+364,526,"Chest X-Ray","Radiological investigation",Radiology,95.75,units,Normal,2022-03-18
+365,79,"Widal Test","Typhoid serology",Microbiology,316.57,units,Critical,2022-03-29
+366,1131,Urinalysis,"Urine dipstick",Chemistry,89.48,units,Normal,2022-06-19
+367,484,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,316.92,units,Abnormal,2022-12-13
+368,560,"Chest X-Ray","Radiological investigation",Radiology,34.62,units,Critical,2022-02-12
+369,871,"Troponin I","Cardiac biomarker",Chemistry,169.38,ng/mL,Abnormal,2023-11-12
+370,1155,FBS,"Fasting Blood Sugar",Chemistry,264.86,mmol/L,Abnormal,2022-10-04
+371,667,HbA1c,"Glycated Haemoglobin",Chemistry,96.68,%,Critical,2022-07-21
+372,540,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,196.64,units,Critical,2022-01-13
+373,1790,LFTs,"Liver Function Tests",Chemistry,259.43,units,Critical,2022-03-10
+374,1160,"HIV Rapid Test","HIV antibody test",Serology,452.49,units,Critical,2022-11-24
+375,722,Creatinine,"Renal biomarker",Chemistry,59.17,μmol/L,Critical,2023-09-20
+376,62,HbA1c,"Glycated Haemoglobin",Chemistry,333.82,%,Critical,2023-04-30
+377,828,Creatinine,"Renal biomarker",Chemistry,86.05,μmol/L,Normal,2023-12-22
+378,1633,"HIV Rapid Test","HIV antibody test",Serology,89.66,units,Abnormal,2023-08-30
+379,1210,RFTs,"Renal Function Tests",Chemistry,85.92,units,Critical,2022-04-29
+380,1393,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,343.10,units,Critical,2022-10-17
+381,681,RFTs,"Renal Function Tests",Chemistry,285.64,units,Critical,2022-10-04
+382,1615,Echocardiogram,"Cardiac ultrasound",Cardiology,57.34,units,Normal,2022-10-19
+383,72,FBC,"Full Blood Count",Haematology,375.79,cells/μL,Normal,2023-06-10
+384,848,"CD4 Count","CD4 lymphocyte count",Immunology,346.99,cells/μL,Abnormal,2023-08-15
+385,1623,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,95.59,mL/min/1.73m²,Normal,2022-10-19
+386,936,RFTs,"Renal Function Tests",Chemistry,206.68,units,Normal,2022-01-06
+387,538,HbA1c,"Glycated Haemoglobin",Chemistry,414.60,%,Critical,2022-02-01
+388,698,HbA1c,"Glycated Haemoglobin",Chemistry,225.66,%,Normal,2022-06-05
+389,816,RBS,"Random Blood Sugar",Chemistry,310.02,mmol/L,Critical,2023-10-25
+390,886,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,351.22,units,Abnormal,2023-09-26
+391,1217,Echocardiogram,"Cardiac ultrasound",Cardiology,257.23,units,Critical,2023-02-05
+392,1142,"Chest X-Ray","Radiological investigation",Radiology,182.63,units,Abnormal,2023-07-11
+393,452,FBS,"Fasting Blood Sugar",Chemistry,345.82,mmol/L,Normal,2023-04-20
+394,1402,RFTs,"Renal Function Tests",Chemistry,469.81,units,Critical,2022-05-08
+395,1267,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,331.38,units,Abnormal,2023-11-16
+396,1306,"HIV Rapid Test","HIV antibody test",Serology,474.76,units,Normal,2023-03-03
+397,1757,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,478.34,units,Critical,2023-10-17
+398,714,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,62.75,mL/min/1.73m²,Abnormal,2022-07-15
+399,1171,LFTs,"Liver Function Tests",Chemistry,359.94,units,Critical,2023-11-02
+400,1645,FBC,"Full Blood Count",Haematology,446.32,cells/μL,Normal,2022-07-15
+401,84,RBS,"Random Blood Sugar",Chemistry,259.17,mmol/L,Normal,2022-08-11
+402,998,HbA1c,"Glycated Haemoglobin",Chemistry,180.29,%,Critical,2022-06-24
+403,529,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,145.62,units,Critical,2022-09-14
+404,291,"Thyroid Function Tests",TSH/T3/T4,Chemistry,486.45,units,Critical,2022-05-09
+405,1787,LFTs,"Liver Function Tests",Chemistry,440.82,units,Critical,2022-09-15
+406,1453,"Chest X-Ray","Radiological investigation",Radiology,87.90,units,Abnormal,2023-05-04
+407,161,FBS,"Fasting Blood Sugar",Chemistry,315.24,mmol/L,Normal,2022-01-11
+408,625,LFTs,"Liver Function Tests",Chemistry,157.25,units,Abnormal,2022-06-12
+409,294,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,268.91,units,Abnormal,2022-02-10
+410,1363,"Sputum GeneXpert","TB molecular test",Microbiology,237.57,units,Normal,2022-11-15
+411,1268,LFTs,"Liver Function Tests",Chemistry,309.92,units,Critical,2022-07-22
+412,1484,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,496.43,units,Critical,2023-11-08
+413,33,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,375.90,mL/min/1.73m²,Abnormal,2023-10-18
+414,595,"Thyroid Function Tests",TSH/T3/T4,Chemistry,455.05,units,Abnormal,2023-12-27
+415,1271,"Chest X-Ray","Radiological investigation",Radiology,455.07,units,Abnormal,2022-02-23
+416,1467,Creatinine,"Renal biomarker",Chemistry,350.70,μmol/L,Abnormal,2023-05-14
+417,931,LFTs,"Liver Function Tests",Chemistry,38.44,units,Abnormal,2023-10-28
+418,1333,"HIV Rapid Test","HIV antibody test",Serology,90.06,units,Abnormal,2023-12-06
+419,908,RBS,"Random Blood Sugar",Chemistry,11.21,mmol/L,Normal,2023-12-17
+420,883,RBS,"Random Blood Sugar",Chemistry,441.35,mmol/L,Abnormal,2022-03-16
+421,367,FBC,"Full Blood Count",Haematology,344.27,cells/μL,Critical,2023-05-20
+422,648,LFTs,"Liver Function Tests",Chemistry,142.54,units,Abnormal,2022-05-21
+423,391,"CD4 Count","CD4 lymphocyte count",Immunology,138.98,cells/μL,Abnormal,2022-12-21
+424,1285,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,442.80,units,Abnormal,2023-11-14
+425,1093,Creatinine,"Renal biomarker",Chemistry,296.71,μmol/L,Normal,2023-08-31
+426,590,RFTs,"Renal Function Tests",Chemistry,243.21,units,Abnormal,2023-12-28
+427,1384,"Thyroid Function Tests",TSH/T3/T4,Chemistry,117.73,units,Critical,2022-11-23
+428,832,"Thyroid Function Tests",TSH/T3/T4,Chemistry,93.45,units,Critical,2023-11-05
+429,800,HbA1c,"Glycated Haemoglobin",Chemistry,402.66,%,Normal,2023-06-08
+430,1239,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,96.17,mL/min/1.73m²,Abnormal,2023-10-26
+431,176,"Lipid Profile","Cholesterol and triglycerides",Chemistry,485.15,mmol/L,Critical,2022-06-20
+432,1590,"Sputum GeneXpert","TB molecular test",Microbiology,275.09,units,Abnormal,2023-06-13
+433,708,FBC,"Full Blood Count",Haematology,239.57,cells/μL,Critical,2022-02-10
+434,400,"Widal Test","Typhoid serology",Microbiology,91.14,units,Normal,2022-12-27
+435,92,"Sputum GeneXpert","TB molecular test",Microbiology,386.86,units,Normal,2022-03-22
+436,197,Echocardiogram,"Cardiac ultrasound",Cardiology,307.48,units,Abnormal,2023-08-16
+437,801,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,36.32,units,Normal,2023-03-13
+438,586,"Prothrombin Time","Coagulation test",Haematology,289.72,units,Normal,2023-11-22
+439,1499,FBS,"Fasting Blood Sugar",Chemistry,325.75,mmol/L,Abnormal,2022-09-13
+440,285,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,353.85,units,Critical,2022-02-28
+441,1075,"CD4 Count","CD4 lymphocyte count",Immunology,4.41,cells/μL,Abnormal,2023-11-03
+442,1291,FBC,"Full Blood Count",Haematology,248.31,cells/μL,Abnormal,2022-01-07
+443,821,Urinalysis,"Urine dipstick",Chemistry,279.74,units,Abnormal,2023-08-03
+444,253,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,329.65,units,Critical,2023-09-19
+445,962,"Chest X-Ray","Radiological investigation",Radiology,99.71,units,Abnormal,2023-04-13
+446,602,"Chest X-Ray","Radiological investigation",Radiology,252.78,units,Critical,2023-03-01
+447,769,LFTs,"Liver Function Tests",Chemistry,384.58,units,Normal,2023-07-14
+448,1513,FBC,"Full Blood Count",Haematology,406.12,cells/μL,Critical,2023-01-03
+449,656,FBS,"Fasting Blood Sugar",Chemistry,305.83,mmol/L,Abnormal,2023-07-20
+450,1193,"Widal Test","Typhoid serology",Microbiology,370.18,units,Abnormal,2022-06-25
+451,30,RFTs,"Renal Function Tests",Chemistry,450.21,units,Critical,2022-12-07
+452,276,"HIV Rapid Test","HIV antibody test",Serology,51.31,units,Normal,2023-12-26
+453,794,RBS,"Random Blood Sugar",Chemistry,371.51,mmol/L,Critical,2022-03-10
+454,266,"CD4 Count","CD4 lymphocyte count",Immunology,147.78,cells/μL,Critical,2023-02-28
+455,1508,"Lipid Profile","Cholesterol and triglycerides",Chemistry,330.06,mmol/L,Abnormal,2022-04-23
+456,914,Urinalysis,"Urine dipstick",Chemistry,352.30,units,Normal,2022-01-27
+457,795,"Troponin I","Cardiac biomarker",Chemistry,205.95,ng/mL,Abnormal,2022-12-17
+458,174,HbA1c,"Glycated Haemoglobin",Chemistry,336.59,%,Abnormal,2022-08-23
+459,1627,"Chest X-Ray","Radiological investigation",Radiology,378.40,units,Critical,2023-09-12
+460,1372,FBC,"Full Blood Count",Haematology,471.45,cells/μL,Abnormal,2022-02-01
+461,1475,"Widal Test","Typhoid serology",Microbiology,33.38,units,Normal,2023-05-24
+462,281,LFTs,"Liver Function Tests",Chemistry,71.19,units,Abnormal,2022-05-18
+463,1107,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,433.22,units,Abnormal,2023-05-30
+464,818,"Sputum GeneXpert","TB molecular test",Microbiology,434.32,units,Normal,2023-12-28
+465,892,"Lipid Profile","Cholesterol and triglycerides",Chemistry,441.88,mmol/L,Critical,2022-06-26
+466,17,"Lipid Profile","Cholesterol and triglycerides",Chemistry,317.02,mmol/L,Critical,2022-04-25
+467,1636,LFTs,"Liver Function Tests",Chemistry,258.46,units,Abnormal,2022-03-06
+468,632,Echocardiogram,"Cardiac ultrasound",Cardiology,408.19,units,Critical,2023-08-07
+469,1223,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,177.30,units,Abnormal,2023-11-22
+470,1561,"Sputum GeneXpert","TB molecular test",Microbiology,371.12,units,Critical,2022-11-24
+471,262,LFTs,"Liver Function Tests",Chemistry,477.15,units,Normal,2022-03-14
+472,554,RFTs,"Renal Function Tests",Chemistry,221.18,units,Abnormal,2023-08-19
+473,820,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,122.84,units,Abnormal,2022-08-11
+474,1124,FBS,"Fasting Blood Sugar",Chemistry,44.75,mmol/L,Critical,2022-07-30
+475,1218,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,495.28,units,Normal,2022-01-17
+476,1293,Creatinine,"Renal biomarker",Chemistry,252.43,μmol/L,Normal,2022-09-04
+477,846,RBS,"Random Blood Sugar",Chemistry,408.39,mmol/L,Critical,2022-12-09
+478,1610,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,444.42,mL/min/1.73m²,Critical,2022-01-27
+479,95,FBC,"Full Blood Count",Haematology,118.20,cells/μL,Critical,2022-04-08
+480,256,Echocardiogram,"Cardiac ultrasound",Cardiology,400.78,units,Normal,2023-12-23
+481,811,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,149.62,units,Abnormal,2022-04-05
+482,757,"Prothrombin Time","Coagulation test",Haematology,19.68,units,Normal,2022-05-13
+483,776,FBS,"Fasting Blood Sugar",Chemistry,250.90,mmol/L,Abnormal,2022-03-19
+484,323,"Thyroid Function Tests",TSH/T3/T4,Chemistry,127.16,units,Critical,2022-03-31
+485,1020,"Sputum GeneXpert","TB molecular test",Microbiology,23.73,units,Critical,2022-09-26
+486,1006,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,32.28,units,Critical,2023-07-18
+487,1642,ECG,Electrocardiogram,Cardiology,266.95,units,Critical,2023-10-10
+488,1366,"Lipid Profile","Cholesterol and triglycerides",Chemistry,92.67,mmol/L,Normal,2022-10-16
+489,324,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,303.68,mL/min/1.73m²,Abnormal,2022-01-12
+490,129,"Lipid Profile","Cholesterol and triglycerides",Chemistry,332.71,mmol/L,Normal,2022-10-14
+491,746,"Lipid Profile","Cholesterol and triglycerides",Chemistry,322.47,mmol/L,Critical,2023-05-23
+492,1019,"Widal Test","Typhoid serology",Microbiology,107.31,units,Normal,2022-11-11
+493,271,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,65.72,units,Normal,2023-02-26
+494,423,"CD4 Count","CD4 lymphocyte count",Immunology,34.11,cells/μL,Normal,2022-01-22
+495,178,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,421.88,units,Normal,2022-03-09
+496,1603,FBC,"Full Blood Count",Haematology,314.87,cells/μL,Normal,2022-07-24
+497,661,HbA1c,"Glycated Haemoglobin",Chemistry,117.97,%,Abnormal,2022-12-08
+498,304,Urinalysis,"Urine dipstick",Chemistry,228.15,units,Abnormal,2022-05-17
+499,561,RBS,"Random Blood Sugar",Chemistry,360.66,mmol/L,Normal,2023-12-03
+500,368,"Prothrombin Time","Coagulation test",Haematology,64.82,units,Normal,2023-09-04
+501,416,"CD4 Count","CD4 lymphocyte count",Immunology,212.21,cells/μL,Critical,2023-04-21
+502,697,LFTs,"Liver Function Tests",Chemistry,328.81,units,Abnormal,2023-01-22
+503,311,FBS,"Fasting Blood Sugar",Chemistry,355.68,mmol/L,Critical,2023-07-27
+504,700,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,277.60,mL/min/1.73m²,Critical,2023-07-22
+505,1341,"Sputum GeneXpert","TB molecular test",Microbiology,246.06,units,Abnormal,2023-03-25
+506,70,"CD4 Count","CD4 lymphocyte count",Immunology,432.52,cells/μL,Normal,2023-05-28
+507,1747,ECG,Electrocardiogram,Cardiology,232.89,units,Normal,2022-05-12
+508,1693,"Lipid Profile","Cholesterol and triglycerides",Chemistry,303.63,mmol/L,Normal,2023-06-30
+509,658,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,112.38,mL/min/1.73m²,Abnormal,2023-10-21
+510,1071,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,400.14,units,Normal,2022-10-12
+511,1269,Echocardiogram,"Cardiac ultrasound",Cardiology,238.80,units,Normal,2022-10-09
+512,633,"CD4 Count","CD4 lymphocyte count",Immunology,59.34,cells/μL,Abnormal,2022-11-23
+513,1514,"HIV Rapid Test","HIV antibody test",Serology,369.89,units,Abnormal,2023-06-07
+514,1296,FBS,"Fasting Blood Sugar",Chemistry,322.96,mmol/L,Abnormal,2022-08-17
+515,1786,"Widal Test","Typhoid serology",Microbiology,57.62,units,Critical,2023-12-04
+516,927,FBC,"Full Blood Count",Haematology,249.82,cells/μL,Critical,2023-11-05
+517,369,"Chest X-Ray","Radiological investigation",Radiology,389.65,units,Critical,2023-11-25
+518,222,RBS,"Random Blood Sugar",Chemistry,124.74,mmol/L,Critical,2022-04-20
+519,742,"CD4 Count","CD4 lymphocyte count",Immunology,438.31,cells/μL,Abnormal,2023-06-07
+520,116,"HIV Rapid Test","HIV antibody test",Serology,310.29,units,Critical,2022-04-19
+521,696,Creatinine,"Renal biomarker",Chemistry,319.14,μmol/L,Normal,2023-11-09
+522,308,"Chest X-Ray","Radiological investigation",Radiology,360.43,units,Normal,2023-01-06
+523,1335,"Widal Test","Typhoid serology",Microbiology,413.79,units,Critical,2022-07-15
+524,738,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,292.18,units,Abnormal,2022-03-25
+525,467,"Prothrombin Time","Coagulation test",Haematology,282.21,units,Abnormal,2022-02-01
+526,1754,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,114.72,units,Abnormal,2023-03-07
+527,408,"Sputum GeneXpert","TB molecular test",Microbiology,5.21,units,Normal,2023-04-25
+528,180,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,38.28,units,Abnormal,2022-07-21
+529,386,"Sputum GeneXpert","TB molecular test",Microbiology,279.90,units,Abnormal,2022-07-10
+530,244,RBS,"Random Blood Sugar",Chemistry,343.70,mmol/L,Abnormal,2023-01-03
+531,1055,"Prothrombin Time","Coagulation test",Haematology,324.79,units,Critical,2022-12-11
+532,558,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,337.21,units,Abnormal,2022-10-17
+533,761,RBS,"Random Blood Sugar",Chemistry,225.64,mmol/L,Critical,2023-12-27
+534,1441,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,339.09,mL/min/1.73m²,Abnormal,2023-04-25
+535,35,"Thyroid Function Tests",TSH/T3/T4,Chemistry,483.88,units,Critical,2023-07-05
+536,675,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,463.64,mL/min/1.73m²,Normal,2023-10-22
+537,1255,"Thyroid Function Tests",TSH/T3/T4,Chemistry,448.85,units,Normal,2022-04-19
+538,1598,RBS,"Random Blood Sugar",Chemistry,370.39,mmol/L,Abnormal,2022-05-24
+539,1556,"Prothrombin Time","Coagulation test",Haematology,333.38,units,Abnormal,2022-01-23
+540,306,"Troponin I","Cardiac biomarker",Chemistry,155.87,ng/mL,Normal,2022-05-08
+541,497,RFTs,"Renal Function Tests",Chemistry,148.23,units,Normal,2023-12-06
+542,307,"Sputum GeneXpert","TB molecular test",Microbiology,184.16,units,Abnormal,2023-07-05
+543,260,"Thyroid Function Tests",TSH/T3/T4,Chemistry,8.80,units,Abnormal,2022-04-08
+544,254,FBC,"Full Blood Count",Haematology,476.33,cells/μL,Abnormal,2023-07-20
+545,14,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,205.02,units,Normal,2023-06-19
+546,1371,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,129.30,units,Abnormal,2022-06-02
+547,175,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,63.92,units,Abnormal,2022-11-04
+548,301,ECG,Electrocardiogram,Cardiology,30.59,units,Abnormal,2023-07-31
+549,1186,Creatinine,"Renal biomarker",Chemistry,207.80,μmol/L,Normal,2022-04-28
+550,555,FBC,"Full Blood Count",Haematology,489.85,cells/μL,Critical,2023-04-20
+551,1398,"Sputum GeneXpert","TB molecular test",Microbiology,389.52,units,Normal,2022-09-06
+552,464,RFTs,"Renal Function Tests",Chemistry,163.82,units,Normal,2023-12-11
+553,224,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,330.15,units,Normal,2022-01-30
+554,568,"Sputum GeneXpert","TB molecular test",Microbiology,122.89,units,Abnormal,2023-01-21
+555,154,"Prothrombin Time","Coagulation test",Haematology,212.15,units,Critical,2023-08-03
+556,576,"Troponin I","Cardiac biomarker",Chemistry,437.56,ng/mL,Critical,2022-09-20
+557,1596,"Troponin I","Cardiac biomarker",Chemistry,405.83,ng/mL,Critical,2022-03-03
+558,1103,"Lipid Profile","Cholesterol and triglycerides",Chemistry,319.90,mmol/L,Normal,2022-09-25
+559,995,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,257.20,units,Normal,2023-04-21
+560,1049,"Sputum GeneXpert","TB molecular test",Microbiology,312.54,units,Critical,2023-05-28
+561,1621,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,287.13,mL/min/1.73m²,Abnormal,2023-02-18
+562,1572,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,81.26,mL/min/1.73m²,Abnormal,2022-01-23
+563,404,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,427.68,units,Normal,2022-04-18
+564,1654,"Prothrombin Time","Coagulation test",Haematology,96.63,units,Normal,2023-06-08
+565,1665,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,384.13,units,Abnormal,2022-09-08
+566,1794,LFTs,"Liver Function Tests",Chemistry,124.48,units,Abnormal,2023-01-01
+567,1115,"Thyroid Function Tests",TSH/T3/T4,Chemistry,190.10,units,Abnormal,2022-04-10
+568,310,Echocardiogram,"Cardiac ultrasound",Cardiology,393.78,units,Normal,2023-04-20
+569,623,"CD4 Count","CD4 lymphocyte count",Immunology,297.74,cells/μL,Abnormal,2022-02-28
+570,1756,FBC,"Full Blood Count",Haematology,123.62,cells/μL,Normal,2023-04-17
+571,305,"Widal Test","Typhoid serology",Microbiology,99.71,units,Normal,2022-12-29
+572,198,"Chest X-Ray","Radiological investigation",Radiology,403.23,units,Abnormal,2022-10-31
+573,1491,FBC,"Full Blood Count",Haematology,486.28,cells/μL,Critical,2022-12-05
+574,1748,"Lipid Profile","Cholesterol and triglycerides",Chemistry,190.59,mmol/L,Abnormal,2022-04-04
+575,1088,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,336.21,units,Normal,2022-05-07
+576,302,FBS,"Fasting Blood Sugar",Chemistry,410.99,mmol/L,Abnormal,2022-04-22
+577,468,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,34.16,units,Critical,2022-01-28
+578,1651,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,69.62,units,Abnormal,2022-01-12
+579,1459,ECG,Electrocardiogram,Cardiology,52.13,units,Critical,2023-02-16
+580,1008,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,291.95,units,Normal,2022-02-03
+581,1159,"CD4 Count","CD4 lymphocyte count",Immunology,435.70,cells/μL,Normal,2022-03-19
+582,1059,"Prothrombin Time","Coagulation test",Haematology,155.34,units,Normal,2023-10-25
+583,166,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,392.30,units,Abnormal,2023-11-01
+584,1029,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,374.38,units,Abnormal,2022-07-24
+585,1248,Creatinine,"Renal biomarker",Chemistry,133.49,μmol/L,Normal,2022-11-20
+586,32,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,60.84,units,Abnormal,2022-04-22
+587,1445,"Prothrombin Time","Coagulation test",Haematology,157.02,units,Critical,2023-08-08
+588,1161,"Thyroid Function Tests",TSH/T3/T4,Chemistry,305.94,units,Abnormal,2022-05-26
+589,785,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,396.26,units,Normal,2023-07-01
+590,1493,"Widal Test","Typhoid serology",Microbiology,425.66,units,Abnormal,2022-11-19
+591,637,"Lipid Profile","Cholesterol and triglycerides",Chemistry,219.86,mmol/L,Abnormal,2023-07-03
+592,1599,LFTs,"Liver Function Tests",Chemistry,201.34,units,Normal,2023-10-19
+593,837,"Troponin I","Cardiac biomarker",Chemistry,185.00,ng/mL,Critical,2022-04-20
+594,1683,"Widal Test","Typhoid serology",Microbiology,425.91,units,Critical,2023-11-04
+595,949,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,483.78,units,Normal,2022-07-16
+596,1064,LFTs,"Liver Function Tests",Chemistry,98.23,units,Critical,2023-01-15
+597,1336,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,115.76,mL/min/1.73m²,Abnormal,2023-06-08
+598,1222,RBS,"Random Blood Sugar",Chemistry,347.14,mmol/L,Critical,2023-10-06
+599,1420,"HIV Rapid Test","HIV antibody test",Serology,438.07,units,Normal,2023-06-05
+600,741,Echocardiogram,"Cardiac ultrasound",Cardiology,16.10,units,Normal,2023-05-23
+601,1033,"HIV Rapid Test","HIV antibody test",Serology,23.74,units,Abnormal,2023-11-13
+602,970,Echocardiogram,"Cardiac ultrasound",Cardiology,44.93,units,Critical,2023-10-08
+603,925,"Sputum GeneXpert","TB molecular test",Microbiology,404.34,units,Abnormal,2022-09-23
+604,579,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,456.12,units,Abnormal,2022-07-05
+605,711,"Widal Test","Typhoid serology",Microbiology,352.17,units,Abnormal,2023-05-20
+606,1330,ECG,Electrocardiogram,Cardiology,241.73,units,Abnormal,2022-10-08
+607,855,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,195.87,mL/min/1.73m²,Critical,2022-09-09
+608,1568,RBS,"Random Blood Sugar",Chemistry,153.75,mmol/L,Abnormal,2022-02-24
+609,616,RBS,"Random Blood Sugar",Chemistry,217.95,mmol/L,Abnormal,2023-08-05
+610,1410,Creatinine,"Renal biomarker",Chemistry,437.02,μmol/L,Normal,2023-02-04
+611,1359,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,273.62,units,Normal,2023-11-19
+612,1092,"Sputum GeneXpert","TB molecular test",Microbiology,182.71,units,Abnormal,2022-08-01
+613,295,ECG,Electrocardiogram,Cardiology,231.86,units,Normal,2023-07-30
+614,1506,"CD4 Count","CD4 lymphocyte count",Immunology,451.70,cells/μL,Abnormal,2023-10-31
+615,1012,"Chest X-Ray","Radiological investigation",Radiology,11.33,units,Normal,2022-05-24
+616,1261,HbA1c,"Glycated Haemoglobin",Chemistry,12.05,%,Abnormal,2022-01-25
+617,645,"Sputum GeneXpert","TB molecular test",Microbiology,79.42,units,Abnormal,2022-09-17
+618,1422,"CD4 Count","CD4 lymphocyte count",Immunology,365.84,cells/μL,Critical,2023-03-22
+619,606,RBS,"Random Blood Sugar",Chemistry,47.20,mmol/L,Abnormal,2022-03-03
+620,381,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,417.10,mL/min/1.73m²,Critical,2022-08-16
+621,263,LFTs,"Liver Function Tests",Chemistry,421.36,units,Critical,2022-09-16
+622,660,"Sputum GeneXpert","TB molecular test",Microbiology,16.51,units,Critical,2022-05-27
+623,415,"Chest X-Ray","Radiological investigation",Radiology,476.15,units,Abnormal,2023-11-16
+624,670,HbA1c,"Glycated Haemoglobin",Chemistry,353.62,%,Abnormal,2022-07-26
+625,240,HbA1c,"Glycated Haemoglobin",Chemistry,343.13,%,Normal,2022-08-11
+626,139,LFTs,"Liver Function Tests",Chemistry,186.49,units,Critical,2022-08-25
+627,955,Urinalysis,"Urine dipstick",Chemistry,340.52,units,Critical,2023-08-22
+628,1079,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,124.02,units,Critical,2023-09-04
+629,1450,Echocardiogram,"Cardiac ultrasound",Cardiology,467.28,units,Abnormal,2022-10-01
+630,1771,LFTs,"Liver Function Tests",Chemistry,230.50,units,Critical,2023-01-02
+631,1134,LFTs,"Liver Function Tests",Chemistry,343.15,units,Normal,2023-03-14
+632,52,FBS,"Fasting Blood Sugar",Chemistry,393.39,mmol/L,Abnormal,2023-08-29
+633,679,"Widal Test","Typhoid serology",Microbiology,285.38,units,Critical,2022-09-26
+634,1512,"HIV Rapid Test","HIV antibody test",Serology,463.30,units,Abnormal,2023-09-12
+635,512,"Thyroid Function Tests",TSH/T3/T4,Chemistry,374.48,units,Abnormal,2023-12-30
+636,516,"Troponin I","Cardiac biomarker",Chemistry,177.67,ng/mL,Abnormal,2023-06-04
+637,1628,HbA1c,"Glycated Haemoglobin",Chemistry,87.48,%,Critical,2022-07-17
+638,1595,Urinalysis,"Urine dipstick",Chemistry,55.49,units,Critical,2022-10-22
+639,1511,"Prothrombin Time","Coagulation test",Haematology,364.21,units,Critical,2022-05-28
+640,1135,"Sputum GeneXpert","TB molecular test",Microbiology,364.94,units,Critical,2022-08-23
+641,1080,LFTs,"Liver Function Tests",Chemistry,425.15,units,Critical,2022-10-14
+642,1407,FBC,"Full Blood Count",Haematology,81.54,cells/μL,Critical,2022-08-02
+643,1047,"Chest X-Ray","Radiological investigation",Radiology,431.39,units,Normal,2023-05-03
+644,967,"Chest X-Ray","Radiological investigation",Radiology,52.08,units,Abnormal,2022-10-05
+645,326,"Thyroid Function Tests",TSH/T3/T4,Chemistry,16.17,units,Critical,2022-10-11
+646,1552,RBS,"Random Blood Sugar",Chemistry,139.80,mmol/L,Abnormal,2022-12-11
+647,537,"Prothrombin Time","Coagulation test",Haematology,183.92,units,Normal,2022-06-17
+648,1738,Creatinine,"Renal biomarker",Chemistry,189.51,μmol/L,Critical,2022-03-23
+649,813,HbA1c,"Glycated Haemoglobin",Chemistry,482.45,%,Abnormal,2022-01-07
+650,969,LFTs,"Liver Function Tests",Chemistry,353.97,units,Normal,2023-06-29
+651,1745,"Thyroid Function Tests",TSH/T3/T4,Chemistry,301.95,units,Normal,2023-05-04
+652,778,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,146.68,units,Critical,2022-12-13
+653,1522,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,178.90,mL/min/1.73m²,Critical,2022-05-19
+654,1699,"Sputum GeneXpert","TB molecular test",Microbiology,390.14,units,Abnormal,2023-05-18
+655,1663,ECG,Electrocardiogram,Cardiology,397.50,units,Normal,2022-07-31
+656,264,"Troponin I","Cardiac biomarker",Chemistry,105.89,ng/mL,Critical,2022-09-29
+657,1338,"Lipid Profile","Cholesterol and triglycerides",Chemistry,455.42,mmol/L,Normal,2023-10-17
+658,1404,"Sputum GeneXpert","TB molecular test",Microbiology,97.57,units,Normal,2023-03-28
+659,1362,Echocardiogram,"Cardiac ultrasound",Cardiology,481.73,units,Critical,2023-03-05
+660,613,Urinalysis,"Urine dipstick",Chemistry,289.66,units,Normal,2022-12-19
+661,1292,HbA1c,"Glycated Haemoglobin",Chemistry,21.49,%,Normal,2023-01-24
+662,1026,FBC,"Full Blood Count",Haematology,245.37,cells/μL,Normal,2022-03-11
+663,915,"Widal Test","Typhoid serology",Microbiology,97.66,units,Critical,2023-10-04
+664,162,"Widal Test","Typhoid serology",Microbiology,476.93,units,Critical,2023-06-19
+665,265,"Chest X-Ray","Radiological investigation",Radiology,478.25,units,Critical,2023-11-14
+666,114,"Chest X-Ray","Radiological investigation",Radiology,485.65,units,Abnormal,2022-08-10
+667,968,ECG,Electrocardiogram,Cardiology,35.07,units,Abnormal,2023-05-03
+668,1712,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,56.59,units,Normal,2022-12-31
+669,1584,RFTs,"Renal Function Tests",Chemistry,3.15,units,Critical,2023-07-27
+670,148,"Lipid Profile","Cholesterol and triglycerides",Chemistry,33.68,mmol/L,Abnormal,2022-08-16
+671,1690,FBC,"Full Blood Count",Haematology,332.97,cells/μL,Critical,2023-01-06
+672,1791,RBS,"Random Blood Sugar",Chemistry,238.68,mmol/L,Normal,2022-08-27
+673,1277,"Sputum GeneXpert","TB molecular test",Microbiology,225.20,units,Normal,2022-04-18
+674,1334,LFTs,"Liver Function Tests",Chemistry,306.54,units,Normal,2022-10-09
+675,211,FBS,"Fasting Blood Sugar",Chemistry,371.30,mmol/L,Critical,2022-12-15
+676,1390,RBS,"Random Blood Sugar",Chemistry,446.97,mmol/L,Normal,2023-12-02
+677,280,"Thyroid Function Tests",TSH/T3/T4,Chemistry,227.48,units,Abnormal,2023-09-14
+678,812,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,414.90,units,Critical,2022-01-28
+679,1180,Echocardiogram,"Cardiac ultrasound",Cardiology,75.54,units,Critical,2022-01-19
+680,196,FBC,"Full Blood Count",Haematology,304.14,cells/μL,Abnormal,2022-06-04
+681,71,RFTs,"Renal Function Tests",Chemistry,14.73,units,Critical,2023-10-06
+682,985,ECG,Electrocardiogram,Cardiology,43.61,units,Normal,2022-05-05
+683,1182,Echocardiogram,"Cardiac ultrasound",Cardiology,292.59,units,Abnormal,2022-12-22
+684,169,RFTs,"Renal Function Tests",Chemistry,123.41,units,Critical,2023-12-18
+685,527,"HIV Rapid Test","HIV antibody test",Serology,285.55,units,Normal,2022-05-15
+686,1429,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,105.64,units,Abnormal,2023-09-28
+687,1585,"Troponin I","Cardiac biomarker",Chemistry,258.53,ng/mL,Abnormal,2022-12-26
+688,8,HbA1c,"Glycated Haemoglobin",Chemistry,230.66,%,Abnormal,2023-09-28
+689,250,FBC,"Full Blood Count",Haematology,99.65,cells/μL,Normal,2022-01-15
+690,1622,Creatinine,"Renal biomarker",Chemistry,263.36,μmol/L,Normal,2023-03-21
+691,1389,FBC,"Full Blood Count",Haematology,443.11,cells/μL,Abnormal,2022-03-10
+692,1730,"Sputum GeneXpert","TB molecular test",Microbiology,168.77,units,Normal,2022-10-14
+693,569,HbA1c,"Glycated Haemoglobin",Chemistry,473.46,%,Normal,2022-02-18
+694,587,"Sputum GeneXpert","TB molecular test",Microbiology,257.11,units,Critical,2023-03-10
+695,1767,ECG,Electrocardiogram,Cardiology,325.16,units,Critical,2023-12-19
+696,292,ECG,Electrocardiogram,Cardiology,162.95,units,Critical,2023-07-09
+697,783,"HIV Rapid Test","HIV antibody test",Serology,474.80,units,Normal,2023-08-25
+698,627,"HIV Rapid Test","HIV antibody test",Serology,287.95,units,Normal,2022-11-07
+699,1426,"HIV Rapid Test","HIV antibody test",Serology,22.50,units,Critical,2023-03-25
+700,945,RFTs,"Renal Function Tests",Chemistry,450.73,units,Abnormal,2023-02-27
+701,639,"Troponin I","Cardiac biomarker",Chemistry,146.34,ng/mL,Abnormal,2022-05-12
+702,556,"Sputum GeneXpert","TB molecular test",Microbiology,89.81,units,Abnormal,2022-12-14
+703,420,HbA1c,"Glycated Haemoglobin",Chemistry,270.55,%,Normal,2022-10-22
+704,438,"Thyroid Function Tests",TSH/T3/T4,Chemistry,68.03,units,Abnormal,2022-08-20
+705,142,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,277.17,units,Critical,2022-11-28
+706,981,RBS,"Random Blood Sugar",Chemistry,341.31,mmol/L,Critical,2022-09-23
+707,199,"Chest X-Ray","Radiological investigation",Radiology,73.97,units,Abnormal,2023-01-31
+708,1707,"Widal Test","Typhoid serology",Microbiology,331.54,units,Abnormal,2023-09-12
+709,743,"Lipid Profile","Cholesterol and triglycerides",Chemistry,429.30,mmol/L,Abnormal,2022-04-20
+710,465,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,392.27,units,Critical,2023-01-22
+711,466,"Sputum GeneXpert","TB molecular test",Microbiology,128.95,units,Normal,2023-03-29
+712,498,Creatinine,"Renal biomarker",Chemistry,447.31,μmol/L,Critical,2023-11-20
+713,567,"Thyroid Function Tests",TSH/T3/T4,Chemistry,210.31,units,Critical,2023-12-15
+714,924,"CD4 Count","CD4 lymphocyte count",Immunology,266.92,cells/μL,Abnormal,2022-10-05
+715,338,"Troponin I","Cardiac biomarker",Chemistry,38.61,ng/mL,Normal,2022-02-25
+716,1411,"Chest X-Ray","Radiological investigation",Radiology,323.17,units,Abnormal,2023-04-14
+717,958,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,76.47,units,Abnormal,2022-10-24
+718,59,FBS,"Fasting Blood Sugar",Chemistry,252.50,mmol/L,Critical,2022-08-30
+719,189,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,289.95,units,Critical,2023-09-18
+720,1472,"HIV Rapid Test","HIV antibody test",Serology,109.10,units,Abnormal,2022-02-23
+721,94,FBS,"Fasting Blood Sugar",Chemistry,483.54,mmol/L,Abnormal,2023-08-12
+722,422,"Lipid Profile","Cholesterol and triglycerides",Chemistry,439.53,mmol/L,Normal,2023-03-18
+723,1696,Urinalysis,"Urine dipstick",Chemistry,133.72,units,Critical,2023-11-18
+724,1249,"Troponin I","Cardiac biomarker",Chemistry,261.25,ng/mL,Normal,2022-09-22
+725,604,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,493.30,units,Abnormal,2023-07-14
+726,618,FBC,"Full Blood Count",Haematology,135.93,cells/μL,Normal,2022-10-27
+727,1017,RBS,"Random Blood Sugar",Chemistry,241.75,mmol/L,Critical,2022-07-25
+728,747,"Chest X-Ray","Radiological investigation",Radiology,172.94,units,Critical,2023-04-03
+729,1106,"CD4 Count","CD4 lymphocyte count",Immunology,197.56,cells/μL,Critical,2022-07-02
+730,847,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,450.07,units,Critical,2022-05-23
+731,1658,RBS,"Random Blood Sugar",Chemistry,417.01,mmol/L,Normal,2023-11-16
+732,1038,Urinalysis,"Urine dipstick",Chemistry,80.36,units,Normal,2022-12-17
+733,1332,ECG,Electrocardiogram,Cardiology,59.79,units,Abnormal,2023-02-03
+734,976,ECG,Electrocardiogram,Cardiology,495.12,units,Normal,2022-06-08
+735,1241,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,3.42,units,Critical,2022-12-16
+736,827,"Sputum GeneXpert","TB molecular test",Microbiology,330.21,units,Critical,2022-12-24
+737,110,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,58.45,mL/min/1.73m²,Normal,2022-05-26
+738,268,"Thyroid Function Tests",TSH/T3/T4,Chemistry,153.16,units,Abnormal,2023-02-02
+739,237,"Chest X-Ray","Radiological investigation",Radiology,10.84,units,Critical,2023-07-07
+740,751,Urinalysis,"Urine dipstick",Chemistry,427.18,units,Abnormal,2023-05-18
+741,1781,Creatinine,"Renal biomarker",Chemistry,107.22,μmol/L,Critical,2023-09-13
+742,1023,RBS,"Random Blood Sugar",Chemistry,349.19,mmol/L,Normal,2022-02-01
+743,1447,"Lipid Profile","Cholesterol and triglycerides",Chemistry,451.04,mmol/L,Abnormal,2022-03-16
+744,446,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,411.09,units,Abnormal,2022-12-13
+745,935,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,95.34,units,Critical,2023-06-12
+746,896,"HIV Rapid Test","HIV antibody test",Serology,217.41,units,Critical,2022-10-01
+747,450,"Troponin I","Cardiac biomarker",Chemistry,445.12,ng/mL,Critical,2023-03-31
+748,1195,Urinalysis,"Urine dipstick",Chemistry,401.55,units,Normal,2023-05-26
+749,1606,RBS,"Random Blood Sugar",Chemistry,213.67,mmol/L,Normal,2023-05-26
+750,1262,"Widal Test","Typhoid serology",Microbiology,469.38,units,Normal,2022-10-12
+751,1231,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,124.51,units,Abnormal,2022-02-02
+752,432,RBS,"Random Blood Sugar",Chemistry,392.18,mmol/L,Critical,2023-08-29
+753,440,FBS,"Fasting Blood Sugar",Chemistry,365.06,mmol/L,Critical,2023-05-15
+754,241,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,445.98,units,Abnormal,2022-07-21
+755,329,"Chest X-Ray","Radiological investigation",Radiology,280.35,units,Normal,2023-11-08
+756,1678,Urinalysis,"Urine dipstick",Chemistry,318.83,units,Abnormal,2022-09-02
+757,1726,Echocardiogram,"Cardiac ultrasound",Cardiology,455.30,units,Abnormal,2023-03-24
+758,470,RFTs,"Renal Function Tests",Chemistry,437.62,units,Abnormal,2023-05-05
+759,659,"Thyroid Function Tests",TSH/T3/T4,Chemistry,245.41,units,Abnormal,2022-01-07
+760,541,Urinalysis,"Urine dipstick",Chemistry,163.19,units,Abnormal,2023-05-29
+761,1400,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,215.11,units,Critical,2022-06-02
+762,900,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,380.40,units,Critical,2023-05-27
+763,29,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,34.47,units,Normal,2023-05-16
+764,594,Echocardiogram,"Cardiac ultrasound",Cardiology,181.41,units,Normal,2023-10-05
+765,923,FBS,"Fasting Blood Sugar",Chemistry,126.10,mmol/L,Critical,2023-09-11
+766,424,Echocardiogram,"Cardiac ultrasound",Cardiology,250.78,units,Normal,2023-03-05
+767,1158,"Lipid Profile","Cholesterol and triglycerides",Chemistry,354.69,mmol/L,Critical,2023-08-09
+768,640,RFTs,"Renal Function Tests",Chemistry,42.00,units,Normal,2022-05-20
+769,448,"Lipid Profile","Cholesterol and triglycerides",Chemistry,357.16,mmol/L,Critical,2023-08-23
+770,1123,Echocardiogram,"Cardiac ultrasound",Cardiology,448.63,units,Normal,2022-05-06
+771,1206,"HIV Rapid Test","HIV antibody test",Serology,282.03,units,Normal,2022-01-15
+772,635,"Sputum GeneXpert","TB molecular test",Microbiology,349.64,units,Normal,2022-08-05
+773,1736,LFTs,"Liver Function Tests",Chemistry,331.25,units,Normal,2022-10-24
+774,966,"Thyroid Function Tests",TSH/T3/T4,Chemistry,137.28,units,Critical,2022-09-22
+775,1074,"CD4 Count","CD4 lymphocyte count",Immunology,210.53,cells/μL,Abnormal,2022-03-14
+776,524,"CD4 Count","CD4 lymphocyte count",Immunology,415.19,cells/μL,Critical,2022-09-30
+777,1256,HbA1c,"Glycated Haemoglobin",Chemistry,367.31,%,Abnormal,2023-10-28
+778,1263,"Thyroid Function Tests",TSH/T3/T4,Chemistry,190.56,units,Normal,2022-10-31
+779,19,"HIV Rapid Test","HIV antibody test",Serology,209.43,units,Critical,2022-08-25
+780,227,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,43.17,mL/min/1.73m²,Normal,2023-02-16
+781,413,"Prothrombin Time","Coagulation test",Haematology,409.58,units,Abnormal,2023-01-15
+782,395,"Sputum GeneXpert","TB molecular test",Microbiology,326.80,units,Abnormal,2023-11-15
+783,421,"Sputum GeneXpert","TB molecular test",Microbiology,376.17,units,Abnormal,2023-01-17
+784,881,ECG,Electrocardiogram,Cardiology,360.07,units,Abnormal,2023-02-15
+785,1052,"Widal Test","Typhoid serology",Microbiology,240.85,units,Abnormal,2022-02-17
+786,781,Creatinine,"Renal biomarker",Chemistry,177.04,μmol/L,Normal,2023-05-28
+787,362,"Prothrombin Time","Coagulation test",Haematology,368.96,units,Abnormal,2023-10-19
+788,412,LFTs,"Liver Function Tests",Chemistry,293.47,units,Abnormal,2022-12-04
+789,1705,"HIV Rapid Test","HIV antibody test",Serology,463.36,units,Normal,2023-05-18
+790,4,"CD4 Count","CD4 lymphocyte count",Immunology,31.95,cells/μL,Critical,2023-10-01
+791,1640,Creatinine,"Renal biomarker",Chemistry,260.18,μmol/L,Critical,2022-05-18
+792,991,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,279.60,mL/min/1.73m²,Abnormal,2022-05-28
+793,461,"Sputum GeneXpert","TB molecular test",Microbiology,180.94,units,Critical,2022-10-10
+794,387,LFTs,"Liver Function Tests",Chemistry,84.14,units,Abnormal,2022-03-20
+795,986,"Prothrombin Time","Coagulation test",Haematology,350.22,units,Abnormal,2023-12-10
+796,735,RBS,"Random Blood Sugar",Chemistry,207.66,mmol/L,Critical,2022-06-24
+797,143,"Troponin I","Cardiac biomarker",Chemistry,413.61,ng/mL,Abnormal,2023-11-27
+798,1326,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,323.03,units,Abnormal,2023-12-04
+799,876,"Widal Test","Typhoid serology",Microbiology,18.32,units,Abnormal,2023-05-06
+800,563,LFTs,"Liver Function Tests",Chemistry,153.34,units,Abnormal,2022-07-27
+801,1728,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,19.67,mL/min/1.73m²,Normal,2022-03-31
+802,159,"Widal Test","Typhoid serology",Microbiology,124.34,units,Normal,2022-04-02
+803,124,Creatinine,"Renal biomarker",Chemistry,348.45,μmol/L,Critical,2022-09-02
+804,1697,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,410.58,units,Normal,2022-04-22
+805,1612,HbA1c,"Glycated Haemoglobin",Chemistry,400.68,%,Critical,2022-09-27
+806,1744,"Prothrombin Time","Coagulation test",Haematology,11.70,units,Abnormal,2022-09-15
+807,807,Echocardiogram,"Cardiac ultrasound",Cardiology,266.36,units,Abnormal,2023-06-20
+808,704,ECG,Electrocardiogram,Cardiology,160.57,units,Normal,2023-12-15
+809,1304,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,178.38,units,Critical,2023-02-07
+810,552,HbA1c,"Glycated Haemoglobin",Chemistry,172.46,%,Abnormal,2022-07-17
+811,1760,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,304.70,units,Abnormal,2022-12-21
+812,1399,"Sputum GeneXpert","TB molecular test",Microbiology,354.05,units,Critical,2022-08-05
+813,1387,"HIV Rapid Test","HIV antibody test",Serology,37.36,units,Abnormal,2023-08-09
+814,1545,Creatinine,"Renal biomarker",Chemistry,100.66,μmol/L,Critical,2023-04-13
+815,951,"Thyroid Function Tests",TSH/T3/T4,Chemistry,462.79,units,Critical,2022-09-05
+816,1549,"HIV Rapid Test","HIV antibody test",Serology,175.20,units,Abnormal,2023-03-11
+817,1533,"Troponin I","Cardiac biomarker",Chemistry,216.58,ng/mL,Normal,2023-11-04
+818,877,"Lipid Profile","Cholesterol and triglycerides",Chemistry,404.13,mmol/L,Critical,2023-12-31
+819,1165,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,178.35,mL/min/1.73m²,Critical,2023-07-05
+820,1132,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,332.48,units,Normal,2023-04-21
+821,1085,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,267.41,units,Normal,2022-12-01
+822,551,"Prothrombin Time","Coagulation test",Haematology,194.15,units,Normal,2023-12-11
+823,1117,HbA1c,"Glycated Haemoglobin",Chemistry,300.40,%,Critical,2023-08-21
+824,493,HbA1c,"Glycated Haemoglobin",Chemistry,387.68,%,Critical,2023-03-19
+825,1553,LFTs,"Liver Function Tests",Chemistry,132.60,units,Abnormal,2023-09-10
+826,810,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,317.28,units,Abnormal,2023-12-22
+827,1613,RFTs,"Renal Function Tests",Chemistry,296.36,units,Abnormal,2023-12-02
+828,1632,Creatinine,"Renal biomarker",Chemistry,142.69,μmol/L,Abnormal,2023-06-22
+829,1686,"CD4 Count","CD4 lymphocyte count",Immunology,418.42,cells/μL,Abnormal,2023-08-28
+830,137,"Sputum GeneXpert","TB molecular test",Microbiology,96.43,units,Abnormal,2023-08-02
+831,1351,Urinalysis,"Urine dipstick",Chemistry,419.39,units,Normal,2022-04-03
+832,974,FBC,"Full Blood Count",Haematology,66.43,cells/μL,Abnormal,2022-03-20
+833,726,"Troponin I","Cardiac biomarker",Chemistry,379.74,ng/mL,Critical,2023-09-28
+834,975,"HIV Rapid Test","HIV antibody test",Serology,428.17,units,Critical,2023-11-24
+835,1473,LFTs,"Liver Function Tests",Chemistry,418.51,units,Normal,2023-07-07
+836,1746,"Prothrombin Time","Coagulation test",Haematology,227.64,units,Normal,2022-05-12
+837,1126,HbA1c,"Glycated Haemoglobin",Chemistry,388.15,%,Abnormal,2023-10-15
+838,203,FBS,"Fasting Blood Sugar",Chemistry,286.49,mmol/L,Critical,2022-10-08
+839,1713,"CD4 Count","CD4 lymphocyte count",Immunology,365.77,cells/μL,Abnormal,2022-06-25
+840,12,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,407.94,units,Critical,2022-10-05
+841,929,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,344.63,units,Normal,2022-02-06
+842,1509,HbA1c,"Glycated Haemoglobin",Chemistry,195.95,%,Abnormal,2023-02-22
+843,740,"Lipid Profile","Cholesterol and triglycerides",Chemistry,316.45,mmol/L,Normal,2023-09-09
+844,798,"Lipid Profile","Cholesterol and triglycerides",Chemistry,492.72,mmol/L,Abnormal,2022-02-07
+845,1284,Echocardiogram,"Cardiac ultrasound",Cardiology,78.67,units,Normal,2022-05-15
+846,1626,"Chest X-Ray","Radiological investigation",Radiology,64.99,units,Normal,2023-11-21
+847,601,Creatinine,"Renal biomarker",Chemistry,46.58,μmol/L,Abnormal,2022-01-15
+848,859,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,27.77,units,Abnormal,2022-11-18
+849,442,"HIV Rapid Test","HIV antibody test",Serology,472.26,units,Critical,2023-06-24
+850,584,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,33.71,units,Abnormal,2022-06-13
+851,171,RBS,"Random Blood Sugar",Chemistry,71.43,mmol/L,Abnormal,2023-06-26
+852,1168,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,95.62,units,Abnormal,2022-02-20
+853,779,ECG,Electrocardiogram,Cardiology,140.73,units,Normal,2023-09-07
+854,38,"Lipid Profile","Cholesterol and triglycerides",Chemistry,369.01,mmol/L,Normal,2022-07-08
+855,922,Echocardiogram,"Cardiac ultrasound",Cardiology,28.00,units,Critical,2023-10-18
+856,1013,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,304.44,mL/min/1.73m²,Abnormal,2022-01-26
+857,411,LFTs,"Liver Function Tests",Chemistry,133.23,units,Normal,2022-11-06
+858,1774,"Lipid Profile","Cholesterol and triglycerides",Chemistry,43.93,mmol/L,Critical,2022-01-13
+859,407,"Sputum GeneXpert","TB molecular test",Microbiology,242.62,units,Critical,2023-07-25
+860,34,RFTs,"Renal Function Tests",Chemistry,118.57,units,Abnormal,2023-12-21
+861,909,"Thyroid Function Tests",TSH/T3/T4,Chemistry,121.52,units,Normal,2023-05-16
+862,1327,ECG,Electrocardiogram,Cardiology,315.17,units,Normal,2023-05-17
+863,557,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,177.94,units,Abnormal,2023-03-28
+864,361,"Chest X-Ray","Radiological investigation",Radiology,33.37,units,Normal,2023-03-31
+865,1637,"CD4 Count","CD4 lymphocyte count",Immunology,238.43,cells/μL,Normal,2022-12-12
+866,97,"HIV Rapid Test","HIV antibody test",Serology,155.68,units,Normal,2022-10-23
+867,187,"Sputum GeneXpert","TB molecular test",Microbiology,468.87,units,Normal,2023-02-03
+868,1591,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,214.57,units,Abnormal,2023-12-01
+869,259,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,290.47,units,Critical,2022-05-11
+870,1717,"Troponin I","Cardiac biomarker",Chemistry,133.86,ng/mL,Abnormal,2023-12-26
+871,1702,RBS,"Random Blood Sugar",Chemistry,416.30,mmol/L,Normal,2022-12-21
+872,964,RBS,"Random Blood Sugar",Chemistry,466.93,mmol/L,Normal,2022-08-01
+873,349,"Widal Test","Typhoid serology",Microbiology,415.42,units,Normal,2023-10-14
+874,534,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,285.13,units,Abnormal,2022-06-11
+875,1776,ECG,Electrocardiogram,Cardiology,309.75,units,Critical,2023-07-07
+876,745,"Troponin I","Cardiac biomarker",Chemistry,322.37,ng/mL,Abnormal,2023-06-01
+877,284,RFTs,"Renal Function Tests",Chemistry,445.93,units,Abnormal,2023-04-30
+878,593,"Lipid Profile","Cholesterol and triglycerides",Chemistry,108.39,mmol/L,Critical,2022-03-13
+879,1039,LFTs,"Liver Function Tests",Chemistry,301.91,units,Critical,2022-02-14
+880,1641,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,225.51,units,Normal,2023-12-07
+881,1427,"Troponin I","Cardiac biomarker",Chemistry,55.71,ng/mL,Abnormal,2022-12-21
+882,1634,"Troponin I","Cardiac biomarker",Chemistry,121.97,ng/mL,Critical,2023-01-07
+883,1377,"HIV Rapid Test","HIV antibody test",Serology,231.52,units,Normal,2022-10-22
+884,674,RFTs,"Renal Function Tests",Chemistry,43.05,units,Critical,2022-04-02
+885,1557,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,470.27,units,Normal,2022-07-01
+886,1560,RBS,"Random Blood Sugar",Chemistry,416.78,mmol/L,Critical,2023-02-05
+887,1337,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,361.10,units,Abnormal,2023-09-05
+888,1689,FBS,"Fasting Blood Sugar",Chemistry,23.88,mmol/L,Critical,2022-10-10
+889,360,"Widal Test","Typhoid serology",Microbiology,95.61,units,Abnormal,2022-08-09
+890,1460,"Chest X-Ray","Radiological investigation",Radiology,134.26,units,Abnormal,2022-08-04
+891,1611,RFTs,"Renal Function Tests",Chemistry,374.63,units,Critical,2023-03-05
+892,1151,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,47.36,mL/min/1.73m²,Normal,2022-06-10
+893,1242,"Thyroid Function Tests",TSH/T3/T4,Chemistry,380.31,units,Critical,2022-01-08
+894,1516,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,29.13,units,Critical,2022-06-03
+895,1350,RFTs,"Renal Function Tests",Chemistry,460.00,units,Abnormal,2023-02-12
+896,894,"Thyroid Function Tests",TSH/T3/T4,Chemistry,250.61,units,Abnormal,2022-06-10
+897,1580,"Sputum GeneXpert","TB molecular test",Microbiology,254.80,units,Critical,2023-06-04
+898,1650,"Sputum GeneXpert","TB molecular test",Microbiology,460.95,units,Abnormal,2023-11-16
+899,1762,ECG,Electrocardiogram,Cardiology,54.11,units,Critical,2022-08-12
+900,479,"Lipid Profile","Cholesterol and triglycerides",Chemistry,270.66,mmol/L,Abnormal,2022-08-12
+901,571,RBS,"Random Blood Sugar",Chemistry,8.12,mmol/L,Critical,2022-02-14
+902,1488,RBS,"Random Blood Sugar",Chemistry,333.14,mmol/L,Normal,2023-10-12
+903,1147,LFTs,"Liver Function Tests",Chemistry,171.71,units,Critical,2023-03-11
+904,486,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,478.71,units,Abnormal,2022-12-05
+905,1148,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,201.84,units,Critical,2023-02-28
+906,1655,HbA1c,"Glycated Haemoglobin",Chemistry,240.24,%,Critical,2023-11-05
+907,20,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,482.00,units,Critical,2022-01-29
+908,1060,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,145.36,units,Abnormal,2023-10-16
+909,1639,"Lipid Profile","Cholesterol and triglycerides",Chemistry,110.89,mmol/L,Critical,2022-10-21
+910,728,"Chest X-Ray","Radiological investigation",Radiology,177.50,units,Critical,2023-02-28
+911,1581,Echocardiogram,"Cardiac ultrasound",Cardiology,143.24,units,Normal,2022-12-09
+912,231,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,374.53,units,Critical,2022-07-25
+913,809,"HIV Rapid Test","HIV antibody test",Serology,61.42,units,Abnormal,2023-05-22
+914,1272,"Lipid Profile","Cholesterol and triglycerides",Chemistry,157.48,mmol/L,Normal,2023-06-12
+915,932,"CD4 Count","CD4 lymphocyte count",Immunology,55.00,cells/μL,Critical,2023-05-27
+916,641,"Chest X-Ray","Radiological investigation",Radiology,284.87,units,Abnormal,2023-01-03
+917,542,"Thyroid Function Tests",TSH/T3/T4,Chemistry,408.69,units,Abnormal,2023-08-17
+918,98,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,164.28,units,Abnormal,2022-01-13
+919,86,RBS,"Random Blood Sugar",Chemistry,393.03,mmol/L,Critical,2022-08-23
+920,706,"Thyroid Function Tests",TSH/T3/T4,Chemistry,110.25,units,Critical,2022-11-19
+921,1018,LFTs,"Liver Function Tests",Chemistry,91.99,units,Abnormal,2022-10-06
+922,1198,Echocardiogram,"Cardiac ultrasound",Cardiology,128.89,units,Normal,2022-04-01
+923,347,FBC,"Full Blood Count",Haematology,282.41,cells/μL,Normal,2022-05-11
+924,1037,"HIV Rapid Test","HIV antibody test",Serology,47.20,units,Abnormal,2022-12-13
+925,359,"CD4 Count","CD4 lymphocyte count",Immunology,240.50,cells/μL,Critical,2023-10-12
+926,371,"CD4 Count","CD4 lymphocyte count",Immunology,419.75,cells/μL,Normal,2023-04-10
+927,756,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,66.10,units,Abnormal,2023-02-11
+928,840,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,23.49,units,Normal,2022-10-19
+929,1737,LFTs,"Liver Function Tests",Chemistry,467.92,units,Abnormal,2022-08-08
+930,826,RBS,"Random Blood Sugar",Chemistry,93.26,mmol/L,Abnormal,2022-02-17
+931,885,Creatinine,"Renal biomarker",Chemistry,39.66,μmol/L,Abnormal,2022-06-08
+932,727,RFTs,"Renal Function Tests",Chemistry,295.58,units,Normal,2022-05-05
+933,1044,FBC,"Full Blood Count",Haematology,310.35,cells/μL,Normal,2023-01-06
+934,1597,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,378.85,units,Abnormal,2023-11-19
+935,1525,"Lipid Profile","Cholesterol and triglycerides",Chemistry,303.45,mmol/L,Normal,2023-09-14
+936,950,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,185.27,units,Normal,2023-11-21
+937,76,"Prothrombin Time","Coagulation test",Haematology,472.15,units,Abnormal,2023-08-05
+938,1605,"Chest X-Ray","Radiological investigation",Radiology,448.99,units,Critical,2022-09-24
+939,1357,FBC,"Full Blood Count",Haematology,230.97,cells/μL,Abnormal,2023-11-25
+940,1166,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,334.14,units,Abnormal,2022-07-22
+941,588,"Troponin I","Cardiac biomarker",Chemistry,28.16,ng/mL,Critical,2023-04-25
+942,773,Creatinine,"Renal biomarker",Chemistry,466.98,μmol/L,Critical,2023-11-04
+943,963,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,376.01,units,Abnormal,2023-04-14
+944,1569,"Prothrombin Time","Coagulation test",Haematology,312.23,units,Normal,2023-03-25
+945,214,Echocardiogram,"Cardiac ultrasound",Cardiology,78.76,units,Abnormal,2023-02-13
+946,1749,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,490.29,units,Abnormal,2023-09-15
+947,1098,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,344.23,units,Normal,2023-03-18
+948,1094,"Prothrombin Time","Coagulation test",Haematology,409.97,units,Critical,2023-08-02
+949,1138,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,155.34,units,Critical,2023-02-23
+950,1238,Echocardiogram,"Cardiac ultrasound",Cardiology,80.23,units,Critical,2022-12-31
+951,1528,Urinalysis,"Urine dipstick",Chemistry,9.18,units,Abnormal,2022-12-10
+952,1051,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,91.20,mL/min/1.73m²,Critical,2023-03-14
+953,509,RFTs,"Renal Function Tests",Chemistry,285.86,units,Normal,2023-01-22
+954,182,"Chest X-Ray","Radiological investigation",Radiology,283.22,units,Normal,2022-08-04
+955,501,LFTs,"Liver Function Tests",Chemistry,164.37,units,Critical,2022-06-12
+956,410,ECG,Electrocardiogram,Cardiology,123.28,units,Abnormal,2023-02-27
+957,473,Creatinine,"Renal biomarker",Chemistry,410.20,μmol/L,Critical,2023-12-30
+958,1097,RFTs,"Renal Function Tests",Chemistry,237.31,units,Normal,2023-11-30
+959,533,"Widal Test","Typhoid serology",Microbiology,234.29,units,Normal,2023-11-20
+960,505,"Prothrombin Time","Coagulation test",Haematology,121.24,units,Critical,2022-09-15
+961,488,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,208.68,units,Normal,2022-02-17
+962,500,"CD4 Count","CD4 lymphocyte count",Immunology,50.96,cells/μL,Abnormal,2023-09-06
+963,375,Urinalysis,"Urine dipstick",Chemistry,372.08,units,Normal,2023-07-14
+964,582,RBS,"Random Blood Sugar",Chemistry,490.18,mmol/L,Critical,2023-02-10
+965,215,RFTs,"Renal Function Tests",Chemistry,251.57,units,Critical,2023-01-31
+966,370,Urinalysis,"Urine dipstick",Chemistry,373.36,units,Critical,2023-06-19
+967,808,ECG,Electrocardiogram,Cardiology,471.38,units,Critical,2022-06-23
+968,1150,"Widal Test","Typhoid serology",Microbiology,485.96,units,Critical,2022-09-18
+969,436,FBC,"Full Blood Count",Haematology,377.20,cells/μL,Critical,2023-10-28
+970,74,"Prothrombin Time","Coagulation test",Haematology,454.63,units,Abnormal,2022-03-27
+971,856,Echocardiogram,"Cardiac ultrasound",Cardiology,478.58,units,Critical,2023-12-26
+972,1344,"HIV Rapid Test","HIV antibody test",Serology,209.13,units,Normal,2022-08-24
+973,916,"Prothrombin Time","Coagulation test",Haematology,150.55,units,Normal,2023-07-29
+974,1313,Creatinine,"Renal biomarker",Chemistry,114.70,μmol/L,Critical,2022-08-29
+975,1089,HbA1c,"Glycated Haemoglobin",Chemistry,272.69,%,Critical,2022-01-29
+976,1649,HbA1c,"Glycated Haemoglobin",Chemistry,198.13,%,Critical,2022-07-15
+977,610,"Widal Test","Typhoid serology",Microbiology,234.99,units,Critical,2022-03-11
+978,1630,LFTs,"Liver Function Tests",Chemistry,323.06,units,Normal,2023-05-21
+979,599,ECG,Electrocardiogram,Cardiology,301.63,units,Normal,2023-10-09
+980,355,"Troponin I","Cardiac biomarker",Chemistry,275.97,ng/mL,Normal,2022-04-04
+981,1527,"Prothrombin Time","Coagulation test",Haematology,438.45,units,Normal,2022-01-29
+982,1652,FBS,"Fasting Blood Sugar",Chemistry,193.39,mmol/L,Normal,2023-05-29
+983,1067,"CD4 Count","CD4 lymphocyte count",Immunology,91.01,cells/μL,Normal,2023-10-05
+984,25,LFTs,"Liver Function Tests",Chemistry,120.99,units,Normal,2023-01-08
+985,1302,LFTs,"Liver Function Tests",Chemistry,108.91,units,Normal,2022-09-06
+986,669,"Chest X-Ray","Radiological investigation",Radiology,318.94,units,Critical,2022-08-11
+987,1290,"Prothrombin Time","Coagulation test",Haematology,34.22,units,Normal,2023-08-31
+988,1288,Creatinine,"Renal biomarker",Chemistry,89.54,μmol/L,Normal,2023-05-12
+989,184,RBS,"Random Blood Sugar",Chemistry,92.61,mmol/L,Normal,2023-07-17
+990,443,"Troponin I","Cardiac biomarker",Chemistry,457.65,ng/mL,Abnormal,2022-07-11
+991,1789,RBS,"Random Blood Sugar",Chemistry,417.04,mmol/L,Normal,2023-09-30
+992,504,"CD4 Count","CD4 lymphocyte count",Immunology,302.59,cells/μL,Normal,2022-04-11
+993,1462,"Prothrombin Time","Coagulation test",Haematology,386.87,units,Abnormal,2023-10-13
+994,1365,"HIV Rapid Test","HIV antibody test",Serology,200.03,units,Critical,2023-12-16
+995,1679,"Thyroid Function Tests",TSH/T3/T4,Chemistry,7.86,units,Critical,2022-01-06
+996,1232,"Thyroid Function Tests",TSH/T3/T4,Chemistry,53.49,units,Critical,2023-10-17
+997,622,Urinalysis,"Urine dipstick",Chemistry,40.51,units,Abnormal,2023-01-21
+998,1439,"HIV Rapid Test","HIV antibody test",Serology,421.60,units,Normal,2022-06-28
+999,1280,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,425.12,units,Critical,2022-09-02
+1000,502,"Widal Test","Typhoid serology",Microbiology,495.60,units,Critical,2023-05-08
+1001,1300,HbA1c,"Glycated Haemoglobin",Chemistry,186.99,%,Normal,2022-11-17
+1002,118,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,359.67,units,Abnormal,2023-03-22
+1003,1504,"Troponin I","Cardiac biomarker",Chemistry,58.52,ng/mL,Abnormal,2023-10-04
+1004,1069,RBS,"Random Blood Sugar",Chemistry,449.06,mmol/L,Critical,2023-07-20
+1005,941,"Sputum GeneXpert","TB molecular test",Microbiology,6.39,units,Abnormal,2022-05-25
+1006,1676,Creatinine,"Renal biomarker",Chemistry,483.71,μmol/L,Normal,2022-09-18
+1007,77,RBS,"Random Blood Sugar",Chemistry,24.25,mmol/L,Normal,2023-11-04
+1008,1040,Urinalysis,"Urine dipstick",Chemistry,359.78,units,Normal,2023-07-13
+1009,1772,Urinalysis,"Urine dipstick",Chemistry,101.85,units,Critical,2024-01-01
+1010,1421,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,321.11,mL/min/1.73m²,Normal,2022-07-29
+1011,109,RFTs,"Renal Function Tests",Chemistry,57.51,units,Critical,2023-11-29
+1012,1045,FBC,"Full Blood Count",Haematology,13.48,cells/μL,Critical,2023-12-29
+1013,316,"Lipid Profile","Cholesterol and triglycerides",Chemistry,89.80,mmol/L,Critical,2022-03-19
+1014,539,Creatinine,"Renal biomarker",Chemistry,117.48,μmol/L,Critical,2022-12-25
+1015,1716,RFTs,"Renal Function Tests",Chemistry,355.99,units,Abnormal,2022-06-14
+1016,788,"CD4 Count","CD4 lymphocyte count",Immunology,74.63,cells/μL,Normal,2022-06-17
+1017,290,FBS,"Fasting Blood Sugar",Chemistry,110.90,mmol/L,Normal,2023-03-24
+1018,188,"Sputum GeneXpert","TB molecular test",Microbiology,282.44,units,Critical,2022-10-25
+1019,903,RFTs,"Renal Function Tests",Chemistry,265.04,units,Critical,2022-08-09
+1020,204,RFTs,"Renal Function Tests",Chemistry,445.38,units,Abnormal,2023-11-27
+1021,1307,FBC,"Full Blood Count",Haematology,51.66,cells/μL,Normal,2023-02-15
+1022,258,"Sputum GeneXpert","TB molecular test",Microbiology,253.26,units,Normal,2023-03-20
+1023,861,"Sputum GeneXpert","TB molecular test",Microbiology,397.54,units,Critical,2023-07-04
+1024,634,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,368.69,units,Critical,2022-01-08
+1025,1715,RFTs,"Renal Function Tests",Chemistry,160.61,units,Abnormal,2022-07-13
+1026,1550,Echocardiogram,"Cardiac ultrasound",Cardiology,199.09,units,Abnormal,2022-06-23
+1027,940,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,221.77,units,Normal,2022-06-24
+1028,600,RFTs,"Renal Function Tests",Chemistry,21.36,units,Critical,2022-11-03
+1029,619,FBS,"Fasting Blood Sugar",Chemistry,242.18,mmol/L,Abnormal,2022-08-02
+1030,803,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,428.71,units,Abnormal,2023-11-21
+1031,90,FBC,"Full Blood Count",Haematology,181.15,cells/μL,Normal,2022-03-21
+1032,1770,"Troponin I","Cardiac biomarker",Chemistry,261.43,ng/mL,Normal,2022-03-04
+1033,890,"Prothrombin Time","Coagulation test",Haematology,172.02,units,Abnormal,2022-11-27
+1034,1414,"HIV Rapid Test","HIV antibody test",Serology,2.31,units,Abnormal,2023-05-29
+1035,851,"HIV Rapid Test","HIV antibody test",Serology,82.74,units,Abnormal,2023-02-27
+1036,1469,ECG,Electrocardiogram,Cardiology,223.84,units,Normal,2023-05-24
+1037,394,Echocardiogram,"Cardiac ultrasound",Cardiology,126.00,units,Abnormal,2023-09-17
+1038,257,ECG,Electrocardiogram,Cardiology,25.71,units,Normal,2023-07-27
+1039,1162,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,363.31,units,Normal,2023-10-29
+1040,721,"Sputum GeneXpert","TB molecular test",Microbiology,196.96,units,Critical,2022-10-29
+1041,621,RBS,"Random Blood Sugar",Chemistry,170.53,mmol/L,Critical,2022-08-26
+1042,1022,"HIV Rapid Test","HIV antibody test",Serology,164.51,units,Normal,2022-03-28
+1043,320,ECG,Electrocardiogram,Cardiology,451.48,units,Abnormal,2022-06-21
+1044,644,"Sputum GeneXpert","TB molecular test",Microbiology,320.98,units,Abnormal,2022-09-06
+1045,1265,Urinalysis,"Urine dipstick",Chemistry,69.64,units,Normal,2023-08-02
+1046,1360,FBC,"Full Blood Count",Haematology,59.78,cells/μL,Critical,2023-07-15
+1047,585,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,66.09,units,Abnormal,2022-04-21
+1048,1065,FBS,"Fasting Blood Sugar",Chemistry,375.95,mmol/L,Normal,2022-07-17
+1049,351,"Widal Test","Typhoid serology",Microbiology,14.82,units,Normal,2023-01-28
+1050,1741,Creatinine,"Renal biomarker",Chemistry,16.49,μmol/L,Critical,2023-09-03
+1051,792,RBS,"Random Blood Sugar",Chemistry,182.57,mmol/L,Normal,2022-11-07
+1052,1264,RBS,"Random Blood Sugar",Chemistry,201.21,mmol/L,Normal,2022-03-09
+1053,678,"Prothrombin Time","Coagulation test",Haematology,235.06,units,Critical,2022-10-07
+1054,1600,ECG,Electrocardiogram,Cardiology,401.18,units,Critical,2022-04-01
+1055,1378,"Sputum GeneXpert","TB molecular test",Microbiology,25.46,units,Abnormal,2022-10-06
+1056,1090,Creatinine,"Renal biomarker",Chemistry,176.47,μmol/L,Abnormal,2023-08-04
+1057,628,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,456.27,units,Critical,2023-02-20
+1058,867,"Lipid Profile","Cholesterol and triglycerides",Chemistry,315.75,mmol/L,Normal,2022-06-17
+1059,1310,"Widal Test","Typhoid serology",Microbiology,414.90,units,Abnormal,2023-11-08
+1060,1619,"Troponin I","Cardiac biomarker",Chemistry,13.59,ng/mL,Critical,2022-11-01
+1061,683,Creatinine,"Renal biomarker",Chemistry,342.69,μmol/L,Normal,2023-07-10
+1062,1062,"Prothrombin Time","Coagulation test",Haematology,261.09,units,Critical,2022-03-05
+1063,397,HbA1c,"Glycated Haemoglobin",Chemistry,50.80,%,Abnormal,2022-12-10
+1064,463,"Thyroid Function Tests",TSH/T3/T4,Chemistry,204.03,units,Critical,2023-02-16
+1065,1382,"Sputum GeneXpert","TB molecular test",Microbiology,220.05,units,Normal,2023-08-22
+1066,947,"HIV Rapid Test","HIV antibody test",Serology,65.49,units,Critical,2023-02-13
+1067,1635,Urinalysis,"Urine dipstick",Chemistry,15.46,units,Abnormal,2022-02-09
+1068,692,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,77.49,mL/min/1.73m²,Normal,2023-04-06
+1069,1631,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,153.91,units,Normal,2023-05-10
+1070,907,"Sputum GeneXpert","TB molecular test",Microbiology,379.43,units,Normal,2022-05-13
+1071,47,LFTs,"Liver Function Tests",Chemistry,333.07,units,Critical,2022-01-05
+1072,1566,"Widal Test","Typhoid serology",Microbiology,352.28,units,Abnormal,2022-08-24
+1073,853,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,226.61,units,Normal,2023-03-27
+1074,1043,"Sputum GeneXpert","TB molecular test",Microbiology,328.90,units,Abnormal,2022-07-14
+1075,1072,Urinalysis,"Urine dipstick",Chemistry,75.24,units,Critical,2022-12-28
+1076,1320,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,294.44,units,Critical,2022-07-06
+1077,313,Creatinine,"Renal biomarker",Chemistry,134.62,μmol/L,Critical,2023-07-23
+1078,750,ECG,Electrocardiogram,Cardiology,392.14,units,Abnormal,2023-12-27
+1079,691,Echocardiogram,"Cardiac ultrasound",Cardiology,249.93,units,Abnormal,2022-06-25
+1080,1768,"Troponin I","Cardiac biomarker",Chemistry,304.23,ng/mL,Normal,2022-08-09
+1081,1777,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,362.65,units,Critical,2023-04-29
+1082,957,"Prothrombin Time","Coagulation test",Haematology,313.88,units,Normal,2023-12-18
+1083,522,"Widal Test","Typhoid serology",Microbiology,15.98,units,Critical,2022-09-06
+1084,1128,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,252.01,mL/min/1.73m²,Critical,2023-03-10
+1085,1208,"Lipid Profile","Cholesterol and triglycerides",Chemistry,357.22,mmol/L,Critical,2022-11-12
+1086,580,"Chest X-Ray","Radiological investigation",Radiology,143.80,units,Abnormal,2022-09-30
+1087,1054,LFTs,"Liver Function Tests",Chemistry,338.99,units,Normal,2023-08-23
+1088,163,Creatinine,"Renal biomarker",Chemistry,117.03,μmol/L,Critical,2023-02-07
+1089,274,"Prothrombin Time","Coagulation test",Haematology,174.05,units,Critical,2022-09-03
+1090,1720,"Troponin I","Cardiac biomarker",Chemistry,39.64,ng/mL,Critical,2023-07-21
+1091,1753,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,331.10,units,Abnormal,2022-06-20
+1092,481,LFTs,"Liver Function Tests",Chemistry,237.19,units,Abnormal,2022-08-20
+1093,857,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,428.59,units,Normal,2023-02-04
+1094,1202,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,79.86,units,Normal,2023-02-25
+1095,662,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,98.02,units,Abnormal,2022-03-02
+1096,719,HbA1c,"Glycated Haemoglobin",Chemistry,131.64,%,Normal,2022-04-05
+1097,1227,"CD4 Count","CD4 lymphocyte count",Immunology,199.78,cells/μL,Normal,2022-09-19
+1098,899,"Thyroid Function Tests",TSH/T3/T4,Chemistry,492.49,units,Normal,2023-03-02
+1099,455,"Lipid Profile","Cholesterol and triglycerides",Chemistry,201.17,mmol/L,Critical,2023-07-24
+1100,1289,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,91.79,units,Normal,2022-07-19
+1101,201,"CD4 Count","CD4 lymphocyte count",Immunology,230.23,cells/μL,Abnormal,2022-10-10
+1102,1270,"Widal Test","Typhoid serology",Microbiology,182.54,units,Critical,2022-05-01
+1103,1324,Urinalysis,"Urine dipstick",Chemistry,453.97,units,Critical,2022-11-10
+1104,901,"Lipid Profile","Cholesterol and triglycerides",Chemistry,136.18,mmol/L,Abnormal,2022-05-31
+1105,1113,FBS,"Fasting Blood Sugar",Chemistry,39.67,mmol/L,Abnormal,2022-12-14
+1106,731,"Widal Test","Typhoid serology",Microbiology,444.81,units,Abnormal,2022-10-28
+1107,119,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,166.89,mL/min/1.73m²,Critical,2022-10-23
+1108,344,RFTs,"Renal Function Tests",Chemistry,382.89,units,Normal,2023-10-09
+1109,1235,Creatinine,"Renal biomarker",Chemistry,266.21,μmol/L,Abnormal,2022-07-03
+1110,777,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,384.37,units,Abnormal,2022-09-01
+1111,1523,Echocardiogram,"Cardiac ultrasound",Cardiology,55.72,units,Abnormal,2022-03-18
+1112,478,RFTs,"Renal Function Tests",Chemistry,312.40,units,Normal,2023-02-22
+1113,1149,"Widal Test","Typhoid serology",Microbiology,376.46,units,Critical,2023-09-18
+1114,960,RFTs,"Renal Function Tests",Chemistry,451.14,units,Critical,2023-02-01
+1115,870,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,89.84,units,Critical,2023-05-29
+1116,1104,"Sputum GeneXpert","TB molecular test",Microbiology,87.59,units,Abnormal,2022-07-29
+1117,1482,"HIV Rapid Test","HIV antibody test",Serology,107.99,units,Critical,2023-09-26
+1118,5,Echocardiogram,"Cardiac ultrasound",Cardiology,441.19,units,Abnormal,2023-10-23
+1119,1237,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,406.18,mL/min/1.73m²,Abnormal,2022-09-03
+1120,1742,FBC,"Full Blood Count",Haematology,31.52,cells/μL,Abnormal,2022-05-03
+1121,521,"Widal Test","Typhoid serology",Microbiology,184.92,units,Critical,2022-03-19
+1122,928,Echocardiogram,"Cardiac ultrasound",Cardiology,110.90,units,Abnormal,2023-05-07
+1123,417,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,89.53,mL/min/1.73m²,Critical,2022-08-29
+1124,680,RBS,"Random Blood Sugar",Chemistry,170.46,mmol/L,Abnormal,2023-07-26
+1125,872,RFTs,"Renal Function Tests",Chemistry,130.78,units,Critical,2022-07-21
+1126,549,FBS,"Fasting Blood Sugar",Chemistry,13.83,mmol/L,Critical,2022-04-04
+1127,657,LFTs,"Liver Function Tests",Chemistry,126.25,units,Abnormal,2022-09-02
+1128,564,Urinalysis,"Urine dipstick",Chemistry,239.72,units,Critical,2023-11-28
+1129,431,"Chest X-Ray","Radiological investigation",Radiology,469.95,units,Abnormal,2022-07-30
+1130,65,Urinalysis,"Urine dipstick",Chemistry,24.68,units,Critical,2022-03-14
+1131,1594,"Widal Test","Typhoid serology",Microbiology,316.32,units,Normal,2023-03-12
+1132,1701,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,368.45,units,Critical,2023-02-03
+1133,352,HbA1c,"Glycated Haemoglobin",Chemistry,362.97,%,Abnormal,2023-09-02
+1134,1078,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,207.20,units,Critical,2023-04-02
+1135,897,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,303.96,units,Normal,2022-03-07
+1136,1157,Echocardiogram,"Cardiac ultrasound",Cardiology,456.52,units,Critical,2023-12-18
+1137,356,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,19.45,units,Abnormal,2022-01-10
+1138,513,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,39.69,units,Abnormal,2023-03-25
+1139,388,FBS,"Fasting Blood Sugar",Chemistry,175.65,mmol/L,Normal,2022-04-15
+1140,1800,HbA1c,"Glycated Haemoglobin",Chemistry,450.30,%,Abnormal,2022-01-03
+1141,1118,LFTs,"Liver Function Tests",Chemistry,363.85,units,Normal,2022-03-25
+1142,1253,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,23.01,units,Abnormal,2022-02-23
+1143,1143,RFTs,"Renal Function Tests",Chemistry,455.27,units,Abnormal,2022-06-19
+1144,200,Creatinine,"Renal biomarker",Chemistry,464.25,μmol/L,Critical,2023-07-09
+1145,984,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,394.81,units,Critical,2022-08-21
+1146,1339,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,67.70,units,Normal,2022-03-03
+1147,279,Creatinine,"Renal biomarker",Chemistry,196.16,μmol/L,Normal,2022-09-28
+1148,1406,Urinalysis,"Urine dipstick",Chemistry,351.31,units,Critical,2022-10-30
+1149,53,LFTs,"Liver Function Tests",Chemistry,186.59,units,Abnormal,2023-09-26
+1150,173,"Chest X-Ray","Radiological investigation",Radiology,381.67,units,Critical,2023-09-12
+1151,392,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,376.47,units,Abnormal,2023-06-02
+1152,1503,"Widal Test","Typhoid serology",Microbiology,82.80,units,Normal,2023-10-25
+1153,1396,FBS,"Fasting Blood Sugar",Chemistry,143.67,mmol/L,Abnormal,2022-10-04
+1154,1671,LFTs,"Liver Function Tests",Chemistry,129.44,units,Normal,2023-10-20
+1155,406,ECG,Electrocardiogram,Cardiology,112.20,units,Abnormal,2022-06-23
+1156,841,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,353.07,units,Critical,2023-03-10
+1157,707,FBS,"Fasting Blood Sugar",Chemistry,359.48,mmol/L,Abnormal,2023-08-16
+1158,912,"CD4 Count","CD4 lymphocyte count",Immunology,85.66,cells/μL,Critical,2022-11-26
+1159,609,Urinalysis,"Urine dipstick",Chemistry,299.89,units,Critical,2022-10-07
+1160,1502,"Sputum GeneXpert","TB molecular test",Microbiology,487.67,units,Critical,2023-04-27
+1161,930,"Thyroid Function Tests",TSH/T3/T4,Chemistry,218.97,units,Abnormal,2023-12-21
+1162,1647,"Troponin I","Cardiac biomarker",Chemistry,252.42,ng/mL,Critical,2022-08-24
+1163,531,FBC,"Full Blood Count",Haematology,170.67,cells/μL,Abnormal,2023-05-05
+1164,1480,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,235.15,mL/min/1.73m²,Critical,2023-10-19
+1165,717,Creatinine,"Renal biomarker",Chemistry,424.46,μmol/L,Normal,2023-02-04
+1166,1700,"Sputum GeneXpert","TB molecular test",Microbiology,217.84,units,Abnormal,2022-11-16
+1167,1102,Urinalysis,"Urine dipstick",Chemistry,313.24,units,Normal,2023-01-13
+1168,1347,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,109.99,mL/min/1.73m²,Abnormal,2023-11-20
+1169,598,Creatinine,"Renal biomarker",Chemistry,52.59,μmol/L,Normal,2022-10-15
+1170,272,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,285.33,units,Normal,2022-12-16
+1171,1507,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,371.30,units,Normal,2023-06-28
+1172,81,"CD4 Count","CD4 lymphocyte count",Immunology,383.98,cells/μL,Critical,2023-02-24
+1173,358,"Troponin I","Cardiac biomarker",Chemistry,316.73,ng/mL,Abnormal,2023-03-12
+1174,1773,"Thyroid Function Tests",TSH/T3/T4,Chemistry,8.52,units,Critical,2023-03-06
+1175,245,"Lipid Profile","Cholesterol and triglycerides",Chemistry,179.26,mmol/L,Critical,2023-04-25
+1176,282,"Chest X-Ray","Radiological investigation",Radiology,9.53,units,Abnormal,2022-12-01
+1177,630,FBS,"Fasting Blood Sugar",Chemistry,398.80,mmol/L,Normal,2022-02-28
+1178,980,FBS,"Fasting Blood Sugar",Chemistry,250.70,mmol/L,Normal,2023-02-03
+1179,328,RFTs,"Renal Function Tests",Chemistry,331.98,units,Abnormal,2022-11-15
+1180,37,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,143.57,units,Normal,2023-06-24
+1181,133,FBC,"Full Blood Count",Haematology,438.35,cells/μL,Normal,2022-10-12
+1182,1258,"CD4 Count","CD4 lymphocyte count",Immunology,291.63,cells/μL,Normal,2023-05-29
+1183,817,"CD4 Count","CD4 lymphocyte count",Immunology,491.35,cells/μL,Critical,2023-10-11
+1184,374,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,161.50,units,Abnormal,2022-09-04
+1185,1342,"HIV Rapid Test","HIV antibody test",Serology,79.58,units,Abnormal,2023-10-19
+1186,624,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,235.84,units,Abnormal,2023-08-28
+1187,508,"HIV Rapid Test","HIV antibody test",Serology,20.00,units,Abnormal,2023-03-04
+1188,1343,"Prothrombin Time","Coagulation test",Haematology,463.34,units,Abnormal,2023-04-15
+1189,6,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,243.43,units,Abnormal,2023-07-28
+1190,833,Urinalysis,"Urine dipstick",Chemistry,399.65,units,Abnormal,2022-06-08
+1191,939,"HIV Rapid Test","HIV antibody test",Serology,38.95,units,Normal,2022-12-05
+1192,815,Urinalysis,"Urine dipstick",Chemistry,275.85,units,Abnormal,2023-03-06
+1193,1751,"Sputum GeneXpert","TB molecular test",Microbiology,396.76,units,Critical,2022-02-22
+1194,1317,FBS,"Fasting Blood Sugar",Chemistry,330.18,mmol/L,Abnormal,2022-06-23
+1195,233,RFTs,"Renal Function Tests",Chemistry,426.11,units,Critical,2023-10-12
+1196,1589,RFTs,"Renal Function Tests",Chemistry,310.96,units,Critical,2023-12-04
+1197,341,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,164.55,units,Normal,2022-08-03
+1198,1073,"Troponin I","Cardiac biomarker",Chemistry,199.31,ng/mL,Abnormal,2023-11-26
+1199,243,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,475.15,mL/min/1.73m²,Critical,2023-09-24
+1200,1408,RBS,"Random Blood Sugar",Chemistry,71.96,mmol/L,Normal,2023-11-12
+1201,1542,Echocardiogram,"Cardiac ultrasound",Cardiology,170.37,units,Normal,2023-03-25
+1202,287,FBC,"Full Blood Count",Haematology,30.37,cells/μL,Abnormal,2022-04-02
+1203,1731,"HIV Rapid Test","HIV antibody test",Serology,285.60,units,Normal,2022-05-12
+1204,1537,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,72.61,units,Critical,2022-11-24
+1205,494,ECG,Electrocardiogram,Cardiology,444.58,units,Normal,2023-12-13
+1206,767,Creatinine,"Renal biomarker",Chemistry,171.01,μmol/L,Critical,2022-07-26
+1207,802,"Prothrombin Time","Coagulation test",Haematology,470.85,units,Abnormal,2023-01-20
+1208,384,"Thyroid Function Tests",TSH/T3/T4,Chemistry,124.58,units,Normal,2023-09-22
+1209,1228,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,209.20,units,Abnormal,2022-05-14
+1210,545,Urinalysis,"Urine dipstick",Chemistry,217.76,units,Normal,2022-01-23
+1211,1283,"Widal Test","Typhoid serology",Microbiology,30.72,units,Abnormal,2022-05-25
+1212,973,FBC,"Full Blood Count",Haematology,199.54,cells/μL,Normal,2022-07-29
+1213,547,"Widal Test","Typhoid serology",Microbiology,442.69,units,Normal,2022-03-12
+1214,1578,Echocardiogram,"Cardiac ultrasound",Cardiology,299.81,units,Critical,2023-05-23
+1215,1316,"Lipid Profile","Cholesterol and triglycerides",Chemistry,224.96,mmol/L,Critical,2022-07-03
+1216,1653,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,191.82,units,Abnormal,2023-09-10
+1217,1529,"Lipid Profile","Cholesterol and triglycerides",Chemistry,329.85,mmol/L,Critical,2023-06-04
+1218,989,RBS,"Random Blood Sugar",Chemistry,144.14,mmol/L,Critical,2023-09-20
+1219,1257,FBS,"Fasting Blood Sugar",Chemistry,241.00,mmol/L,Abnormal,2022-02-19
+1220,748,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,101.96,units,Critical,2023-11-25
+1221,1127,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,31.52,units,Abnormal,2022-10-26
+1222,1298,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,44.33,units,Critical,2022-11-05
+1223,988,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,210.40,units,Abnormal,2022-02-25
+1224,44,"Prothrombin Time","Coagulation test",Haematology,91.19,units,Normal,2023-10-08
+1225,1087,"Troponin I","Cardiac biomarker",Chemistry,459.10,ng/mL,Normal,2022-08-16
+1226,906,ECG,Electrocardiogram,Cardiology,455.39,units,Critical,2022-02-19
+1227,1719,Urinalysis,"Urine dipstick",Chemistry,80.01,units,Normal,2022-02-02
+1228,1021,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,120.91,mL/min/1.73m²,Abnormal,2023-05-13
+1229,869,Urinalysis,"Urine dipstick",Chemistry,488.24,units,Abnormal,2023-05-26
+1230,836,"Sputum GeneXpert","TB molecular test",Microbiology,391.78,units,Abnormal,2022-09-03
+1231,57,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,171.69,units,Abnormal,2023-01-22
+1232,791,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,179.18,units,Abnormal,2022-12-05
+1233,770,"Troponin I","Cardiac biomarker",Chemistry,442.93,ng/mL,Normal,2022-09-14
+1234,937,Echocardiogram,"Cardiac ultrasound",Cardiology,56.30,units,Abnormal,2023-12-14
+1235,1294,"Widal Test","Typhoid serology",Microbiology,101.82,units,Critical,2022-04-24
+1236,1723,HbA1c,"Glycated Haemoglobin",Chemistry,450.97,%,Normal,2023-01-26
+1237,1216,"Troponin I","Cardiac biomarker",Chemistry,102.96,ng/mL,Abnormal,2023-01-16
+1238,181,"Lipid Profile","Cholesterol and triglycerides",Chemistry,118.28,mmol/L,Normal,2023-07-05
+1239,1740,"Troponin I","Cardiac biomarker",Chemistry,366.06,ng/mL,Normal,2022-07-16
+1240,31,"Thyroid Function Tests",TSH/T3/T4,Chemistry,125.50,units,Critical,2022-03-26
+1241,322,"Lipid Profile","Cholesterol and triglycerides",Chemistry,183.25,mmol/L,Critical,2022-03-13
+1242,106,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,486.93,units,Critical,2022-11-19
+1243,1629,"HIV Rapid Test","HIV antibody test",Serology,373.61,units,Normal,2023-04-21
+1244,145,FBC,"Full Blood Count",Haematology,72.48,cells/μL,Abnormal,2022-01-18
+1245,1601,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,70.17,units,Abnormal,2022-01-15
+1246,835,"Chest X-Ray","Radiological investigation",Radiology,220.57,units,Critical,2022-04-19
+1247,1604,"HIV Rapid Test","HIV antibody test",Serology,316.49,units,Normal,2022-11-01
+1248,592,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,407.67,units,Abnormal,2023-03-24
+1249,546,RFTs,"Renal Function Tests",Chemistry,54.57,units,Abnormal,2022-10-20
+1250,737,Creatinine,"Renal biomarker",Chemistry,492.05,μmol/L,Critical,2022-09-19
+1251,895,"Prothrombin Time","Coagulation test",Haematology,68.77,units,Critical,2023-08-16
+1252,687,"Sputum GeneXpert","TB molecular test",Microbiology,125.37,units,Normal,2023-08-21
+1253,207,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,27.79,units,Critical,2022-12-02
+1254,299,ECG,Electrocardiogram,Cardiology,459.20,units,Abnormal,2022-06-21
+1255,405,"Prothrombin Time","Coagulation test",Haematology,17.76,units,Normal,2023-01-05
+1256,1299,Echocardiogram,"Cardiac ultrasound",Cardiology,310.38,units,Abnormal,2023-04-19
+1257,1583,HbA1c,"Glycated Haemoglobin",Chemistry,81.24,%,Critical,2022-07-05
+1258,843,Creatinine,"Renal biomarker",Chemistry,132.97,μmol/L,Critical,2023-09-10
+1259,273,FBS,"Fasting Blood Sugar",Chemistry,296.28,mmol/L,Critical,2023-08-27
+1260,686,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,415.25,units,Abnormal,2022-03-26
+1261,550,"Chest X-Ray","Radiological investigation",Radiology,339.67,units,Abnormal,2023-10-02
+1262,39,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,34.54,mL/min/1.73m²,Critical,2023-12-19
+1263,716,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,138.87,mL/min/1.73m²,Abnormal,2023-11-04
+1264,673,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,499.22,units,Abnormal,2022-09-15
+1265,1548,"HIV Rapid Test","HIV antibody test",Serology,73.05,units,Critical,2022-01-07
+1266,1356,FBC,"Full Blood Count",Haematology,129.66,cells/μL,Abnormal,2022-06-23
+1267,202,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,436.64,units,Critical,2023-06-23
+1268,666,"Chest X-Ray","Radiological investigation",Radiology,248.26,units,Abnormal,2022-12-05
+1269,1200,"Widal Test","Typhoid serology",Microbiology,247.36,units,Normal,2022-03-12
+1270,115,Echocardiogram,"Cardiac ultrasound",Cardiology,294.37,units,Abnormal,2023-09-06
+1271,1722,"Prothrombin Time","Coagulation test",Haematology,173.98,units,Normal,2022-05-08
+1272,1534,"Prothrombin Time","Coagulation test",Haematology,151.33,units,Abnormal,2022-02-14
+1273,55,Urinalysis,"Urine dipstick",Chemistry,466.73,units,Critical,2022-08-22
+1274,1397,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,245.56,units,Critical,2022-12-18
+1275,1418,RBS,"Random Blood Sugar",Chemistry,371.71,mmol/L,Critical,2023-12-16
+1276,528,FBC,"Full Blood Count",Haematology,29.59,cells/μL,Critical,2022-11-14
+1277,1617,"Prothrombin Time","Coagulation test",Haematology,39.28,units,Abnormal,2023-12-30
+1278,22,RBS,"Random Blood Sugar",Chemistry,414.50,mmol/L,Abnormal,2022-09-05
+1279,1031,"Widal Test","Typhoid serology",Microbiology,350.83,units,Abnormal,2022-02-13
+1280,1413,"Prothrombin Time","Coagulation test",Haematology,124.85,units,Abnormal,2022-04-11
+1281,447,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,332.15,units,Normal,2023-05-15
+1282,46,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,309.42,mL/min/1.73m²,Critical,2022-03-31
+1283,495,"Chest X-Ray","Radiological investigation",Radiology,442.74,units,Abnormal,2023-05-08
+1284,1648,"HIV Rapid Test","HIV antibody test",Serology,421.67,units,Abnormal,2022-12-20
+1285,336,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,324.15,units,Critical,2023-05-30
+1286,1710,"Thyroid Function Tests",TSH/T3/T4,Chemistry,460.87,units,Normal,2022-05-09
+1287,402,Creatinine,"Renal biomarker",Chemistry,377.47,μmol/L,Abnormal,2023-12-05
+1288,959,Echocardiogram,"Cardiac ultrasound",Cardiology,169.89,units,Normal,2022-12-30
+1289,1543,"Prothrombin Time","Coagulation test",Haematology,27.06,units,Abnormal,2023-06-18
+1290,1303,Echocardiogram,"Cardiac ultrasound",Cardiology,36.05,units,Abnormal,2023-04-25
+1291,682,HbA1c,"Glycated Haemoglobin",Chemistry,346.59,%,Abnormal,2023-03-02
+1292,739,"Prothrombin Time","Coagulation test",Haematology,208.78,units,Abnormal,2023-03-01
+1293,1386,Creatinine,"Renal biomarker",Chemistry,492.90,μmol/L,Abnormal,2022-02-14
+1294,784,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,120.52,mL/min/1.73m²,Critical,2022-09-02
+1295,325,"Chest X-Ray","Radiological investigation",Radiology,126.19,units,Critical,2022-01-15
+1296,902,"HIV Rapid Test","HIV antibody test",Serology,284.77,units,Abnormal,2022-11-18
+1297,104,HbA1c,"Glycated Haemoglobin",Chemistry,348.11,%,Normal,2022-03-15
+1298,701,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,104.32,units,Abnormal,2023-03-02
+1299,911,"Lipid Profile","Cholesterol and triglycerides",Chemistry,94.50,mmol/L,Abnormal,2023-01-16
+1300,1743,FBS,"Fasting Blood Sugar",Chemistry,255.87,mmol/L,Abnormal,2023-02-09
+1301,952,"Troponin I","Cardiac biomarker",Chemistry,202.64,ng/mL,Critical,2022-05-12
+1302,428,FBS,"Fasting Blood Sugar",Chemistry,474.45,mmol/L,Critical,2023-12-28
+1303,961,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,451.87,units,Abnormal,2022-11-16
+1304,219,Creatinine,"Renal biomarker",Chemistry,419.91,μmol/L,Critical,2023-02-02
+1305,45,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,243.56,mL/min/1.73m²,Abnormal,2023-06-23
+1306,135,ECG,Electrocardiogram,Cardiology,285.96,units,Critical,2023-10-05
+1307,1286,"Troponin I","Cardiac biomarker",Chemistry,495.21,ng/mL,Critical,2022-07-22
+1308,111,FBS,"Fasting Blood Sugar",Chemistry,286.26,mmol/L,Normal,2022-03-01
+1309,1183,"CD4 Count","CD4 lymphocyte count",Immunology,81.86,cells/μL,Critical,2022-02-22
+1310,165,"Widal Test","Typhoid serology",Microbiology,354.60,units,Abnormal,2023-08-08
+1311,229,RFTs,"Renal Function Tests",Chemistry,91.04,units,Abnormal,2023-07-31
+1312,839,Urinalysis,"Urine dipstick",Chemistry,40.21,units,Abnormal,2022-05-17
+1313,982,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,3.16,units,Normal,2022-05-18
+1314,191,ECG,Electrocardiogram,Cardiology,141.50,units,Critical,2022-01-11
+1315,1175,HbA1c,"Glycated Haemoglobin",Chemistry,244.44,%,Normal,2022-04-21
+1316,1014,"Troponin I","Cardiac biomarker",Chemistry,46.15,ng/mL,Critical,2023-03-12
+1317,1682,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,233.88,units,Critical,2023-10-30
+1318,1739,FBC,"Full Blood Count",Haematology,418.59,cells/μL,Abnormal,2023-11-15
+1319,1305,"CD4 Count","CD4 lymphocyte count",Immunology,113.88,cells/μL,Abnormal,2022-01-05
+1320,108,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,394.27,units,Normal,2022-07-17
+1321,543,FBC,"Full Blood Count",Haematology,207.20,cells/μL,Abnormal,2023-03-04
+1322,1254,ECG,Electrocardiogram,Cardiology,103.84,units,Critical,2022-12-28
+1323,535,ECG,Electrocardiogram,Cardiology,227.93,units,Abnormal,2023-09-28
+1324,414,Urinalysis,"Urine dipstick",Chemistry,145.38,units,Critical,2023-06-18
+1325,1276,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,400.39,units,Normal,2022-11-02
+1326,177,FBC,"Full Blood Count",Haematology,419.21,cells/μL,Critical,2022-02-06
+1327,1100,"Lipid Profile","Cholesterol and triglycerides",Chemistry,427.72,mmol/L,Normal,2023-04-26
+1328,1764,"Lipid Profile","Cholesterol and triglycerides",Chemistry,10.21,mmol/L,Normal,2022-11-12
+1329,1688,Echocardiogram,"Cardiac ultrasound",Cardiology,87.88,units,Abnormal,2022-11-08
+1330,1046,"Thyroid Function Tests",TSH/T3/T4,Chemistry,493.49,units,Normal,2022-11-29
+1331,668,LFTs,"Liver Function Tests",Chemistry,342.07,units,Normal,2022-12-16
+1332,1555,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,41.35,units,Critical,2023-06-12
+1333,1592,"Thyroid Function Tests",TSH/T3/T4,Chemistry,376.65,units,Normal,2022-09-06
+1334,1278,Creatinine,"Renal biomarker",Chemistry,2.65,μmol/L,Abnormal,2023-11-20
+1335,96,"Thyroid Function Tests",TSH/T3/T4,Chemistry,360.22,units,Abnormal,2023-06-02
+1336,390,"Prothrombin Time","Coagulation test",Haematology,492.50,units,Normal,2023-11-09
+1337,1176,FBS,"Fasting Blood Sugar",Chemistry,281.53,mmol/L,Normal,2023-10-28
+1338,1431,"Prothrombin Time","Coagulation test",Haematology,437.44,units,Critical,2022-04-16
+1339,1501,HbA1c,"Glycated Haemoglobin",Chemistry,328.27,%,Normal,2023-05-30
+1340,548,FBS,"Fasting Blood Sugar",Chemistry,233.85,mmol/L,Critical,2022-01-31
+1341,1130,"Lipid Profile","Cholesterol and triglycerides",Chemistry,319.14,mmol/L,Abnormal,2023-01-30
+1342,483,"Chest X-Ray","Radiological investigation",Radiology,115.04,units,Critical,2023-09-24
+1343,1184,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,240.60,units,Critical,2022-03-17
+1344,1588,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,123.89,units,Abnormal,2022-12-01
+1345,1375,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,258.20,mL/min/1.73m²,Abnormal,2022-01-11
+1346,1668,"Lipid Profile","Cholesterol and triglycerides",Chemistry,101.32,mmol/L,Critical,2023-05-19
+1347,1677,"Troponin I","Cardiac biomarker",Chemistry,25.57,ng/mL,Normal,2023-11-15
+1348,1451,"Prothrombin Time","Coagulation test",Haematology,301.01,units,Normal,2022-08-19
+1349,247,ECG,Electrocardiogram,Cardiology,181.25,units,Abnormal,2023-10-11
+1350,577,"Thyroid Function Tests",TSH/T3/T4,Chemistry,99.77,units,Critical,2022-04-21
+1351,1156,"Prothrombin Time","Coagulation test",Haematology,101.23,units,Critical,2022-09-14
+1352,434,Urinalysis,"Urine dipstick",Chemistry,172.13,units,Critical,2023-04-04
+1353,1002,"Thyroid Function Tests",TSH/T3/T4,Chemistry,165.68,units,Abnormal,2022-04-11
+1354,1496,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,316.05,mL/min/1.73m²,Normal,2022-09-13
+1355,1706,RBS,"Random Blood Sugar",Chemistry,185.21,mmol/L,Critical,2023-04-11
+1356,1425,Creatinine,"Renal biomarker",Chemistry,31.73,μmol/L,Normal,2022-05-09
+1357,82,"Thyroid Function Tests",TSH/T3/T4,Chemistry,429.20,units,Abnormal,2022-12-04
+1358,1279,LFTs,"Liver Function Tests",Chemistry,142.74,units,Critical,2022-10-27
+1359,469,Creatinine,"Renal biomarker",Chemistry,302.21,μmol/L,Critical,2022-12-31
+1360,123,RFTs,"Renal Function Tests",Chemistry,399.86,units,Critical,2023-06-02
+1361,956,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,254.33,units,Normal,2022-01-05
+1362,205,"Thyroid Function Tests",TSH/T3/T4,Chemistry,37.84,units,Normal,2022-10-11
+1363,49,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,233.94,mL/min/1.73m²,Abnormal,2023-02-28
+1364,112,"Widal Test","Typhoid serology",Microbiology,287.60,units,Normal,2023-02-14
+1365,1105,Urinalysis,"Urine dipstick",Chemistry,43.36,units,Abnormal,2023-03-28
+1366,570,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,419.73,units,Normal,2023-06-05
+1367,1765,RFTs,"Renal Function Tests",Chemistry,479.44,units,Critical,2023-02-01
+1368,1471,HbA1c,"Glycated Haemoglobin",Chemistry,420.00,%,Critical,2022-12-02
+1369,1695,"Prothrombin Time","Coagulation test",Haematology,135.18,units,Critical,2023-11-14
+1370,653,FBC,"Full Blood Count",Haematology,444.80,cells/μL,Normal,2023-07-31
+1371,1521,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,281.39,units,Abnormal,2023-08-18
+1372,934,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,95.67,units,Critical,2022-09-20
+1373,663,Urinalysis,"Urine dipstick",Chemistry,429.33,units,Abnormal,2023-05-07
+1374,331,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,431.86,units,Normal,2022-09-01
+1375,1788,Creatinine,"Renal biomarker",Chemistry,268.49,μmol/L,Abnormal,2022-12-18
+1376,267,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,170.63,units,Critical,2022-02-04
+1377,1582,"Thyroid Function Tests",TSH/T3/T4,Chemistry,447.50,units,Normal,2023-12-16
+1378,850,"CD4 Count","CD4 lymphocyte count",Immunology,297.57,cells/μL,Critical,2023-02-14
+1379,1646,Urinalysis,"Urine dipstick",Chemistry,222.36,units,Normal,2022-05-26
+1380,1032,"Lipid Profile","Cholesterol and triglycerides",Chemistry,282.60,mmol/L,Critical,2023-01-09
+1381,1657,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,378.55,mL/min/1.73m²,Abnormal,2022-01-16
+1382,1368,HbA1c,"Glycated Haemoglobin",Chemistry,290.01,%,Abnormal,2022-03-31
+1383,128,LFTs,"Liver Function Tests",Chemistry,318.92,units,Normal,2023-03-02
+1384,1795,"Chest X-Ray","Radiological investigation",Radiology,53.93,units,Abnormal,2023-11-19
+1385,874,"Malaria RDT","Malaria Rapid Diagnostic Test",Microbiology,205.47,units,Critical,2023-06-28
+1386,763,ECG,Electrocardiogram,Cardiology,267.92,units,Abnormal,2022-05-20
+1387,490,FBC,"Full Blood Count",Haematology,334.80,cells/μL,Normal,2022-08-17
+1388,1084,"Serum Electrolytes",Na/K/Cl/HCO3,Chemistry,356.27,units,Critical,2023-07-17
+1389,457,HbA1c,"Glycated Haemoglobin",Chemistry,471.81,%,Normal,2022-01-12
+1390,664,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,309.28,mL/min/1.73m²,Abnormal,2023-05-04
+1391,805,"Ultrasound Abdomen","Abdominal ultrasound",Radiology,489.27,units,Abnormal,2022-06-17
+1392,1573,FBC,"Full Blood Count",Haematology,100.47,cells/μL,Abnormal,2022-08-17
+1393,612,"Urine MCS","Urine Microscopy Culture Sensitivity",Microbiology,387.40,units,Critical,2022-08-18
+1394,1624,"Chest X-Ray","Radiological investigation",Radiology,181.44,units,Abnormal,2022-01-01
+1395,297,"Sputum GeneXpert","TB molecular test",Microbiology,320.66,units,Critical,2023-10-07
+1396,597,"Thyroid Function Tests",TSH/T3/T4,Chemistry,2.25,units,Abnormal,2023-11-07
+1397,1559,"HIV Rapid Test","HIV antibody test",Serology,245.70,units,Abnormal,2022-07-18
+1398,23,eGFR,"Estimated Glomerular Filtration Rate",Chemistry,204.61,mL/min/1.73m²,Abnormal,2022-02-04
+1399,1433,"HIV Rapid Test","HIV antibody test",Serology,131.06,units,Abnormal,2022-07-26
+1400,997,"Troponin I","Cardiac biomarker",Chemistry,122.75,ng/mL,Abnormal,2022-09-15

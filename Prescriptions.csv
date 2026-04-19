@@ -1,0 +1,1201 @@
+prescription_id,visit_id,drug_name,drug_class,route,dose_frequency,duration_days,quantity_dispensed,dispensing_status,prescription_date
+1,1487,"Ciprofloxacin 500mg",Antibiotic,Oral,"Twice daily",30,109,No,2022-11-26
+2,1223,"Cotrimoxazole 480mg",Antibiotic,Oral,"Four times daily",21,135,Partial,2023-07-28
+3,12,"Ciprofloxacin 500mg",Antibiotic,Oral,"Twice daily",90,22,Yes,2023-12-19
+4,1210,"Furosemide 40mg",Diuretic,Oral,"Twice daily",7,95,No,2023-08-28
+5,1522,"Amlodipine 5mg",Antihypertensive,Oral,"Four times daily",90,122,Yes,2023-07-26
+6,700,"Furosemide 40mg",Diuretic,Oral,"Twice daily",30,5,No,2022-04-20
+7,555,"Paracetamol 500mg",Analgesic,Oral,"Three times daily",10,10,Partial,2022-03-04
+8,872,"Carbamazepine 200mg",Anticonvulsant,Oral,"Twice daily",21,101,Yes,2022-02-17
+9,1126,"Metronidazole 400mg",Antibiotic,Oral,"Once daily",10,30,Partial,2023-11-30
+10,1339,"Phenobarbital 60mg",Anticonvulsant,Oral,"Four times daily",90,95,Yes,2023-05-07
+11,1091,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",90,33,Yes,2023-04-04
+12,1015,"Warfarin 5mg",Anticoagulant,Oral,"Four times daily",5,117,Partial,2022-08-07
+13,1529,"Folic Acid 5mg",Supplement,Oral,"Three times daily",3,110,Partial,2022-07-02
+14,494,"Ciprofloxacin 500mg",Antibiotic,Oral,"Four times daily",7,150,No,2023-09-15
+15,1472,"Carbamazepine 200mg",Anticonvulsant,Oral,"Once daily",14,58,No,2023-07-15
+16,1354,"Doxycycline 100mg",Antibiotic,Oral,"Once daily",90,109,Partial,2023-02-12
+17,103,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",90,13,Yes,2022-12-23
+18,1547,"Metronidazole 400mg",Antibiotic,Oral,"Twice daily",5,106,No,2022-08-26
+19,725,"Warfarin 5mg",Anticoagulant,Oral,"Once daily",21,135,Partial,2023-03-08
+20,1060,"Cotrimoxazole 480mg",Antibiotic,Oral,"Four times daily",7,90,Partial,2022-02-25
+21,1030,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",30,124,No,2022-06-11
+22,879,"Doxycycline 100mg",Antibiotic,Oral,"Once daily",10,116,No,2022-01-22
+23,1094,"Phenobarbital 60mg",Anticonvulsant,Oral,"Once daily",21,94,Yes,2023-11-11
+24,256,"Losartan 50mg",Antihypertensive,Oral,"Twice daily",30,21,Yes,2022-09-21
+25,120,"Metformin 500mg",Antidiabetic,Oral,"As needed",90,62,Yes,2022-05-19
+26,1741,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Once daily",30,103,Partial,2023-03-22
+27,330,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",14,172,Yes,2022-11-29
+28,677,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Twice daily",14,45,No,2023-10-30
+29,435,"Lisinopril 10mg",Antihypertensive,Oral,"Four times daily",14,61,Partial,2022-08-18
+30,194,"Ciprofloxacin 500mg",Antibiotic,Oral,"Twice daily",30,23,Partial,2023-07-18
+31,280,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",21,146,Yes,2022-09-03
+32,1208,"Ibuprofen 400mg",NSAID,Oral,"Once daily",21,120,Yes,2022-07-11
+33,1641,"Lisinopril 10mg",Antihypertensive,Oral,"Twice daily",30,118,No,2023-11-01
+34,361,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",14,96,Partial,2023-01-17
+35,866,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Four times daily",5,85,Yes,2022-01-31
+36,1719,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Once daily",21,175,Partial,2023-05-25
+37,860,"Metformin 500mg",Antidiabetic,Oral,"Three times daily",7,164,Partial,2022-02-06
+38,262,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",90,73,Partial,2022-04-05
+39,648,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",21,177,No,2023-08-20
+40,558,"Losartan 50mg",Antihypertensive,Oral,"As needed",30,172,Yes,2022-11-22
+41,1789,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",7,107,Yes,2022-11-18
+42,1593,"Fluoxetine 20mg",Antidepressant,Oral,"Once daily",3,103,No,2022-07-11
+43,1042,"Furosemide 40mg",Diuretic,Oral,"Three times daily",5,98,Yes,2023-05-10
+44,100,"Vitamin B12 1mg",Vitamin,Oral,"As needed",90,97,Yes,2023-08-23
+45,1406,"Amoxicillin 500mg",Antibiotic,Oral,"Four times daily",14,155,Partial,2022-08-12
+46,67,"Atorvastatin 20mg",Lipid-lowering,Oral,"Twice daily",90,55,Partial,2022-09-15
+47,1155,"Vitamin B12 1mg",Vitamin,Oral,"Three times daily",3,176,Yes,2023-10-02
+48,672,"Paracetamol 500mg",Analgesic,Oral,"Four times daily",7,33,Yes,2022-10-03
+49,1057,"Fluoxetine 20mg",Antidepressant,Oral,"Once daily",30,75,No,2023-01-21
+50,106,"Atorvastatin 20mg",Lipid-lowering,Oral,"Three times daily",7,115,Partial,2022-09-12
+51,627,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",7,177,Partial,2023-04-06
+52,29,"Amlodipine 5mg",Antihypertensive,Oral,"As needed",5,5,Yes,2022-10-04
+53,1740,"Ibuprofen 400mg",NSAID,Oral,"Once daily",7,154,No,2023-03-30
+54,186,"Atorvastatin 20mg",Lipid-lowering,Oral,"As needed",14,16,No,2023-09-08
+55,1597,"Spironolactone 25mg",Diuretic,Oral,"Three times daily",10,119,Partial,2023-07-22
+56,602,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",7,107,No,2022-04-23
+57,791,"Paracetamol 500mg",Analgesic,Oral,"As needed",10,7,No,2022-01-15
+58,251,"Ibuprofen 400mg",NSAID,Oral,"Once daily",21,136,No,2023-08-30
+59,1704,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Once daily",21,172,No,2022-02-12
+60,647,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Once daily",14,9,Yes,2022-08-10
+61,1246,"Metronidazole 400mg",Antibiotic,Oral,"Once daily",21,13,No,2022-04-26
+62,1613,"Ciprofloxacin 500mg",Antibiotic,Oral,"Once daily",21,101,No,2022-08-15
+63,957,"Furosemide 40mg",Diuretic,Oral,"As needed",30,156,No,2022-02-08
+64,1575,"Doxycycline 100mg",Antibiotic,Oral,"Twice daily",5,65,Yes,2022-04-10
+65,1502,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",14,112,Yes,2022-05-21
+66,27,"Doxycycline 100mg",Antibiotic,Oral,"Once daily",7,79,Partial,2023-04-04
+67,84,"Losartan 50mg",Antihypertensive,Oral,"Four times daily",14,41,No,2022-04-28
+68,53,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",10,106,Yes,2022-02-22
+69,145,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Three times daily",14,154,No,2022-11-25
+70,1188,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Once daily",7,104,Yes,2023-08-16
+71,1376,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Once daily",10,62,Yes,2022-09-23
+72,114,"Folic Acid 5mg",Supplement,Oral,"Four times daily",21,111,No,2022-12-29
+73,72,"Paracetamol 500mg",Analgesic,Oral,"Once daily",30,105,Partial,2023-05-18
+74,924,"Bisoprolol 5mg",Beta-blocker,Oral,"As needed",5,59,Yes,2022-10-20
+75,430,"Warfarin 5mg",Anticoagulant,Oral,"As needed",21,19,Partial,2022-08-29
+76,1064,"Carbamazepine 200mg",Anticonvulsant,Oral,"As needed",30,79,No,2022-04-13
+77,1038,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",21,15,No,2023-01-30
+78,656,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"As needed",21,53,Yes,2022-05-11
+79,528,"Bisoprolol 5mg",Beta-blocker,Oral,"Twice daily",3,125,Yes,2022-10-05
+80,804,"Spironolactone 25mg",Diuretic,Oral,"As needed",90,103,Partial,2022-04-07
+81,904,"Carbamazepine 200mg",Anticonvulsant,Oral,"Twice daily",30,30,Yes,2023-11-17
+82,1553,"Bisoprolol 5mg",Beta-blocker,Oral,"As needed",21,97,Partial,2022-09-15
+83,1453,"Furosemide 40mg",Diuretic,Oral,"As needed",30,35,No,2022-01-14
+84,475,"Ciprofloxacin 500mg",Antibiotic,Oral,"Three times daily",10,152,Yes,2022-11-16
+85,1292,"Spironolactone 25mg",Diuretic,Oral,"Once daily",10,99,Partial,2023-10-11
+86,633,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",7,177,No,2023-05-01
+87,1492,"Ibuprofen 400mg",NSAID,Oral,"As needed",21,149,No,2023-06-07
+88,1017,"Lisinopril 10mg",Antihypertensive,Oral,"As needed",7,8,Partial,2023-09-19
+89,580,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",30,161,Yes,2022-07-02
+90,500,"Prednisolone 5mg",Corticosteroid,Oral,"As needed",30,41,Partial,2023-03-23
+91,824,"Ciprofloxacin 500mg",Antibiotic,Oral,"Twice daily",7,66,Partial,2023-07-06
+92,1543,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Once daily",7,125,Partial,2022-08-25
+93,1173,"Spironolactone 25mg",Diuretic,Oral,"Three times daily",5,141,Yes,2023-09-20
+94,476,"Folic Acid 5mg",Supplement,Oral,"As needed",21,91,No,2023-04-27
+95,1680,"Losartan 50mg",Antihypertensive,Oral,"As needed",3,46,Yes,2023-06-11
+96,1176,"Metformin 500mg",Antidiabetic,Oral,"Once daily",90,132,Yes,2023-11-26
+97,1303,"Metformin 500mg",Antidiabetic,Oral,"Four times daily",7,149,Partial,2023-01-07
+98,1755,"Bisoprolol 5mg",Beta-blocker,Oral,"Once daily",7,103,No,2023-08-09
+99,1136,"Metronidazole 400mg",Antibiotic,Oral,"Three times daily",90,62,Partial,2023-11-14
+100,1238,"Amoxicillin 500mg",Antibiotic,Oral,"Three times daily",5,169,Partial,2023-12-15
+101,566,"Omeprazole 20mg","Proton pump inhibitor",Oral,"As needed",5,12,No,2022-08-11
+102,215,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Twice daily",5,140,Partial,2023-11-10
+103,432,"Folic Acid 5mg",Supplement,Oral,"Four times daily",90,151,No,2022-02-21
+104,220,"Spironolactone 25mg",Diuretic,Oral,"Four times daily",30,168,Partial,2022-09-21
+105,1177,"Paracetamol 500mg",Analgesic,Oral,"Four times daily",7,18,No,2022-04-10
+106,1088,"Atorvastatin 20mg",Lipid-lowering,Oral,"Once daily",14,5,No,2022-08-24
+107,652,"Ibuprofen 400mg",NSAID,Oral,"Three times daily",10,124,No,2022-06-27
+108,1179,"Phenobarbital 60mg",Anticonvulsant,Oral,"Once daily",5,169,No,2023-04-03
+109,775,"Paracetamol 500mg",Analgesic,Oral,"Four times daily",21,169,Yes,2022-07-12
+110,1020,"Bisoprolol 5mg",Beta-blocker,Oral,"Three times daily",7,39,Partial,2022-08-05
+111,139,"Warfarin 5mg",Anticoagulant,Oral,"Twice daily",7,39,Partial,2022-05-12
+112,1073,"Prednisolone 5mg",Corticosteroid,Oral,"Four times daily",90,120,Yes,2023-04-12
+113,449,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Three times daily",21,119,No,2022-12-14
+114,294,"Amlodipine 5mg",Antihypertensive,Oral,"Twice daily",5,173,No,2023-06-23
+115,224,"Spironolactone 25mg",Diuretic,Oral,"Three times daily",7,28,Yes,2022-10-16
+116,412,"Ibuprofen 400mg",NSAID,Oral,"Three times daily",30,13,Yes,2023-12-30
+117,28,"Phenobarbital 60mg",Anticonvulsant,Oral,"Twice daily",10,154,Partial,2023-12-30
+118,718,"Ferrous Sulphate 200mg","Iron supplement",Oral,"As needed",90,143,No,2022-11-01
+119,1745,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Once daily",14,123,Partial,2023-12-06
+120,258,"Doxycycline 100mg",Antibiotic,Oral,"As needed",10,99,No,2023-05-31
+121,1353,"Vitamin B12 1mg",Vitamin,Oral,"As needed",14,119,Partial,2022-02-27
+122,1110,"Spironolactone 25mg",Diuretic,Oral,"Four times daily",10,179,No,2022-07-01
+123,1306,"Ibuprofen 400mg",NSAID,Oral,"Three times daily",10,38,No,2023-10-17
+124,519,"Amlodipine 5mg",Antihypertensive,Oral,"Twice daily",21,84,Partial,2022-03-25
+125,1341,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",90,156,Partial,2023-02-26
+126,1624,"Folic Acid 5mg",Supplement,Oral,"Four times daily",90,139,No,2022-03-11
+127,1454,"Ibuprofen 400mg",NSAID,Oral,"As needed",30,60,No,2023-03-01
+128,359,"Folic Acid 5mg",Supplement,Oral,"Once daily",10,151,Partial,2023-09-26
+129,735,"Ciprofloxacin 500mg",Antibiotic,Oral,"Three times daily",21,154,Yes,2023-12-23
+130,1291,"Atorvastatin 20mg",Lipid-lowering,Oral,"Once daily",21,117,Yes,2022-08-24
+131,1690,"Doxycycline 100mg",Antibiotic,Oral,"Three times daily",3,27,No,2022-10-15
+132,213,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Twice daily",90,129,No,2023-03-09
+133,178,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Four times daily",10,134,No,2023-01-24
+134,1194,"Spironolactone 25mg",Diuretic,Oral,"Three times daily",14,149,No,2023-05-21
+135,1344,"Azithromycin 500mg",Antibiotic,Oral,"Four times daily",5,127,No,2023-10-05
+136,86,"Doxycycline 100mg",Antibiotic,Oral,"Twice daily",7,10,Yes,2023-07-18
+137,403,"Ciprofloxacin 500mg",Antibiotic,Oral,"Once daily",3,12,Yes,2022-09-19
+138,1548,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"As needed",30,175,Partial,2023-09-03
+139,724,"Amlodipine 5mg",Antihypertensive,Oral,"Four times daily",7,86,Yes,2022-11-26
+140,1232,"Paracetamol 500mg",Analgesic,Oral,"Three times daily",21,32,Partial,2023-08-20
+141,615,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",30,118,Yes,2023-10-10
+142,1532,"Ciprofloxacin 500mg",Antibiotic,Oral,"Once daily",3,5,No,2022-09-29
+143,30,"Doxycycline 100mg",Antibiotic,Oral,"Three times daily",90,51,Partial,2022-06-10
+144,1184,"Azithromycin 500mg",Antibiotic,Oral,"Twice daily",90,177,No,2022-10-28
+145,1682,"Spironolactone 25mg",Diuretic,Oral,"As needed",30,113,Partial,2023-12-22
+146,341,"Azithromycin 500mg",Antibiotic,Oral,"Twice daily",14,137,Yes,2022-02-15
+147,1356,"Prednisolone 5mg",Corticosteroid,Oral,"Once daily",90,36,No,2023-04-21
+148,1183,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",5,51,No,2022-08-11
+149,579,"Bisoprolol 5mg",Beta-blocker,Oral,"Three times daily",10,65,Partial,2022-08-26
+150,130,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",21,177,Partial,2023-11-28
+151,372,"Paracetamol 500mg",Analgesic,Oral,"Four times daily",90,59,Partial,2022-05-14
+152,643,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",90,87,Yes,2022-07-31
+153,1157,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",3,81,No,2023-10-25
+154,919,"Warfarin 5mg",Anticoagulant,Oral,"Four times daily",5,70,Yes,2023-04-27
+155,1273,"Carbamazepine 200mg",Anticonvulsant,Oral,"Four times daily",5,166,No,2023-10-05
+156,1280,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"As needed",3,110,Yes,2023-11-08
+157,1513,"Warfarin 5mg",Anticoagulant,Oral,"As needed",3,128,Partial,2023-02-08
+158,1769,"Phenobarbital 60mg",Anticonvulsant,Oral,"Four times daily",90,176,Partial,2023-05-01
+159,75,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Once daily",90,35,Yes,2022-10-24
+160,1493,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Twice daily",21,104,Partial,2023-05-28
+161,1400,"Azithromycin 500mg",Antibiotic,Oral,"Twice daily",3,60,Yes,2022-12-23
+162,468,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Twice daily",30,151,Partial,2022-05-28
+163,1558,"Spironolactone 25mg",Diuretic,Oral,"Three times daily",21,141,Partial,2023-01-24
+164,1581,"Paracetamol 500mg",Analgesic,Oral,"Twice daily",21,7,Partial,2023-07-28
+165,286,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",3,174,Partial,2022-06-30
+166,506,"Ibuprofen 400mg",NSAID,Oral,"Twice daily",14,123,Partial,2022-10-02
+167,1143,"Folic Acid 5mg",Supplement,Oral,"Four times daily",5,51,No,2023-01-23
+168,1111,"Atorvastatin 20mg",Lipid-lowering,Oral,"Three times daily",10,173,Partial,2023-11-18
+169,1674,"Carbamazepine 200mg",Anticonvulsant,Oral,"Twice daily",5,151,Partial,2022-06-30
+170,917,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",21,105,No,2022-11-02
+171,1392,"Cotrimoxazole 480mg",Antibiotic,Oral,"Twice daily",3,154,Partial,2022-03-07
+172,858,"Doxycycline 100mg",Antibiotic,Oral,"As needed",21,105,Partial,2022-08-11
+173,959,"Metformin 500mg",Antidiabetic,Oral,"Once daily",30,56,Partial,2022-05-29
+174,798,"Ciprofloxacin 500mg",Antibiotic,Oral,"Once daily",3,96,No,2022-03-21
+175,882,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",3,119,No,2023-04-19
+176,1642,"Bisoprolol 5mg",Beta-blocker,Oral,"Once daily",14,133,Yes,2022-04-03
+177,1296,"Amoxicillin 500mg",Antibiotic,Oral,"Three times daily",10,126,No,2023-10-09
+178,794,"Azithromycin 500mg",Antibiotic,Oral,"Twice daily",30,98,Yes,2023-05-10
+179,339,"Carbamazepine 200mg",Anticonvulsant,Oral,"Twice daily",21,153,No,2023-07-12
+180,1491,"Phenobarbital 60mg",Anticonvulsant,Oral,"Four times daily",90,125,No,2022-03-04
+181,1689,"Furosemide 40mg",Diuretic,Oral,"Three times daily",14,137,No,2023-08-22
+182,1653,"Ciprofloxacin 500mg",Antibiotic,Oral,"Once daily",90,27,Yes,2023-12-12
+183,1723,"Warfarin 5mg",Anticoagulant,Oral,"As needed",30,160,No,2022-04-09
+184,146,"Furosemide 40mg",Diuretic,Oral,"Three times daily",7,127,Yes,2022-02-20
+185,414,"Azithromycin 500mg",Antibiotic,Oral,"Twice daily",10,60,No,2022-04-18
+186,1600,"Amoxicillin 500mg",Antibiotic,Oral,"Twice daily",30,135,No,2022-07-19
+187,635,"Paracetamol 500mg",Analgesic,Oral,"Three times daily",30,10,Yes,2022-03-07
+188,35,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Four times daily",14,24,Partial,2023-05-27
+189,1327,"Paracetamol 500mg",Analgesic,Oral,"Once daily",7,160,Yes,2023-06-23
+190,436,"Cotrimoxazole 480mg",Antibiotic,Oral,"Twice daily",21,21,No,2023-08-28
+191,1156,"Prednisolone 5mg",Corticosteroid,Oral,"Four times daily",5,126,Partial,2023-11-14
+192,1254,"Carbamazepine 200mg",Anticonvulsant,Oral,"Three times daily",21,147,No,2022-06-10
+193,964,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",21,97,Yes,2023-12-09
+194,1127,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Three times daily",90,176,Yes,2023-03-24
+195,447,"Amoxicillin 500mg",Antibiotic,Oral,"Once daily",7,42,No,2024-01-01
+196,1778,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"As needed",10,65,Partial,2022-05-28
+197,945,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",90,31,Partial,2022-07-18
+198,588,"Prednisolone 5mg",Corticosteroid,Oral,"As needed",30,81,Partial,2022-06-10
+199,595,"Fluoxetine 20mg",Antidepressant,Oral,"As needed",14,132,Partial,2023-02-27
+200,1371,"Cotrimoxazole 480mg",Antibiotic,Oral,"Three times daily",21,13,Partial,2023-12-02
+201,1434,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"As needed",10,31,Yes,2022-05-06
+202,1337,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Three times daily",3,139,No,2022-02-20
+203,399,"Carbamazepine 200mg",Anticonvulsant,Oral,"As needed",90,85,Partial,2022-11-14
+204,44,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",3,178,Partial,2023-07-10
+205,1082,"Lisinopril 10mg",Antihypertensive,Oral,"Once daily",21,140,Yes,2022-04-22
+206,205,"Metformin 500mg",Antidiabetic,Oral,"As needed",30,129,No,2023-05-19
+207,1046,"Vitamin B12 1mg",Vitamin,Oral,"Three times daily",14,132,Partial,2022-03-23
+208,1664,"Warfarin 5mg",Anticoagulant,Oral,"Twice daily",90,141,No,2023-07-16
+209,835,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",10,103,No,2022-10-30
+210,490,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",10,61,Yes,2022-11-04
+211,1774,"Losartan 50mg",Antihypertensive,Oral,"Four times daily",90,75,No,2023-08-11
+212,1415,"Fluoxetine 20mg",Antidepressant,Oral,"Twice daily",10,127,No,2022-06-01
+213,1549,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Four times daily",7,133,Yes,2023-09-23
+214,1165,"Carbamazepine 200mg",Anticonvulsant,Oral,"Once daily",21,5,Yes,2022-08-12
+215,1361,"Paracetamol 500mg",Analgesic,Oral,"Three times daily",10,145,No,2023-05-26
+216,419,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Three times daily",21,17,Partial,2022-06-18
+217,1298,"Lisinopril 10mg",Antihypertensive,Oral,"As needed",14,7,Partial,2023-10-11
+218,1277,"Metformin 500mg",Antidiabetic,Oral,"Three times daily",90,38,Partial,2022-01-28
+219,1402,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Four times daily",30,46,No,2022-03-19
+220,1631,"Cotrimoxazole 480mg",Antibiotic,Oral,"Three times daily",90,120,Yes,2023-02-24
+221,1446,"Phenobarbital 60mg",Anticonvulsant,Oral,"Once daily",21,153,Yes,2023-09-14
+222,18,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Once daily",90,81,Partial,2022-08-26
+223,370,"Phenobarbital 60mg",Anticonvulsant,Oral,"Four times daily",21,57,No,2023-03-28
+224,789,"Doxycycline 100mg",Antibiotic,Oral,"As needed",21,139,Partial,2022-11-03
+225,1541,"Ibuprofen 400mg",NSAID,Oral,"As needed",21,172,Partial,2023-04-09
+226,783,"Lisinopril 10mg",Antihypertensive,Oral,"Twice daily",5,166,No,2023-07-03
+227,497,"Cotrimoxazole 480mg",Antibiotic,Oral,"Three times daily",14,158,Partial,2022-03-08
+228,1045,"Carbamazepine 200mg",Anticonvulsant,Oral,"Four times daily",10,149,Partial,2022-07-05
+229,342,"Furosemide 40mg",Diuretic,Oral,"Four times daily",14,127,Partial,2023-05-10
+230,10,"Cotrimoxazole 480mg",Antibiotic,Oral,"Twice daily",90,168,Yes,2022-03-23
+231,967,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",14,136,Partial,2023-04-01
+232,1743,"Prednisolone 5mg",Corticosteroid,Oral,"Four times daily",5,163,Yes,2023-07-16
+233,714,"Ferrous Sulphate 200mg","Iron supplement",Oral,"As needed",90,90,Partial,2023-05-20
+234,1715,"Warfarin 5mg",Anticoagulant,Oral,"As needed",10,37,No,2022-07-11
+235,1146,"Losartan 50mg",Antihypertensive,Oral,"As needed",3,168,Yes,2022-03-03
+236,164,"Furosemide 40mg",Diuretic,Oral,"As needed",3,86,Partial,2022-12-26
+237,1129,"Folic Acid 5mg",Supplement,Oral,"Once daily",90,63,Partial,2022-11-26
+238,668,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Three times daily",14,13,Partial,2023-08-04
+239,241,"Atorvastatin 20mg",Lipid-lowering,Oral,"As needed",10,75,Partial,2022-07-09
+240,456,"Metronidazole 400mg",Antibiotic,Oral,"Four times daily",7,173,No,2023-04-26
+241,458,"Lisinopril 10mg",Antihypertensive,Oral,"Twice daily",10,161,Yes,2022-09-10
+242,216,"Spironolactone 25mg",Diuretic,Oral,"Once daily",30,91,Yes,2022-07-27
+243,160,"Prednisolone 5mg",Corticosteroid,Oral,"Twice daily",21,161,Partial,2022-11-18
+244,963,"Carbamazepine 200mg",Anticonvulsant,Oral,"As needed",3,151,Partial,2022-06-10
+245,1044,"Ibuprofen 400mg",NSAID,Oral,"Twice daily",5,157,Partial,2022-01-01
+246,850,"Ibuprofen 400mg",NSAID,Oral,"Four times daily",90,166,Partial,2023-10-11
+247,116,"Paracetamol 500mg",Analgesic,Oral,"As needed",7,126,Yes,2023-04-22
+248,699,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",10,17,No,2023-04-26
+249,897,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Twice daily",10,116,Partial,2023-02-26
+250,920,"Metformin 500mg",Antidiabetic,Oral,"As needed",90,173,No,2023-05-26
+251,832,"Ibuprofen 400mg",NSAID,Oral,"Three times daily",21,7,Yes,2023-12-04
+252,927,"Doxycycline 100mg",Antibiotic,Oral,"Three times daily",14,98,No,2022-02-17
+253,1011,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Twice daily",30,45,No,2022-01-28
+254,147,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",3,118,No,2022-08-25
+255,1215,"Ciprofloxacin 500mg",Antibiotic,Oral,"Twice daily",7,108,Partial,2022-06-01
+256,1770,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",7,93,Partial,2023-01-31
+257,1443,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Once daily",21,164,Partial,2023-11-18
+258,1362,"Atorvastatin 20mg",Lipid-lowering,Oral,"Three times daily",30,132,Yes,2022-03-11
+259,1145,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Four times daily",21,57,No,2023-07-19
+260,1132,"Losartan 50mg",Antihypertensive,Oral,"Four times daily",7,76,No,2022-11-20
+261,1243,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Once daily",90,176,Yes,2023-06-03
+262,277,"Azithromycin 500mg",Antibiotic,Oral,"As needed",14,6,Partial,2022-12-04
+263,69,"Ciprofloxacin 500mg",Antibiotic,Oral,"Three times daily",10,145,Yes,2023-01-09
+264,467,"Amoxicillin 500mg",Antibiotic,Oral,"Four times daily",21,163,No,2023-05-04
+265,121,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Four times daily",10,163,Partial,2022-02-04
+266,320,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Four times daily",3,94,Yes,2022-07-14
+267,1087,"Bisoprolol 5mg",Beta-blocker,Oral,"Once daily",30,160,Partial,2023-04-05
+268,910,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Once daily",7,141,Yes,2022-11-22
+269,655,"Phenobarbital 60mg",Anticonvulsant,Oral,"As needed",10,146,Partial,2022-01-29
+270,1552,"Losartan 50mg",Antihypertensive,Oral,"Twice daily",90,138,Partial,2022-08-18
+271,553,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",7,33,Partial,2023-08-11
+272,1538,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Three times daily",5,62,Partial,2022-04-16
+273,733,"Paracetamol 500mg",Analgesic,Oral,"Twice daily",3,114,No,2022-07-16
+274,1032,"Warfarin 5mg",Anticoagulant,Oral,"Once daily",21,140,Yes,2022-02-04
+275,1279,"Fluoxetine 20mg",Antidepressant,Oral,"As needed",14,179,No,2022-07-29
+276,381,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",5,113,Partial,2022-06-15
+277,488,"Amoxicillin 500mg",Antibiotic,Oral,"As needed",30,113,Partial,2023-11-14
+278,1630,"Fluoxetine 20mg",Antidepressant,Oral,"Once daily",30,126,Partial,2023-01-16
+279,1735,"Carbamazepine 200mg",Anticonvulsant,Oral,"Three times daily",21,119,Yes,2022-12-01
+280,429,"Metronidazole 400mg",Antibiotic,Oral,"Once daily",3,86,No,2023-10-17
+281,856,"Azithromycin 500mg",Antibiotic,Oral,"Four times daily",90,173,Yes,2022-12-29
+282,1796,"Metformin 500mg",Antidiabetic,Oral,"Three times daily",3,50,Partial,2023-12-06
+283,1692,"Losartan 50mg",Antihypertensive,Oral,"As needed",5,11,No,2023-07-08
+284,1531,"Carbamazepine 200mg",Anticonvulsant,Oral,"Three times daily",21,140,Partial,2022-06-04
+285,1002,"Amoxicillin 500mg",Antibiotic,Oral,"Three times daily",90,133,Partial,2023-01-04
+286,1086,"Vitamin B12 1mg",Vitamin,Oral,"Four times daily",7,16,No,2022-01-22
+287,988,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",5,9,Partial,2022-03-29
+288,227,"Prednisolone 5mg",Corticosteroid,Oral,"Once daily",90,82,No,2022-09-08
+289,1218,"Lisinopril 10mg",Antihypertensive,Oral,"Four times daily",30,8,No,2023-11-19
+290,1318,"Lisinopril 10mg",Antihypertensive,Oral,"Four times daily",5,27,Partial,2023-10-13
+291,348,"Prednisolone 5mg",Corticosteroid,Oral,"Four times daily",30,27,Yes,2023-10-26
+292,546,"Metronidazole 400mg",Antibiotic,Oral,"Once daily",14,117,No,2023-11-02
+293,1799,"Prednisolone 5mg",Corticosteroid,Oral,"Once daily",3,15,Partial,2022-12-10
+294,1570,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Three times daily",3,169,No,2023-08-25
+295,1357,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",90,10,Partial,2023-08-08
+296,1673,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Once daily",30,84,No,2022-11-12
+297,1518,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Twice daily",21,116,No,2022-12-23
+298,663,"Folic Acid 5mg",Supplement,Oral,"As needed",3,178,Yes,2023-11-03
+299,1795,"Phenobarbital 60mg",Anticonvulsant,Oral,"Twice daily",10,108,Partial,2023-05-14
+300,954,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",14,97,Partial,2023-06-07
+301,132,"Carbamazepine 200mg",Anticonvulsant,Oral,"Once daily",90,14,No,2022-08-15
+302,388,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Three times daily",5,80,No,2023-11-15
+303,830,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Three times daily",14,170,No,2023-09-20
+304,578,"Doxycycline 100mg",Antibiotic,Oral,"Four times daily",30,68,No,2023-09-15
+305,1181,"Amlodipine 5mg",Antihypertensive,Oral,"Once daily",3,71,Partial,2022-08-05
+306,849,"Warfarin 5mg",Anticoagulant,Oral,"As needed",3,74,No,2023-07-18
+307,977,"Bisoprolol 5mg",Beta-blocker,Oral,"As needed",30,131,No,2022-06-19
+308,530,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",5,82,Yes,2023-12-05
+309,1430,"Warfarin 5mg",Anticoagulant,Oral,"Four times daily",5,117,Yes,2023-08-02
+310,745,"Warfarin 5mg",Anticoagulant,Oral,"As needed",90,58,Yes,2023-05-25
+311,195,"Losartan 50mg",Antihypertensive,Oral,"Once daily",5,106,Partial,2023-07-01
+312,1423,"Carbamazepine 200mg",Anticonvulsant,Oral,"As needed",5,62,Yes,2022-08-24
+313,634,"Bisoprolol 5mg",Beta-blocker,Oral,"As needed",14,102,No,2022-04-22
+314,1762,"Azithromycin 500mg",Antibiotic,Oral,"Twice daily",5,98,Yes,2022-04-14
+315,469,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",21,71,Partial,2023-01-30
+316,1588,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",90,64,Yes,2022-06-08
+317,730,"Bisoprolol 5mg",Beta-blocker,Oral,"Three times daily",10,112,Yes,2022-05-11
+318,364,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Four times daily",90,106,Yes,2022-06-15
+319,728,"Vitamin B12 1mg",Vitamin,Oral,"As needed",21,132,No,2023-10-17
+320,909,"Warfarin 5mg",Anticoagulant,Oral,"Three times daily",90,76,Partial,2022-02-08
+321,1473,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Once daily",90,35,Partial,2022-08-26
+322,616,"Doxycycline 100mg",Antibiotic,Oral,"Twice daily",5,91,Partial,2022-04-07
+323,609,"Carbamazepine 200mg",Anticonvulsant,Oral,"Four times daily",3,76,Yes,2023-01-27
+324,1389,"Losartan 50mg",Antihypertensive,Oral,"Once daily",14,69,Partial,2022-03-31
+325,1062,"Spironolactone 25mg",Diuretic,Oral,"Four times daily",21,14,Partial,2022-09-26
+326,1090,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",21,52,Partial,2022-09-25
+327,300,"Metronidazole 400mg",Antibiotic,Oral,"Three times daily",7,158,Partial,2023-09-03
+328,662,"Metronidazole 400mg",Antibiotic,Oral,"Three times daily",14,27,No,2023-11-21
+329,1636,"Losartan 50mg",Antihypertensive,Oral,"As needed",5,61,No,2023-04-20
+330,859,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Once daily",14,157,No,2023-05-12
+331,1676,"Losartan 50mg",Antihypertensive,Oral,"Four times daily",7,10,No,2022-07-13
+332,1237,"Vitamin B12 1mg",Vitamin,Oral,"As needed",10,118,Yes,2023-09-01
+333,1175,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",7,84,Yes,2023-05-02
+334,1757,"Azithromycin 500mg",Antibiotic,Oral,"Four times daily",3,129,Partial,2023-11-07
+335,1449,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",14,116,Partial,2022-10-04
+336,231,"Metformin 500mg",Antidiabetic,Oral,"Twice daily",30,36,Yes,2022-12-27
+337,1067,"Amoxicillin 500mg",Antibiotic,Oral,"Three times daily",7,88,Partial,2022-12-16
+338,749,"Phenobarbital 60mg",Anticonvulsant,Oral,"Once daily",10,41,Partial,2022-06-06
+339,214,"Losartan 50mg",Antihypertensive,Oral,"Once daily",10,141,Partial,2022-05-06
+340,211,"Bisoprolol 5mg",Beta-blocker,Oral,"Three times daily",21,23,Yes,2023-08-13
+341,230,"Azithromycin 500mg",Antibiotic,Oral,"Three times daily",14,38,No,2023-01-06
+342,645,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Twice daily",90,91,Yes,2023-01-12
+343,887,"Phenobarbital 60mg",Anticonvulsant,Oral,"As needed",3,135,Partial,2023-10-25
+344,976,"Spironolactone 25mg",Diuretic,Oral,"As needed",7,8,Partial,2022-06-10
+345,512,"Paracetamol 500mg",Analgesic,Oral,"Once daily",7,105,Yes,2022-07-30
+346,1707,"Metronidazole 400mg",Antibiotic,Oral,"Once daily",7,173,No,2022-08-05
+347,1113,"Paracetamol 500mg",Analgesic,Oral,"As needed",5,68,Yes,2023-02-21
+348,706,"Paracetamol 500mg",Analgesic,Oral,"Twice daily",90,68,Yes,2022-06-08
+349,153,"Spironolactone 25mg",Diuretic,Oral,"Four times daily",7,119,Partial,2023-03-16
+350,1659,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Three times daily",30,162,Partial,2023-06-03
+351,942,"Vitamin B12 1mg",Vitamin,Oral,"As needed",5,153,No,2022-10-27
+352,877,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Four times daily",90,168,No,2023-04-14
+353,1603,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Three times daily",7,152,Partial,2022-10-02
+354,862,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"As needed",10,23,Yes,2023-03-04
+355,1013,"Paracetamol 500mg",Analgesic,Oral,"Three times daily",90,45,No,2023-02-17
+356,76,"Fluoxetine 20mg",Antidepressant,Oral,"As needed",14,159,Yes,2023-12-05
+357,1330,"Furosemide 40mg",Diuretic,Oral,"Twice daily",30,171,Partial,2023-03-26
+358,755,"Doxycycline 100mg",Antibiotic,Oral,"As needed",10,52,Yes,2022-07-15
+359,124,"Atorvastatin 20mg",Lipid-lowering,Oral,"Four times daily",5,57,Yes,2023-05-11
+360,1785,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",3,92,Yes,2022-11-06
+361,848,"Amlodipine 5mg",Antihypertensive,Oral,"Twice daily",10,53,Yes,2022-04-15
+362,1475,"Doxycycline 100mg",Antibiotic,Oral,"Three times daily",5,136,Yes,2022-04-18
+363,19,"Phenobarbital 60mg",Anticonvulsant,Oral,"Four times daily",14,143,Yes,2022-06-11
+364,1247,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Four times daily",7,142,Yes,2022-05-03
+365,1116,"Bisoprolol 5mg",Beta-blocker,Oral,"As needed",10,133,No,2023-12-11
+366,415,"Folic Acid 5mg",Supplement,Oral,"As needed",21,54,Yes,2022-04-23
+367,1033,"Prednisolone 5mg",Corticosteroid,Oral,"Three times daily",10,149,Partial,2023-07-12
+368,1726,"Carbamazepine 200mg",Anticonvulsant,Oral,"Once daily",21,129,Yes,2022-09-24
+369,1670,"Vitamin B12 1mg",Vitamin,Oral,"Once daily",21,153,Yes,2022-01-23
+370,1667,"Azithromycin 500mg",Antibiotic,Oral,"Four times daily",30,8,No,2023-03-07
+371,1560,"Bisoprolol 5mg",Beta-blocker,Oral,"Twice daily",10,102,Partial,2022-03-03
+372,531,"Metronidazole 400mg",Antibiotic,Oral,"Four times daily",3,41,Partial,2023-10-31
+373,889,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Twice daily",14,131,No,2023-10-17
+374,1503,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Twice daily",7,91,Yes,2023-10-16
+375,1442,"Vitamin B12 1mg",Vitamin,Oral,"As needed",7,114,No,2022-04-12
+376,1483,"Vitamin B12 1mg",Vitamin,Oral,"Twice daily",21,16,Partial,2022-05-09
+377,994,"Atorvastatin 20mg",Lipid-lowering,Oral,"Once daily",14,13,Yes,2022-11-27
+378,1618,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",90,171,Yes,2023-02-09
+379,1043,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"As needed",5,14,No,2023-09-19
+380,878,"Paracetamol 500mg",Analgesic,Oral,"Three times daily",7,113,No,2023-02-10
+381,1751,"Fluoxetine 20mg",Antidepressant,Oral,"Three times daily",3,141,Yes,2023-03-05
+382,510,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Once daily",30,147,No,2022-06-17
+383,1282,"Lisinopril 10mg",Antihypertensive,Oral,"Three times daily",3,118,Yes,2023-04-28
+384,613,"Amoxicillin 500mg",Antibiotic,Oral,"Once daily",90,26,Partial,2022-07-22
+385,705,"Warfarin 5mg",Anticoagulant,Oral,"Once daily",10,163,Yes,2023-09-10
+386,772,"Spironolactone 25mg",Diuretic,Oral,"Twice daily",3,18,Partial,2023-11-12
+387,416,"Phenobarbital 60mg",Anticonvulsant,Oral,"Twice daily",30,15,Partial,2022-01-08
+388,1410,"Doxycycline 100mg",Antibiotic,Oral,"Twice daily",14,131,Partial,2023-06-10
+389,1787,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",90,164,No,2023-07-02
+390,424,"Losartan 50mg",Antihypertensive,Oral,"As needed",7,21,Yes,2022-06-22
+391,1107,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Twice daily",5,89,Yes,2022-06-06
+392,1657,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Twice daily",7,39,No,2023-04-10
+393,309,"Azithromycin 500mg",Antibiotic,Oral,"Twice daily",21,70,Yes,2022-04-25
+394,501,"Metronidazole 400mg",Antibiotic,Oral,"As needed",10,145,No,2022-10-30
+395,1479,"Paracetamol 500mg",Analgesic,Oral,"Three times daily",14,65,No,2022-03-29
+396,1278,"Ibuprofen 400mg",NSAID,Oral,"As needed",30,84,Partial,2023-09-07
+397,737,"Cotrimoxazole 480mg",Antibiotic,Oral,"Four times daily",3,19,Partial,2023-10-07
+398,284,"Losartan 50mg",Antihypertensive,Oral,"As needed",7,74,Partial,2022-08-10
+399,572,"Phenobarbital 60mg",Anticonvulsant,Oral,"Four times daily",10,127,Partial,2023-01-04
+400,658,"Doxycycline 100mg",Antibiotic,Oral,"Three times daily",3,76,Partial,2023-07-12
+401,926,"Omeprazole 20mg","Proton pump inhibitor",Oral,"As needed",90,97,Yes,2022-01-14
+402,110,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",90,13,No,2023-08-19
+403,695,"Amlodipine 5mg",Antihypertensive,Oral,"Twice daily",5,118,Yes,2022-04-08
+404,158,"Doxycycline 100mg",Antibiotic,Oral,"Once daily",10,97,No,2023-12-25
+405,649,"Ibuprofen 400mg",NSAID,Oral,"Once daily",14,54,Yes,2022-08-31
+406,691,"Lisinopril 10mg",Antihypertensive,Oral,"Three times daily",30,153,Partial,2022-09-28
+407,1608,"Metformin 500mg",Antidiabetic,Oral,"Once daily",3,26,Partial,2023-02-20
+408,1534,"Metformin 500mg",Antidiabetic,Oral,"Once daily",10,58,Partial,2022-07-10
+409,1307,"Metformin 500mg",Antidiabetic,Oral,"Four times daily",7,49,Partial,2022-02-25
+410,274,"Azithromycin 500mg",Antibiotic,Oral,"As needed",10,24,Partial,2022-10-10
+411,825,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Four times daily",30,63,Yes,2022-04-30
+412,394,"Phenobarbital 60mg",Anticonvulsant,Oral,"Once daily",14,18,No,2022-06-09
+413,1097,"Amoxicillin 500mg",Antibiotic,Oral,"Once daily",3,21,Partial,2022-03-29
+414,1114,"Ciprofloxacin 500mg",Antibiotic,Oral,"Four times daily",5,159,No,2022-10-30
+415,16,"Furosemide 40mg",Diuretic,Oral,"Four times daily",14,16,Partial,2022-04-23
+416,1311,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"As needed",21,12,No,2022-03-17
+417,1435,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Once daily",3,90,Partial,2023-03-28
+418,1655,"Vitamin B12 1mg",Vitamin,Oral,"Twice daily",21,45,Partial,2022-08-20
+419,552,"Prednisolone 5mg",Corticosteroid,Oral,"As needed",21,27,Partial,2023-03-19
+420,298,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Three times daily",7,72,Yes,2022-09-03
+421,951,"Doxycycline 100mg",Antibiotic,Oral,"Once daily",7,52,No,2023-01-21
+422,182,"Paracetamol 500mg",Analgesic,Oral,"Once daily",3,106,Partial,2022-12-01
+423,774,"Folic Acid 5mg",Supplement,Oral,"Four times daily",3,48,Partial,2023-08-19
+424,226,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Twice daily",21,119,Partial,2023-03-31
+425,1363,"Metronidazole 400mg",Antibiotic,Oral,"Once daily",14,153,Yes,2023-01-12
+426,1076,"Paracetamol 500mg",Analgesic,Oral,"Once daily",90,91,Yes,2022-06-04
+427,799,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Four times daily",90,178,Partial,2022-06-17
+428,1590,"Phenobarbital 60mg",Anticonvulsant,Oral,"Once daily",21,139,Partial,2023-06-20
+429,1048,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"As needed",5,107,No,2023-07-22
+430,1295,"Bisoprolol 5mg",Beta-blocker,Oral,"Twice daily",5,127,Yes,2022-11-21
+431,1378,"Bisoprolol 5mg",Beta-blocker,Oral,"Once daily",5,22,Partial,2022-06-16
+432,1731,"Folic Acid 5mg",Supplement,Oral,"Three times daily",5,45,Partial,2023-12-20
+433,948,"Vitamin B12 1mg",Vitamin,Oral,"As needed",14,98,Partial,2023-03-03
+434,514,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Twice daily",5,177,Yes,2023-03-31
+435,986,"Atorvastatin 20mg",Lipid-lowering,Oral,"Four times daily",14,28,No,2022-01-01
+436,1520,"Azithromycin 500mg",Antibiotic,Oral,"Four times daily",30,157,Partial,2022-11-14
+437,369,"Spironolactone 25mg",Diuretic,Oral,"Three times daily",3,143,Partial,2023-05-03
+438,442,"Folic Acid 5mg",Supplement,Oral,"Once daily",10,70,Yes,2022-05-06
+439,1675,"Doxycycline 100mg",Antibiotic,Oral,"Once daily",90,108,Yes,2023-04-18
+440,962,"Metformin 500mg",Antidiabetic,Oral,"Four times daily",5,57,No,2022-02-07
+441,51,"Lisinopril 10mg",Antihypertensive,Oral,"Once daily",7,120,Yes,2023-06-30
+442,1521,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Once daily",5,121,Yes,2022-01-31
+443,1140,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Three times daily",90,155,Partial,2023-01-02
+444,1718,"Losartan 50mg",Antihypertensive,Oral,"Four times daily",14,8,Yes,2022-03-07
+445,1335,"Warfarin 5mg",Anticoagulant,Oral,"Once daily",21,79,Yes,2023-02-13
+446,1582,"Folic Acid 5mg",Supplement,Oral,"Once daily",90,146,Yes,2022-10-25
+447,1586,"Atorvastatin 20mg",Lipid-lowering,Oral,"Once daily",30,76,Yes,2022-10-05
+448,1148,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Twice daily",14,174,No,2022-03-13
+449,1533,"Losartan 50mg",Antihypertensive,Oral,"Once daily",14,126,Partial,2022-10-26
+450,380,"Azithromycin 500mg",Antibiotic,Oral,"Four times daily",30,41,Partial,2023-06-25
+451,847,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",10,20,No,2023-03-12
+452,1079,"Spironolactone 25mg",Diuretic,Oral,"Three times daily",7,23,Yes,2023-03-09
+453,197,"Carbamazepine 200mg",Anticonvulsant,Oral,"As needed",14,107,Yes,2022-08-18
+454,1169,"Ibuprofen 400mg",NSAID,Oral,"As needed",21,30,No,2023-12-20
+455,1499,"Furosemide 40mg",Diuretic,Oral,"As needed",7,65,Partial,2023-12-07
+456,252,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",21,42,Yes,2023-05-23
+457,1251,"Metronidazole 400mg",Antibiotic,Oral,"Four times daily",14,88,Yes,2022-08-28
+458,318,"Lisinopril 10mg",Antihypertensive,Oral,"Four times daily",14,153,Partial,2022-01-10
+459,367,"Fluoxetine 20mg",Antidepressant,Oral,"Once daily",21,170,Partial,2022-04-16
+460,1172,"Lisinopril 10mg",Antihypertensive,Oral,"Twice daily",90,172,Yes,2022-08-18
+461,575,"Doxycycline 100mg",Antibiotic,Oral,"Three times daily",30,66,No,2022-04-18
+462,185,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",90,144,No,2023-12-02
+463,360,"Amlodipine 5mg",Antihypertensive,Oral,"Four times daily",30,152,No,2022-11-25
+464,457,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Four times daily",3,33,No,2023-06-24
+465,1786,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Once daily",14,32,No,2023-11-21
+466,1594,"Furosemide 40mg",Diuretic,Oral,"Three times daily",14,130,Partial,2023-05-26
+467,2,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Twice daily",14,62,Partial,2023-11-02
+468,803,"Losartan 50mg",Antihypertensive,Oral,"As needed",90,68,Partial,2023-09-10
+469,1351,"Paracetamol 500mg",Analgesic,Oral,"Once daily",5,175,Partial,2023-05-30
+470,1568,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Three times daily",7,97,Yes,2022-03-20
+471,493,"Azithromycin 500mg",Antibiotic,Oral,"Four times daily",21,17,Partial,2022-01-05
+472,1369,"Vitamin B12 1mg",Vitamin,Oral,"As needed",10,126,Yes,2022-03-26
+473,1367,"Carbamazepine 200mg",Anticonvulsant,Oral,"Once daily",21,164,Partial,2023-07-25
+474,1490,"Warfarin 5mg",Anticoagulant,Oral,"Four times daily",14,169,Yes,2023-09-28
+475,1028,"Prednisolone 5mg",Corticosteroid,Oral,"Twice daily",3,88,No,2023-11-04
+476,739,"Prednisolone 5mg",Corticosteroid,Oral,"Once daily",21,128,No,2022-06-06
+477,563,"Ibuprofen 400mg",NSAID,Oral,"Once daily",14,119,No,2022-06-06
+478,1736,"Phenobarbital 60mg",Anticonvulsant,Oral,"Four times daily",3,106,Yes,2023-09-13
+479,754,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Twice daily",14,24,Partial,2023-10-13
+480,570,"Lisinopril 10mg",Antihypertensive,Oral,"Once daily",21,73,Yes,2023-12-08
+481,1500,"Folic Acid 5mg",Supplement,Oral,"Four times daily",7,129,No,2023-10-24
+482,1105,"Spironolactone 25mg",Diuretic,Oral,"As needed",3,135,No,2023-11-03
+483,1256,"Amlodipine 5mg",Antihypertensive,Oral,"Four times daily",10,27,Yes,2022-06-03
+484,337,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",90,154,Partial,2023-09-10
+485,1694,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"As needed",7,46,Yes,2022-09-05
+486,1104,"Atorvastatin 20mg",Lipid-lowering,Oral,"Twice daily",21,104,Partial,2023-05-26
+487,1515,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",3,59,No,2022-12-19
+488,1591,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Four times daily",5,113,Yes,2023-12-07
+489,176,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Once daily",14,28,Yes,2022-10-13
+490,536,"Vitamin B12 1mg",Vitamin,Oral,"Twice daily",90,172,No,2023-05-22
+491,8,"Amoxicillin 500mg",Antibiotic,Oral,"Twice daily",10,85,No,2023-05-19
+492,105,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Four times daily",14,51,Yes,2023-11-24
+493,1455,"Spironolactone 25mg",Diuretic,Oral,"Three times daily",7,8,No,2022-09-16
+494,711,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Once daily",90,157,Yes,2023-05-08
+495,1710,"Cotrimoxazole 480mg",Antibiotic,Oral,"Once daily",21,171,No,2023-04-12
+496,461,"Atorvastatin 20mg",Lipid-lowering,Oral,"As needed",14,41,Partial,2022-02-21
+497,58,"Bisoprolol 5mg",Beta-blocker,Oral,"Three times daily",7,174,Partial,2022-08-20
+498,1414,"Bisoprolol 5mg",Beta-blocker,Oral,"Once daily",21,96,No,2023-12-02
+499,325,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",90,160,No,2023-09-14
+500,1035,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Four times daily",14,176,Yes,2023-05-16
+501,1408,"Amoxicillin 500mg",Antibiotic,Oral,"Four times daily",21,121,Yes,2022-08-16
+502,883,"Ibuprofen 400mg",NSAID,Oral,"Once daily",30,179,Yes,2022-05-11
+503,973,"Warfarin 5mg",Anticoagulant,Oral,"Twice daily",5,66,Partial,2022-04-17
+504,391,"Lisinopril 10mg",Antihypertensive,Oral,"Once daily",10,172,Yes,2022-02-21
+505,669,"Lisinopril 10mg",Antihypertensive,Oral,"Once daily",90,89,Yes,2023-01-17
+506,621,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",7,71,Partial,2023-08-14
+507,1255,"Cotrimoxazole 480mg",Antibiotic,Oral,"As needed",14,31,Yes,2022-08-05
+508,1438,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",7,63,Yes,2022-02-04
+509,632,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",10,139,Partial,2023-12-22
+510,915,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",3,152,Partial,2022-08-01
+511,1187,"Warfarin 5mg",Anticoagulant,Oral,"Once daily",10,127,Yes,2023-06-24
+512,1120,"Prednisolone 5mg",Corticosteroid,Oral,"As needed",90,137,Yes,2023-05-07
+513,779,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Twice daily",5,62,Yes,2023-03-11
+514,738,"Losartan 50mg",Antihypertensive,Oral,"As needed",7,40,Partial,2023-10-28
+515,908,"Amlodipine 5mg",Antihypertensive,Oral,"As needed",3,163,No,2022-08-03
+516,206,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Once daily",21,32,No,2022-08-26
+517,874,"Atorvastatin 20mg",Lipid-lowering,Oral,"Four times daily",14,74,No,2023-09-05
+518,1527,"Hydrochlorothiazide 25mg",Diuretic,Oral,"As needed",10,143,Yes,2022-07-22
+519,1197,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Three times daily",90,64,No,2022-05-07
+520,895,"Lisinopril 10mg",Antihypertensive,Oral,"Twice daily",10,119,Yes,2023-11-19
+521,1336,"Cotrimoxazole 480mg",Antibiotic,Oral,"As needed",14,106,Yes,2022-11-10
+522,190,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",21,83,Yes,2023-03-27
+523,1598,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",3,8,Partial,2022-08-27
+524,303,"Carbamazepine 200mg",Anticonvulsant,Oral,"Three times daily",21,171,No,2023-06-16
+525,751,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",14,146,No,2022-04-14
+526,123,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",3,175,No,2022-07-03
+527,1075,"Warfarin 5mg",Anticoagulant,Oral,"Twice daily",21,19,Yes,2023-07-02
+528,1365,"Cotrimoxazole 480mg",Antibiotic,Oral,"Four times daily",90,156,No,2022-06-19
+529,354,"Furosemide 40mg",Diuretic,Oral,"As needed",90,95,Yes,2023-04-21
+530,1106,"Atorvastatin 20mg",Lipid-lowering,Oral,"Three times daily",30,80,Yes,2022-11-25
+531,836,"Spironolactone 25mg",Diuretic,Oral,"Twice daily",10,13,Partial,2022-01-17
+532,1099,"Phenobarbital 60mg",Anticonvulsant,Oral,"Four times daily",30,179,Partial,2022-03-04
+533,1649,"Doxycycline 100mg",Antibiotic,Oral,"Four times daily",10,64,Yes,2022-04-13
+534,1744,"Warfarin 5mg",Anticoagulant,Oral,"Once daily",30,28,Yes,2023-08-28
+535,599,"Furosemide 40mg",Diuretic,Oral,"Three times daily",10,11,No,2022-09-08
+536,431,"Paracetamol 500mg",Analgesic,Oral,"Twice daily",5,53,Partial,2023-12-03
+537,611,"Amlodipine 5mg",Antihypertensive,Oral,"Twice daily",90,131,No,2022-03-21
+538,898,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Once daily",10,129,No,2023-10-09
+539,792,"Doxycycline 100mg",Antibiotic,Oral,"Twice daily",3,111,Yes,2023-07-06
+540,104,"Warfarin 5mg",Anticoagulant,Oral,"Twice daily",3,8,Partial,2023-01-15
+541,1620,"Ibuprofen 400mg",NSAID,Oral,"Twice daily",3,127,Yes,2022-04-09
+542,1103,"Phenobarbital 60mg",Anticonvulsant,Oral,"Twice daily",14,119,No,2022-11-02
+543,1505,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",30,148,Partial,2023-05-05
+544,1698,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Twice daily",21,87,Yes,2023-03-11
+545,42,"Furosemide 40mg",Diuretic,Oral,"Twice daily",3,90,No,2022-08-13
+546,1496,"Phenobarbital 60mg",Anticonvulsant,Oral,"Four times daily",5,38,Yes,2023-04-07
+547,349,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Once daily",21,127,No,2023-11-09
+548,741,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Once daily",10,85,No,2023-12-20
+549,1115,"Furosemide 40mg",Diuretic,Oral,"Once daily",5,150,No,2023-03-01
+550,900,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Three times daily",14,87,Partial,2022-12-01
+551,363,"Ciprofloxacin 500mg",Antibiotic,Oral,"Four times daily",5,119,Partial,2022-10-29
+552,1464,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Once daily",21,71,Yes,2023-10-14
+553,1225,"Prednisolone 5mg",Corticosteroid,Oral,"Once daily",21,175,Partial,2023-03-06
+554,593,"Paracetamol 500mg",Analgesic,Oral,"Three times daily",3,149,Yes,2022-02-19
+555,810,"Lisinopril 10mg",Antihypertensive,Oral,"Four times daily",90,85,No,2023-09-04
+556,1738,"Azithromycin 500mg",Antibiotic,Oral,"Twice daily",3,11,Yes,2022-08-18
+557,438,"Spironolactone 25mg",Diuretic,Oral,"Three times daily",5,82,Yes,2022-12-24
+558,805,"Folic Acid 5mg",Supplement,Oral,"As needed",3,104,No,2023-05-06
+559,1359,"Metformin 500mg",Antidiabetic,Oral,"As needed",5,70,Partial,2023-03-20
+560,1638,"Prednisolone 5mg",Corticosteroid,Oral,"Three times daily",14,6,Yes,2022-01-14
+561,813,"Amlodipine 5mg",Antihypertensive,Oral,"Three times daily",3,10,Partial,2024-01-01
+562,1384,"Fluoxetine 20mg",Antidepressant,Oral,"Three times daily",21,69,No,2023-04-19
+563,1711,"Phenobarbital 60mg",Anticonvulsant,Oral,"As needed",10,80,No,2023-07-03
+564,34,"Vitamin B12 1mg",Vitamin,Oral,"Four times daily",21,48,Partial,2023-02-21
+565,1135,"Metformin 500mg",Antidiabetic,Oral,"Three times daily",7,77,Partial,2023-03-12
+566,1656,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",90,113,Yes,2022-03-27
+567,1623,"Amoxicillin 500mg",Antibiotic,Oral,"As needed",3,125,No,2022-12-06
+568,1665,"Folic Acid 5mg",Supplement,Oral,"Once daily",5,134,Yes,2022-06-24
+569,212,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",30,95,Yes,2023-11-29
+570,961,"Azithromycin 500mg",Antibiotic,Oral,"Three times daily",3,147,No,2022-05-01
+571,323,"Prednisolone 5mg",Corticosteroid,Oral,"As needed",21,159,Yes,2022-11-12
+572,808,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Once daily",21,10,Partial,2022-03-14
+573,312,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Four times daily",14,23,No,2023-03-20
+574,1053,"Azithromycin 500mg",Antibiotic,Oral,"Three times daily",90,128,No,2023-11-09
+575,1658,"Phenobarbital 60mg",Anticonvulsant,Oral,"Twice daily",5,165,Yes,2023-12-09
+576,483,"Spironolactone 25mg",Diuretic,Oral,"Twice daily",7,68,Yes,2023-08-21
+577,425,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Four times daily",90,19,Yes,2023-01-06
+578,1498,"Metronidazole 400mg",Antibiotic,Oral,"Four times daily",5,110,No,2022-09-18
+579,639,"Carbamazepine 200mg",Anticonvulsant,Oral,"Three times daily",14,102,No,2023-03-06
+580,101,"Metronidazole 400mg",Antibiotic,Oral,"Three times daily",7,69,No,2022-11-12
+581,1056,"Atorvastatin 20mg",Lipid-lowering,Oral,"As needed",10,52,No,2022-03-10
+582,582,"Bisoprolol 5mg",Beta-blocker,Oral,"Once daily",10,118,No,2022-05-11
+583,1024,"Cotrimoxazole 480mg",Antibiotic,Oral,"Three times daily",90,157,No,2022-06-10
+584,577,"Ferrous Sulphate 200mg","Iron supplement",Oral,"As needed",90,88,No,2022-04-05
+585,1170,"Ciprofloxacin 500mg",Antibiotic,Oral,"Three times daily",14,140,No,2022-11-10
+586,166,"Metformin 500mg",Antidiabetic,Oral,"Once daily",14,103,Partial,2023-07-12
+587,1791,"Cotrimoxazole 480mg",Antibiotic,Oral,"Four times daily",10,153,Yes,2023-10-22
+588,888,"Folic Acid 5mg",Supplement,Oral,"Three times daily",90,148,Yes,2023-10-22
+589,491,"Paracetamol 500mg",Analgesic,Oral,"Twice daily",90,106,No,2023-10-16
+590,521,"Azithromycin 500mg",Antibiotic,Oral,"Four times daily",30,70,No,2023-04-27
+591,1561,"Carbamazepine 200mg",Anticonvulsant,Oral,"Twice daily",90,140,Yes,2022-11-26
+592,71,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Three times daily",7,94,Yes,2023-07-31
+593,1486,"Lisinopril 10mg",Antihypertensive,Oral,"As needed",90,36,Partial,2022-05-10
+594,1612,"Bisoprolol 5mg",Beta-blocker,Oral,"As needed",90,83,Partial,2023-03-22
+595,126,"Vitamin B12 1mg",Vitamin,Oral,"Four times daily",30,113,No,2023-02-14
+596,201,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",5,155,Yes,2023-09-08
+597,796,"Amoxicillin 500mg",Antibiotic,Oral,"Three times daily",7,102,Partial,2022-05-10
+598,844,"Furosemide 40mg",Diuretic,Oral,"As needed",10,33,Partial,2023-03-22
+599,482,"Bisoprolol 5mg",Beta-blocker,Oral,"As needed",90,8,No,2022-12-30
+600,769,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",21,152,Yes,2022-01-27
+601,884,"Doxycycline 100mg",Antibiotic,Oral,"Three times daily",30,59,No,2023-08-29
+602,1342,"Doxycycline 100mg",Antibiotic,Oral,"Four times daily",90,16,No,2022-11-07
+603,295,"Bisoprolol 5mg",Beta-blocker,Oral,"Three times daily",90,127,Partial,2022-04-24
+604,1074,"Cotrimoxazole 480mg",Antibiotic,Oral,"Once daily",21,120,Partial,2022-02-26
+605,562,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",3,26,Partial,2023-01-13
+606,744,"Metronidazole 400mg",Antibiotic,Oral,"Three times daily",14,14,No,2023-09-28
+607,1316,"Ciprofloxacin 500mg",Antibiotic,Oral,"As needed",21,122,Partial,2022-05-16
+608,1750,"Prednisolone 5mg",Corticosteroid,Oral,"Four times daily",10,130,Partial,2022-10-01
+609,149,"Carbamazepine 200mg",Anticonvulsant,Oral,"As needed",14,96,Partial,2022-12-11
+610,1602,"Ciprofloxacin 500mg",Antibiotic,Oral,"Four times daily",30,177,Partial,2022-08-04
+611,6,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Three times daily",14,52,Yes,2023-12-27
+612,1093,"Spironolactone 25mg",Diuretic,Oral,"Three times daily",3,149,Partial,2022-08-09
+613,679,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",90,46,Partial,2023-04-27
+614,930,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"As needed",7,126,Partial,2023-08-09
+615,1504,"Furosemide 40mg",Diuretic,Oral,"As needed",90,20,No,2023-07-23
+616,1228,"Warfarin 5mg",Anticoagulant,Oral,"Three times daily",7,170,Partial,2023-02-17
+617,334,"Metformin 500mg",Antidiabetic,Oral,"Twice daily",30,113,No,2023-07-08
+618,1178,"Metformin 500mg",Antidiabetic,Oral,"Twice daily",90,116,No,2022-11-10
+619,721,"Cotrimoxazole 480mg",Antibiotic,Oral,"As needed",7,169,No,2022-10-20
+620,156,"Amoxicillin 500mg",Antibiotic,Oral,"Three times daily",3,19,Partial,2023-09-10
+621,1462,"Losartan 50mg",Antihypertensive,Oral,"Four times daily",5,115,Partial,2022-08-18
+622,4,"Paracetamol 500mg",Analgesic,Oral,"Four times daily",90,179,No,2022-09-20
+623,1372,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",90,32,Partial,2022-10-22
+624,640,"Warfarin 5mg",Anticoagulant,Oral,"Once daily",5,104,Yes,2023-11-28
+625,1080,"Fluoxetine 20mg",Antidepressant,Oral,"As needed",21,10,No,2023-04-28
+626,875,"Vitamin B12 1mg",Vitamin,Oral,"Twice daily",21,160,Yes,2022-12-19
+627,1565,"Amlodipine 5mg",Antihypertensive,Oral,"Once daily",30,160,Yes,2022-12-24
+628,1625,"Fluoxetine 20mg",Antidepressant,Oral,"As needed",90,140,Yes,2023-05-07
+629,784,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"As needed",7,58,Yes,2023-05-05
+630,1555,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",3,139,Yes,2022-07-21
+631,90,"Amoxicillin 500mg",Antibiotic,Oral,"Three times daily",3,41,Yes,2023-05-07
+632,1426,"Metronidazole 400mg",Antibiotic,Oral,"Twice daily",7,115,No,2022-06-29
+633,375,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Three times daily",14,30,No,2022-01-04
+634,1627,"Atorvastatin 20mg",Lipid-lowering,Oral,"Four times daily",21,161,No,2022-05-01
+635,13,"Lisinopril 10mg",Antihypertensive,Oral,"Twice daily",14,112,Partial,2022-02-10
+636,607,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Once daily",5,143,Yes,2023-07-21
+637,1629,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",5,72,Partial,2023-01-01
+638,37,"Warfarin 5mg",Anticoagulant,Oral,"Three times daily",5,26,No,2022-05-29
+639,1669,"Metformin 500mg",Antidiabetic,Oral,"Twice daily",10,149,No,2022-03-02
+640,906,"Prednisolone 5mg",Corticosteroid,Oral,"As needed",30,115,No,2023-03-20
+641,537,"Doxycycline 100mg",Antibiotic,Oral,"As needed",14,44,Yes,2023-08-11
+642,688,"Carbamazepine 200mg",Anticonvulsant,Oral,"Three times daily",10,147,No,2022-08-01
+643,409,"Folic Acid 5mg",Supplement,Oral,"Four times daily",21,178,No,2022-10-21
+644,1047,"Spironolactone 25mg",Diuretic,Oral,"Twice daily",14,103,Yes,2023-05-01
+645,217,"Folic Acid 5mg",Supplement,Oral,"Four times daily",10,83,No,2023-07-18
+646,778,"Doxycycline 100mg",Antibiotic,Oral,"Three times daily",3,67,Yes,2022-07-03
+647,275,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",90,39,No,2022-03-23
+648,1696,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",10,24,Partial,2022-06-12
+649,569,"Prednisolone 5mg",Corticosteroid,Oral,"Once daily",21,95,Yes,2022-06-11
+650,1192,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",7,76,No,2023-10-11
+651,49,"Metronidazole 400mg",Antibiotic,Oral,"As needed",10,124,Yes,2023-02-09
+652,853,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",90,155,Yes,2023-06-07
+653,797,"Spironolactone 25mg",Diuretic,Oral,"As needed",14,157,Yes,2022-06-25
+654,1007,"Bisoprolol 5mg",Beta-blocker,Oral,"As needed",30,118,Yes,2023-06-03
+655,1118,"Paracetamol 500mg",Analgesic,Oral,"Four times daily",14,132,No,2023-01-28
+656,1252,"Carbamazepine 200mg",Anticonvulsant,Oral,"As needed",5,18,Partial,2022-01-19
+657,590,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Four times daily",7,157,Partial,2023-09-28
+658,1451,"Vitamin B12 1mg",Vitamin,Oral,"Four times daily",21,51,No,2022-10-16
+659,1394,"Lisinopril 10mg",Antihypertensive,Oral,"Three times daily",90,61,Yes,2023-11-13
+660,453,"Ibuprofen 400mg",NSAID,Oral,"Once daily",7,9,Partial,2022-01-21
+661,1583,"Cotrimoxazole 480mg",Antibiotic,Oral,"Once daily",3,122,Yes,2023-08-04
+662,1294,"Atorvastatin 20mg",Lipid-lowering,Oral,"Twice daily",14,68,No,2022-09-12
+663,1626,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Once daily",7,113,Partial,2023-03-25
+664,716,"Ibuprofen 400mg",NSAID,Oral,"Once daily",14,163,Partial,2022-08-16
+665,115,"Vitamin B12 1mg",Vitamin,Oral,"Three times daily",21,12,Yes,2023-08-20
+666,1425,"Amoxicillin 500mg",Antibiotic,Oral,"Three times daily",10,21,No,2022-03-23
+667,561,"Metformin 500mg",Antidiabetic,Oral,"Once daily",21,135,Partial,2023-01-14
+668,314,"Phenobarbital 60mg",Anticonvulsant,Oral,"Four times daily",10,28,Yes,2023-05-04
+669,434,"Amlodipine 5mg",Antihypertensive,Oral,"Once daily",5,175,No,2023-04-18
+670,1274,"Cotrimoxazole 480mg",Antibiotic,Oral,"As needed",10,28,Partial,2023-01-04
+671,400,"Fluoxetine 20mg",Antidepressant,Oral,"Once daily",90,64,Yes,2022-07-09
+672,710,"Lisinopril 10mg",Antihypertensive,Oral,"Four times daily",10,121,Yes,2022-08-30
+673,545,"Losartan 50mg",Antihypertensive,Oral,"As needed",90,167,No,2022-02-15
+674,1211,"Atorvastatin 20mg",Lipid-lowering,Oral,"Once daily",5,174,Partial,2023-08-03
+675,1749,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Four times daily",7,24,No,2023-09-24
+676,944,"Bisoprolol 5mg",Beta-blocker,Oral,"Twice daily",7,178,Partial,2022-01-16
+677,157,"Metformin 500mg",Antidiabetic,Oral,"Four times daily",5,58,No,2023-01-26
+678,1432,"Furosemide 40mg",Diuretic,Oral,"Three times daily",30,108,Yes,2022-06-25
+679,32,"Carbamazepine 200mg",Anticonvulsant,Oral,"Three times daily",5,74,Yes,2022-12-16
+680,1380,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Once daily",14,125,Yes,2022-03-07
+681,352,"Losartan 50mg",Antihypertensive,Oral,"As needed",3,13,Partial,2022-12-14
+682,1752,"Amlodipine 5mg",Antihypertensive,Oral,"Once daily",21,67,Yes,2023-12-26
+683,768,"Lisinopril 10mg",Antihypertensive,Oral,"As needed",21,161,No,2023-02-21
+684,50,"Amlodipine 5mg",Antihypertensive,Oral,"Twice daily",90,108,No,2022-07-15
+685,346,"Vitamin B12 1mg",Vitamin,Oral,"Three times daily",90,129,No,2023-03-24
+686,1701,"Fluoxetine 20mg",Antidepressant,Oral,"Once daily",21,70,No,2022-12-07
+687,1733,"Phenobarbital 60mg",Anticonvulsant,Oral,"Twice daily",21,125,Partial,2022-01-09
+688,709,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",7,50,Partial,2023-02-15
+689,63,"Bisoprolol 5mg",Beta-blocker,Oral,"Three times daily",3,104,No,2022-09-27
+690,1793,"Azithromycin 500mg",Antibiotic,Oral,"As needed",30,33,No,2023-05-19
+691,1428,"Furosemide 40mg",Diuretic,Oral,"Three times daily",5,137,Yes,2023-05-26
+692,911,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Four times daily",5,34,Partial,2023-07-30
+693,1771,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Once daily",30,19,Partial,2023-07-24
+694,518,"Metformin 500mg",Antidiabetic,Oral,"Once daily",90,176,Partial,2022-12-29
+695,696,"Carbamazepine 200mg",Anticonvulsant,Oral,"Four times daily",3,147,Yes,2023-02-16
+696,480,"Paracetamol 500mg",Analgesic,Oral,"As needed",30,88,Yes,2022-09-26
+697,1797,"Cotrimoxazole 480mg",Antibiotic,Oral,"Three times daily",5,81,Partial,2022-05-21
+698,408,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Three times daily",7,108,Partial,2023-10-07
+699,250,"Metformin 500mg",Antidiabetic,Oral,"As needed",3,93,Yes,2022-03-08
+700,1512,"Furosemide 40mg",Diuretic,Oral,"Once daily",10,117,No,2023-06-09
+701,1546,"Azithromycin 500mg",Antibiotic,Oral,"Four times daily",7,110,No,2022-09-16
+702,522,"Spironolactone 25mg",Diuretic,Oral,"As needed",90,16,Partial,2022-05-27
+703,933,"Cotrimoxazole 480mg",Antibiotic,Oral,"Once daily",30,149,No,2023-06-02
+704,1396,"Lisinopril 10mg",Antihypertensive,Oral,"Three times daily",7,6,Partial,2023-01-27
+705,731,"Azithromycin 500mg",Antibiotic,Oral,"As needed",5,117,No,2022-01-11
+706,524,"Amlodipine 5mg",Antihypertensive,Oral,"Four times daily",5,72,Yes,2023-03-13
+707,136,"Prednisolone 5mg",Corticosteroid,Oral,"As needed",90,44,No,2022-08-20
+708,350,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Four times daily",30,110,No,2022-04-18
+709,340,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",21,69,Yes,2023-04-16
+710,600,"Vitamin B12 1mg",Vitamin,Oral,"Once daily",21,14,Yes,2023-05-22
+711,365,"Fluoxetine 20mg",Antidepressant,Oral,"Once daily",5,122,Partial,2022-04-24
+712,321,"Ciprofloxacin 500mg",Antibiotic,Oral,"As needed",3,6,Partial,2023-04-30
+713,1798,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Three times daily",7,134,Partial,2023-01-12
+714,1364,"Prednisolone 5mg",Corticosteroid,Oral,"Four times daily",30,31,No,2023-10-03
+715,1040,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",90,16,Partial,2023-03-15
+716,148,"Paracetamol 500mg",Analgesic,Oral,"Twice daily",5,159,No,2022-06-13
+717,1096,"Vitamin B12 1mg",Vitamin,Oral,"Twice daily",10,81,No,2022-05-01
+718,371,"Cotrimoxazole 480mg",Antibiotic,Oral,"Twice daily",3,167,No,2022-06-04
+719,98,"Lisinopril 10mg",Antihypertensive,Oral,"Three times daily",7,120,Yes,2023-01-08
+720,1422,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Four times daily",10,55,Partial,2023-04-20
+721,726,"Carbamazepine 200mg",Anticonvulsant,Oral,"Three times daily",3,139,No,2023-08-14
+722,285,"Lisinopril 10mg",Antihypertensive,Oral,"Twice daily",3,93,No,2023-08-22
+723,1644,"Vitamin B12 1mg",Vitamin,Oral,"Three times daily",14,124,No,2023-02-05
+724,903,"Warfarin 5mg",Anticoagulant,Oral,"As needed",3,28,Yes,2023-11-19
+725,1721,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Twice daily",21,108,Yes,2022-03-04
+726,1310,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Twice daily",30,29,No,2022-01-15
+727,247,"Bisoprolol 5mg",Beta-blocker,Oral,"As needed",3,43,Partial,2023-05-18
+728,324,"Losartan 50mg",Antihypertensive,Oral,"Once daily",5,108,No,2022-06-22
+729,855,"Ciprofloxacin 500mg",Antibiotic,Oral,"Once daily",30,66,Partial,2022-03-05
+730,881,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Three times daily",21,163,Partial,2023-09-30
+731,1383,"Lisinopril 10mg",Antihypertensive,Oral,"Three times daily",5,105,Partial,2023-01-23
+732,685,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",30,110,Yes,2023-08-10
+733,94,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",30,54,Partial,2022-02-25
+734,671,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",10,101,No,2023-05-15
+735,117,"Amoxicillin 500mg",Antibiotic,Oral,"Twice daily",3,163,Yes,2022-07-02
+736,978,"Furosemide 40mg",Diuretic,Oral,"Three times daily",21,16,No,2022-01-21
+737,1537,"Phenobarbital 60mg",Anticonvulsant,Oral,"As needed",14,9,No,2023-03-26
+738,279,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",10,171,No,2023-05-25
+739,571,"Carbamazepine 200mg",Anticonvulsant,Oral,"Once daily",10,167,Partial,2022-05-01
+740,1651,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",3,168,Yes,2023-03-24
+741,1717,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",14,136,Partial,2022-09-04
+742,605,"Bisoprolol 5mg",Beta-blocker,Oral,"As needed",10,11,Yes,2022-10-11
+743,489,"Fluoxetine 20mg",Antidepressant,Oral,"Once daily",10,85,No,2023-03-01
+744,111,"Metformin 500mg",Antidiabetic,Oral,"As needed",90,14,Partial,2022-10-10
+745,1635,"Warfarin 5mg",Anticoagulant,Oral,"Twice daily",90,100,No,2022-01-06
+746,1436,"Metronidazole 400mg",Antibiotic,Oral,"Three times daily",90,161,Yes,2023-10-13
+747,1463,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",10,19,Partial,2023-04-27
+748,1068,"Metformin 500mg",Antidiabetic,Oral,"Twice daily",90,172,No,2023-08-14
+749,345,"Metformin 500mg",Antidiabetic,Oral,"Twice daily",90,113,Partial,2023-01-13
+750,997,"Lisinopril 10mg",Antihypertensive,Oral,"Twice daily",3,180,Yes,2022-11-25
+751,1328,"Carbamazepine 200mg",Anticonvulsant,Oral,"Once daily",5,164,No,2022-12-02
+752,814,"Carbamazepine 200mg",Anticonvulsant,Oral,"Four times daily",21,81,Partial,2022-08-03
+753,1185,"Spironolactone 25mg",Diuretic,Oral,"As needed",3,143,Partial,2022-07-04
+754,1212,"Paracetamol 500mg",Analgesic,Oral,"Three times daily",3,102,Yes,2023-06-07
+755,472,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"As needed",21,5,Partial,2022-06-17
+756,1036,"Prednisolone 5mg",Corticosteroid,Oral,"Three times daily",10,52,Yes,2023-01-15
+757,1217,"Ciprofloxacin 500mg",Antibiotic,Oral,"Twice daily",21,23,Partial,2023-01-14
+758,606,"Spironolactone 25mg",Diuretic,Oral,"Once daily",5,53,Partial,2022-06-10
+759,97,"Cotrimoxazole 480mg",Antibiotic,Oral,"Four times daily",5,28,Partial,2023-07-21
+760,1308,"Ibuprofen 400mg",NSAID,Oral,"Four times daily",21,8,No,2023-01-06
+761,987,"Lisinopril 10mg",Antihypertensive,Oral,"Twice daily",5,140,No,2022-10-01
+762,1540,"Atorvastatin 20mg",Lipid-lowering,Oral,"As needed",3,96,No,2022-04-05
+763,727,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",5,37,Yes,2024-01-01
+764,527,"Carbamazepine 200mg",Anticonvulsant,Oral,"Once daily",90,71,No,2022-02-12
+765,1257,"Cotrimoxazole 480mg",Antibiotic,Oral,"Three times daily",5,89,Partial,2023-08-18
+766,1128,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Twice daily",10,44,Partial,2023-02-21
+767,317,"Ciprofloxacin 500mg",Antibiotic,Oral,"As needed",7,102,No,2023-08-09
+768,1484,"Spironolactone 25mg",Diuretic,Oral,"As needed",14,119,Yes,2023-06-08
+769,40,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",10,15,No,2022-06-04
+770,392,"Azithromycin 500mg",Antibiotic,Oral,"Three times daily",7,57,No,2022-02-19
+771,1305,"Phenobarbital 60mg",Anticonvulsant,Oral,"Once daily",21,110,Yes,2023-02-26
+772,54,"Vitamin B12 1mg",Vitamin,Oral,"Once daily",90,25,Yes,2022-11-05
+773,842,"Losartan 50mg",Antihypertensive,Oral,"Once daily",10,127,Yes,2023-09-17
+774,1269,"Bisoprolol 5mg",Beta-blocker,Oral,"Three times daily",5,40,No,2022-11-17
+775,1348,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Once daily",10,115,Partial,2023-08-16
+776,589,"Metronidazole 400mg",Antibiotic,Oral,"Twice daily",30,81,Yes,2023-03-14
+777,843,"Prednisolone 5mg",Corticosteroid,Oral,"Twice daily",5,173,Partial,2022-11-19
+778,1753,"Ciprofloxacin 500mg",Antibiotic,Oral,"As needed",14,100,Partial,2023-07-20
+779,1345,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",21,13,No,2023-08-21
+780,1171,"Furosemide 40mg",Diuretic,Oral,"Once daily",14,102,No,2022-08-27
+781,1320,"Vitamin B12 1mg",Vitamin,Oral,"Once daily",90,163,No,2023-08-16
+782,1059,"Paracetamol 500mg",Analgesic,Oral,"Four times daily",10,66,No,2022-02-17
+783,665,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",3,76,Yes,2022-08-04
+784,48,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Twice daily",10,31,No,2023-08-07
+785,1722,"Phenobarbital 60mg",Anticonvulsant,Oral,"Once daily",7,88,Yes,2023-09-18
+786,327,"Folic Acid 5mg",Supplement,Oral,"Twice daily",90,9,Partial,2022-01-06
+787,1550,"Metformin 500mg",Antidiabetic,Oral,"Three times daily",10,144,Partial,2023-01-24
+788,21,"Fluoxetine 20mg",Antidepressant,Oral,"As needed",14,124,Yes,2023-05-27
+789,1070,"Doxycycline 100mg",Antibiotic,Oral,"Twice daily",30,15,No,2022-06-14
+790,998,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Three times daily",90,134,No,2023-03-05
+791,59,"Fluoxetine 20mg",Antidepressant,Oral,"Twice daily",30,133,Yes,2023-01-01
+792,773,"Amoxicillin 500mg",Antibiotic,Oral,"Four times daily",10,140,Yes,2023-07-23
+793,1021,"Ferrous Sulphate 200mg","Iron supplement",Oral,"As needed",7,56,Yes,2022-02-14
+794,1063,"Warfarin 5mg",Anticoagulant,Oral,"Four times daily",3,28,No,2023-08-18
+795,960,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Twice daily",14,123,Partial,2022-02-21
+796,1159,"Doxycycline 100mg",Antibiotic,Oral,"Four times daily",21,30,No,2023-12-11
+797,1095,"Carbamazepine 200mg",Anticonvulsant,Oral,"Four times daily",7,31,Yes,2023-07-31
+798,876,"Ibuprofen 400mg",NSAID,Oral,"Four times daily",10,108,Partial,2023-06-25
+799,508,"Carbamazepine 200mg",Anticonvulsant,Oral,"Twice daily",5,113,No,2023-08-11
+800,1773,"Phenobarbital 60mg",Anticonvulsant,Oral,"Once daily",3,101,Partial,2023-06-01
+801,109,"Azithromycin 500mg",Antibiotic,Oral,"As needed",5,45,Partial,2023-08-26
+802,343,"Amlodipine 5mg",Antihypertensive,Oral,"Three times daily",7,99,Yes,2023-07-12
+803,1266,"Azithromycin 500mg",Antibiotic,Oral,"Three times daily",30,87,No,2022-01-24
+804,1792,"Fluoxetine 20mg",Antidepressant,Oral,"As needed",5,178,Partial,2023-09-04
+805,857,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",14,30,No,2023-09-18
+806,1230,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Four times daily",90,7,Yes,2022-05-07
+807,1536,"Amlodipine 5mg",Antihypertensive,Oral,"As needed",3,140,Yes,2022-09-28
+808,1476,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Once daily",21,71,Partial,2023-06-28
+809,129,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",3,74,No,2022-09-10
+810,934,"Amoxicillin 500mg",Antibiotic,Oral,"Three times daily",30,86,No,2023-01-22
+811,1610,"Carbamazepine 200mg",Anticonvulsant,Oral,"Four times daily",7,104,Yes,2022-07-07
+812,478,"Lisinopril 10mg",Antihypertensive,Oral,"Twice daily",5,176,No,2023-12-06
+813,1542,"Metformin 500mg",Antidiabetic,Oral,"Four times daily",30,111,Partial,2022-02-27
+814,175,"Furosemide 40mg",Diuretic,Oral,"As needed",90,167,No,2022-11-07
+815,108,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Once daily",90,147,Yes,2023-12-21
+816,61,"Amoxicillin 500mg",Antibiotic,Oral,"Four times daily",7,169,Partial,2023-12-24
+817,630,"Carbamazepine 200mg",Anticonvulsant,Oral,"Twice daily",90,32,Yes,2023-03-05
+818,1029,"Folic Acid 5mg",Supplement,Oral,"As needed",90,10,Partial,2022-03-24
+819,495,"Furosemide 40mg",Diuretic,Oral,"Three times daily",90,143,No,2022-04-11
+820,260,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Four times daily",10,24,Partial,2022-06-21
+821,296,"Lisinopril 10mg",Antihypertensive,Oral,"Four times daily",21,104,Yes,2022-10-04
+822,264,"Paracetamol 500mg",Analgesic,Oral,"As needed",14,69,Yes,2022-07-21
+823,1202,"Losartan 50mg",Antihypertensive,Oral,"Once daily",90,144,Yes,2023-04-06
+824,587,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Once daily",21,171,No,2023-05-05
+825,708,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",7,13,No,2022-11-13
+826,238,"Losartan 50mg",Antihypertensive,Oral,"Once daily",90,138,Partial,2023-02-15
+827,1219,"Cotrimoxazole 480mg",Antibiotic,Oral,"Once daily",5,90,Partial,2023-04-05
+828,1399,"Metronidazole 400mg",Antibiotic,Oral,"Four times daily",30,40,Yes,2023-09-07
+829,1632,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Four times daily",21,114,Partial,2023-10-09
+830,74,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",21,174,Partial,2022-06-03
+831,1248,"Cotrimoxazole 480mg",Antibiotic,Oral,"Three times daily",30,107,Partial,2022-06-28
+832,128,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Twice daily",3,123,Yes,2022-05-19
+833,1574,"Ciprofloxacin 500mg",Antibiotic,Oral,"Four times daily",90,162,Partial,2022-02-14
+834,1557,"Fluoxetine 20mg",Antidepressant,Oral,"Once daily",5,85,Partial,2022-04-17
+835,1681,"Omeprazole 20mg","Proton pump inhibitor",Oral,"As needed",7,117,No,2022-08-27
+836,1468,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",10,65,No,2022-05-19
+837,732,"Vitamin B12 1mg",Vitamin,Oral,"Twice daily",30,40,Yes,2023-01-02
+838,11,"Doxycycline 100mg",Antibiotic,Oral,"Three times daily",30,171,No,2023-03-08
+839,31,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"As needed",30,115,Yes,2022-03-03
+840,1285,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Three times daily",30,100,Partial,2022-10-03
+841,1482,"Doxycycline 100mg",Antibiotic,Oral,"As needed",3,148,Partial,2022-07-25
+842,263,"Paracetamol 500mg",Analgesic,Oral,"Once daily",14,153,Yes,2023-02-25
+843,366,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Four times daily",10,165,Partial,2022-01-05
+844,404,"Doxycycline 100mg",Antibiotic,Oral,"Four times daily",3,18,No,2022-03-21
+845,541,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Four times daily",30,78,Partial,2023-10-14
+846,1271,"Losartan 50mg",Antihypertensive,Oral,"Once daily",30,24,Partial,2023-09-12
+847,912,"Vitamin B12 1mg",Vitamin,Oral,"Once daily",5,6,Yes,2023-09-04
+848,517,"Lisinopril 10mg",Antihypertensive,Oral,"Four times daily",30,96,No,2023-08-31
+849,1416,"Bisoprolol 5mg",Beta-blocker,Oral,"Three times daily",14,91,Partial,2022-09-12
+850,1403,"Amlodipine 5mg",Antihypertensive,Oral,"Once daily",5,126,No,2022-10-03
+851,938,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",7,172,No,2023-05-18
+852,543,"Folic Acid 5mg",Supplement,Oral,"Three times daily",7,6,No,2022-11-19
+853,406,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Twice daily",21,175,No,2023-07-18
+854,338,"Warfarin 5mg",Anticoagulant,Oral,"As needed",90,180,Yes,2022-02-27
+855,1395,"Paracetamol 500mg",Analgesic,Oral,"Twice daily",7,32,Partial,2023-02-11
+856,499,"Prednisolone 5mg",Corticosteroid,Oral,"Four times daily",5,16,No,2023-04-04
+857,1009,"Amlodipine 5mg",Antihypertensive,Oral,"As needed",30,21,Yes,2023-05-22
+858,1180,"Atorvastatin 20mg",Lipid-lowering,Oral,"Twice daily",14,5,No,2022-05-31
+859,1648,"Prednisolone 5mg",Corticosteroid,Oral,"Once daily",3,109,Partial,2022-06-30
+860,301,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Four times daily",30,70,Yes,2022-11-14
+861,800,"Losartan 50mg",Antihypertensive,Oral,"As needed",14,176,Partial,2022-12-13
+862,1349,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Four times daily",21,20,Partial,2022-07-17
+863,614,"Metronidazole 400mg",Antibiotic,Oral,"Four times daily",90,177,Partial,2022-03-23
+864,1346,"Atorvastatin 20mg",Lipid-lowering,Oral,"Four times daily",3,45,No,2023-01-18
+865,1239,"Ciprofloxacin 500mg",Antibiotic,Oral,"As needed",21,54,No,2023-07-17
+866,387,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",21,96,No,2023-10-17
+867,1190,"Spironolactone 25mg",Diuretic,Oral,"As needed",90,86,No,2022-07-11
+868,454,"Amlodipine 5mg",Antihypertensive,Oral,"Three times daily",5,177,Partial,2022-11-27
+869,1123,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"As needed",7,63,Yes,2022-04-12
+870,225,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",10,10,No,2022-09-10
+871,1245,"Doxycycline 100mg",Antibiotic,Oral,"Twice daily",90,122,No,2022-10-13
+872,937,"Metronidazole 400mg",Antibiotic,Oral,"Three times daily",10,63,No,2022-05-29
+873,748,"Warfarin 5mg",Anticoagulant,Oral,"Three times daily",21,178,Partial,2023-06-22
+874,60,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",14,18,Partial,2023-04-29
+875,786,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Twice daily",14,167,No,2023-02-07
+876,1474,"Folic Acid 5mg",Supplement,Oral,"Three times daily",90,43,No,2023-06-07
+877,1633,"Amoxicillin 500mg",Antibiotic,Oral,"Three times daily",5,149,Yes,2023-02-24
+878,1077,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Once daily",3,13,No,2023-08-10
+879,815,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",14,79,Yes,2023-09-21
+880,1065,"Ibuprofen 400mg",NSAID,Oral,"Twice daily",10,21,Partial,2023-10-14
+881,270,"Cotrimoxazole 480mg",Antibiotic,Oral,"Twice daily",5,37,No,2022-05-10
+882,107,"Fluoxetine 20mg",Antidepressant,Oral,"Three times daily",21,159,Partial,2022-02-21
+883,152,"Carbamazepine 200mg",Anticonvulsant,Oral,"Twice daily",14,137,No,2022-03-15
+884,7,"Metformin 500mg",Antidiabetic,Oral,"Three times daily",21,125,No,2023-08-10
+885,1355,"Warfarin 5mg",Anticoagulant,Oral,"Once daily",21,140,No,2022-09-25
+886,1000,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Three times daily",21,101,Partial,2022-04-30
+887,557,"Doxycycline 100mg",Antibiotic,Oral,"Twice daily",10,78,Yes,2022-09-29
+888,1334,"Cotrimoxazole 480mg",Antibiotic,Oral,"Once daily",90,11,No,2022-01-21
+889,198,"Fluoxetine 20mg",Antidepressant,Oral,"Twice daily",5,66,No,2022-12-03
+890,1606,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Three times daily",10,87,Partial,2023-07-07
+891,1768,"Folic Acid 5mg",Supplement,Oral,"Three times daily",21,163,Yes,2023-04-29
+892,1478,"Amoxicillin 500mg",Antibiotic,Oral,"Once daily",7,138,Yes,2022-03-17
+893,1559,"Doxycycline 100mg",Antibiotic,Oral,"Once daily",5,51,Partial,2022-11-12
+894,1050,"Doxycycline 100mg",Antibiotic,Oral,"Twice daily",5,173,No,2022-03-22
+895,1634,"Furosemide 40mg",Diuretic,Oral,"Three times daily",14,131,No,2023-06-02
+896,1397,"Warfarin 5mg",Anticoagulant,Oral,"Twice daily",90,167,Partial,2022-02-23
+897,1439,"Paracetamol 500mg",Analgesic,Oral,"Once daily",21,12,Partial,2022-01-26
+898,861,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Three times daily",3,168,Partial,2022-05-14
+899,1779,"Phenobarbital 60mg",Anticonvulsant,Oral,"Twice daily",7,118,Partial,2022-07-03
+900,1605,"Carbamazepine 200mg",Anticonvulsant,Oral,"Three times daily",10,38,Partial,2022-12-09
+901,1748,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Twice daily",3,131,No,2023-06-22
+902,547,"Amlodipine 5mg",Antihypertensive,Oral,"Three times daily",90,15,Partial,2023-06-10
+903,1398,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Twice daily",90,159,No,2023-05-26
+904,1790,"Paracetamol 500mg",Analgesic,Oral,"Three times daily",7,171,Yes,2023-09-28
+905,641,"Warfarin 5mg",Anticoagulant,Oral,"As needed",30,54,Partial,2023-08-03
+906,289,"Vitamin B12 1mg",Vitamin,Oral,"Once daily",14,97,Partial,2022-10-02
+907,5,"Lisinopril 10mg",Antihypertensive,Oral,"As needed",10,134,Partial,2023-04-09
+908,1133,"Ciprofloxacin 500mg",Antibiotic,Oral,"As needed",7,139,Yes,2023-02-14
+909,222,"Vitamin B12 1mg",Vitamin,Oral,"Twice daily",3,30,Partial,2022-12-27
+910,1191,"Lisinopril 10mg",Antihypertensive,Oral,"Three times daily",21,47,Partial,2022-10-18
+911,253,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",90,30,Partial,2023-10-21
+912,793,"Furosemide 40mg",Diuretic,Oral,"Twice daily",10,57,Yes,2023-10-26
+913,374,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",10,23,No,2022-08-07
+914,1776,"Doxycycline 100mg",Antibiotic,Oral,"Three times daily",90,89,Partial,2022-03-07
+915,1685,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Four times daily",5,123,Partial,2023-01-05
+916,1293,"Doxycycline 100mg",Antibiotic,Oral,"Once daily",7,33,Yes,2022-01-21
+917,141,"Vitamin B12 1mg",Vitamin,Oral,"Once daily",7,132,No,2023-03-11
+918,1368,"Metronidazole 400mg",Antibiotic,Oral,"As needed",21,138,No,2023-04-21
+919,623,"Amlodipine 5mg",Antihypertensive,Oral,"Once daily",21,35,No,2022-05-09
+920,1679,"Furosemide 40mg",Diuretic,Oral,"Twice daily",3,171,Partial,2022-07-17
+921,1705,"Lisinopril 10mg",Antihypertensive,Oral,"As needed",3,89,Yes,2023-05-23
+922,1317,"Losartan 50mg",Antihypertensive,Oral,"Four times daily",10,48,No,2023-07-24
+923,982,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",7,132,Partial,2023-11-23
+924,452,"Losartan 50mg",Antihypertensive,Oral,"Four times daily",7,50,Partial,2023-06-12
+925,383,"Azithromycin 500mg",Antibiotic,Oral,"As needed",90,86,Yes,2022-04-01
+926,901,"Atorvastatin 20mg",Lipid-lowering,Oral,"Three times daily",7,176,Partial,2022-07-31
+927,707,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",7,173,Yes,2023-04-01
+928,441,"Furosemide 40mg",Diuretic,Oral,"Four times daily",10,29,Partial,2023-10-29
+929,1242,"Metronidazole 400mg",Antibiotic,Oral,"Three times daily",14,34,No,2023-12-25
+930,1340,"Warfarin 5mg",Anticoagulant,Oral,"Four times daily",14,85,No,2023-08-12
+931,297,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Four times daily",7,167,Partial,2023-11-17
+932,573,"Amoxicillin 500mg",Antibiotic,Oral,"As needed",14,6,No,2022-05-25
+933,1387,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Four times daily",90,175,Yes,2022-12-30
+934,223,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Twice daily",30,140,Partial,2022-01-06
+935,683,"Doxycycline 100mg",Antibiotic,Oral,"Four times daily",3,87,No,2022-04-23
+936,759,"Spironolactone 25mg",Diuretic,Oral,"As needed",7,94,Yes,2023-10-24
+937,102,"Carbamazepine 200mg",Anticonvulsant,Oral,"Once daily",3,54,Yes,2023-10-31
+938,1244,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",90,38,Yes,2023-05-04
+939,202,"Prednisolone 5mg",Corticosteroid,Oral,"As needed",5,75,Partial,2023-01-18
+940,410,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",5,163,Partial,2023-02-17
+941,921,"Folic Acid 5mg",Supplement,Oral,"Four times daily",30,7,Yes,2022-12-07
+942,1385,"Amlodipine 5mg",Antihypertensive,Oral,"Three times daily",10,74,Yes,2022-03-25
+943,1728,"Metformin 500mg",Antidiabetic,Oral,"Twice daily",30,172,Partial,2022-12-17
+944,471,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Four times daily",14,123,Partial,2023-03-06
+945,995,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",21,122,Yes,2022-05-23
+946,154,"Warfarin 5mg",Anticoagulant,Oral,"Four times daily",90,82,Yes,2022-03-02
+947,268,"Furosemide 40mg",Diuretic,Oral,"Once daily",30,138,Partial,2023-09-22
+948,664,"Metformin 500mg",Antidiabetic,Oral,"Twice daily",10,67,Yes,2023-09-19
+949,567,"Vitamin B12 1mg",Vitamin,Oral,"Three times daily",30,52,Yes,2022-11-15
+950,1788,"Ciprofloxacin 500mg",Antibiotic,Oral,"Four times daily",3,112,Yes,2023-01-20
+951,255,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",10,123,Yes,2022-01-13
+952,347,"Furosemide 40mg",Diuretic,Oral,"Twice daily",14,47,No,2023-09-03
+953,1102,"Metformin 500mg",Antidiabetic,Oral,"Four times daily",5,167,Partial,2022-06-02
+954,1514,"Warfarin 5mg",Anticoagulant,Oral,"Twice daily",3,152,No,2023-01-22
+955,395,"Lisinopril 10mg",Antihypertensive,Oral,"Three times daily",3,127,Yes,2022-02-21
+956,1154,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",5,106,No,2022-02-25
+957,161,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Four times daily",90,19,Partial,2023-08-14
+958,625,"Amlodipine 5mg",Antihypertensive,Oral,"Three times daily",5,35,Partial,2023-11-04
+959,1016,"Losartan 50mg",Antihypertensive,Oral,"As needed",90,118,No,2023-03-18
+960,236,"Azithromycin 500mg",Antibiotic,Oral,"Twice daily",5,157,No,2022-10-19
+961,1186,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",3,150,No,2023-02-01
+962,628,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",90,74,No,2023-03-07
+963,1377,"Losartan 50mg",Antihypertensive,Oral,"Once daily",7,43,No,2023-06-08
+964,1695,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Once daily",90,143,No,2022-11-15
+965,1699,"Ciprofloxacin 500mg",Antibiotic,Oral,"Four times daily",90,149,No,2023-06-05
+966,1153,"Carbamazepine 200mg",Anticonvulsant,Oral,"As needed",7,70,Yes,2023-04-12
+967,782,"Prednisolone 5mg",Corticosteroid,Oral,"As needed",30,140,No,2023-02-06
+968,1199,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",7,119,Partial,2023-05-30
+969,1418,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Twice daily",3,14,No,2024-01-01
+970,950,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Once daily",21,70,Partial,2022-12-07
+971,376,"Warfarin 5mg",Anticoagulant,Oral,"Three times daily",3,34,Yes,2022-08-10
+972,932,"Phenobarbital 60mg",Anticonvulsant,Oral,"Four times daily",7,173,Yes,2022-03-09
+973,865,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",30,119,No,2023-06-19
+974,715,"Atorvastatin 20mg",Lipid-lowering,Oral,"Three times daily",3,142,Yes,2023-07-02
+975,407,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Three times daily",30,83,No,2023-10-20
+976,43,"Losartan 50mg",Antihypertensive,Oral,"Once daily",10,120,Yes,2023-03-07
+977,535,"Vitamin B12 1mg",Vitamin,Oral,"Three times daily",3,150,Partial,2023-11-18
+978,670,"Doxycycline 100mg",Antibiotic,Oral,"Twice daily",10,174,Yes,2023-01-18
+979,551,"Carbamazepine 200mg",Anticonvulsant,Oral,"As needed",30,168,Yes,2023-04-26
+980,355,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Once daily",10,35,No,2023-09-18
+981,193,"Atorvastatin 20mg",Lipid-lowering,Oral,"Three times daily",5,136,No,2022-03-18
+982,1747,"Ciprofloxacin 500mg",Antibiotic,Oral,"Twice daily",30,153,Yes,2022-01-27
+983,1660,"Cotrimoxazole 480mg",Antibiotic,Oral,"Four times daily",3,82,Partial,2022-11-09
+984,869,"Metronidazole 400mg",Antibiotic,Oral,"As needed",14,20,Partial,2023-11-30
+985,1319,"Vitamin B12 1mg",Vitamin,Oral,"As needed",5,89,Yes,2023-09-12
+986,243,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Twice daily",14,44,Partial,2023-07-28
+987,1381,"Warfarin 5mg",Anticoagulant,Oral,"Once daily",5,164,No,2022-06-14
+988,722,"Fluoxetine 20mg",Antidepressant,Oral,"As needed",3,10,No,2023-05-28
+989,1441,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",3,168,Partial,2023-06-20
+990,96,"Atorvastatin 20mg",Lipid-lowering,Oral,"Three times daily",14,25,Partial,2023-10-17
+991,87,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",5,31,Partial,2023-04-23
+992,261,"Azithromycin 500mg",Antibiotic,Oral,"Twice daily",14,46,Yes,2023-02-24
+993,1614,"Spironolactone 25mg",Diuretic,Oral,"Four times daily",3,147,Yes,2022-12-17
+994,617,"Folic Acid 5mg",Supplement,Oral,"As needed",21,146,Yes,2022-10-14
+995,1407,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",14,164,No,2023-05-07
+996,1287,"Paracetamol 500mg",Analgesic,Oral,"As needed",21,128,Yes,2022-10-19
+997,1619,"Metformin 500mg",Antidiabetic,Oral,"Once daily",10,20,Yes,2022-03-27
+998,1725,"Prednisolone 5mg",Corticosteroid,Oral,"Once daily",30,28,Partial,2022-12-22
+999,902,"Warfarin 5mg",Anticoagulant,Oral,"As needed",30,50,Yes,2023-12-04
+1000,1147,"Metronidazole 400mg",Antibiotic,Oral,"As needed",14,167,Partial,2023-03-06
+1001,1621,"Cotrimoxazole 480mg",Antibiotic,Oral,"Once daily",14,155,Partial,2023-06-03
+1002,502,"Carbamazepine 200mg",Anticonvulsant,Oral,"Twice daily",7,97,Yes,2023-09-06
+1003,207,"Warfarin 5mg",Anticoagulant,Oral,"Once daily",5,7,Yes,2023-02-18
+1004,689,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Twice daily",14,164,Yes,2022-05-29
+1005,823,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Four times daily",90,19,No,2022-12-02
+1006,1780,"Warfarin 5mg",Anticoagulant,Oral,"Three times daily",7,113,No,2022-06-26
+1007,1781,"Omeprazole 20mg","Proton pump inhibitor",Oral,"As needed",21,99,Partial,2022-07-23
+1008,38,"Ciprofloxacin 500mg",Antibiotic,Oral,"Three times daily",14,142,Yes,2022-04-04
+1009,283,"Omeprazole 20mg","Proton pump inhibitor",Oral,"As needed",3,35,Yes,2022-11-17
+1010,780,"Doxycycline 100mg",Antibiotic,Oral,"Three times daily",90,108,No,2022-10-11
+1011,603,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",21,31,Yes,2023-09-30
+1012,631,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Three times daily",21,68,Yes,2022-07-29
+1013,41,"Paracetamol 500mg",Analgesic,Oral,"Three times daily",3,134,Yes,2023-09-17
+1014,1144,"Paracetamol 500mg",Analgesic,Oral,"Twice daily",5,123,Partial,2022-06-20
+1015,428,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",7,179,No,2022-08-14
+1016,470,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",10,69,No,2022-05-29
+1017,899,"Lisinopril 10mg",Antihypertensive,Oral,"Twice daily",21,128,No,2023-03-19
+1018,70,"Furosemide 40mg",Diuretic,Oral,"Four times daily",7,146,Yes,2023-05-18
+1019,618,"Amoxicillin 500mg",Antibiotic,Oral,"Twice daily",21,9,Yes,2023-03-07
+1020,1343,"Ciprofloxacin 500mg",Antibiotic,Oral,"Three times daily",21,88,No,2023-06-20
+1021,1213,"Amlodipine 5mg",Antihypertensive,Oral,"Three times daily",7,161,Partial,2022-02-12
+1022,1405,"Paracetamol 500mg",Analgesic,Oral,"As needed",7,137,Partial,2022-07-11
+1023,1052,"Prednisolone 5mg",Corticosteroid,Oral,"Three times daily",90,51,No,2022-07-13
+1024,1025,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",3,114,Yes,2023-10-08
+1025,1450,"Doxycycline 100mg",Antibiotic,Oral,"Three times daily",90,60,Partial,2022-01-20
+1026,462,"Ibuprofen 400mg",NSAID,Oral,"Once daily",21,95,No,2022-05-17
+1027,239,"Losartan 50mg",Antihypertensive,Oral,"Twice daily",30,41,Yes,2023-12-25
+1028,1101,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",30,122,Partial,2022-01-21
+1029,846,"Atorvastatin 20mg",Lipid-lowering,Oral,"Once daily",21,55,Yes,2023-10-14
+1030,1758,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Once daily",10,81,Yes,2022-10-20
+1031,33,"Carbamazepine 200mg",Anticonvulsant,Oral,"Four times daily",90,91,Partial,2023-12-16
+1032,680,"Hydrochlorothiazide 25mg",Diuretic,Oral,"As needed",30,59,No,2023-05-15
+1033,1231,"Atorvastatin 20mg",Lipid-lowering,Oral,"Twice daily",90,156,No,2023-07-05
+1034,704,"Paracetamol 500mg",Analgesic,Oral,"Once daily",3,90,Yes,2023-06-03
+1035,257,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"As needed",5,50,No,2022-06-03
+1036,22,"Doxycycline 100mg",Antibiotic,Oral,"Twice daily",30,89,Partial,2023-12-06
+1037,1289,"Folic Acid 5mg",Supplement,Oral,"Three times daily",10,170,Partial,2023-02-03
+1038,1764,"Cotrimoxazole 480mg",Antibiotic,Oral,"Three times daily",21,34,Yes,2023-10-04
+1039,1461,"Furosemide 40mg",Diuretic,Oral,"Four times daily",7,48,Yes,2022-01-13
+1040,886,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Twice daily",14,109,Partial,2023-11-24
+1041,1794,"Cotrimoxazole 480mg",Antibiotic,Oral,"Twice daily",30,36,Yes,2023-06-15
+1042,747,"Amlodipine 5mg",Antihypertensive,Oral,"Four times daily",5,148,No,2023-01-21
+1043,891,"Amlodipine 5mg",Antihypertensive,Oral,"Four times daily",10,159,No,2022-09-27
+1044,99,"Furosemide 40mg",Diuretic,Oral,"Once daily",3,103,No,2023-06-26
+1045,868,"Amoxicillin 500mg",Antibiotic,Oral,"As needed",7,162,Yes,2022-03-14
+1046,532,"Phenobarbital 60mg",Anticonvulsant,Oral,"Twice daily",30,8,Partial,2023-12-12
+1047,1580,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Four times daily",21,131,Yes,2022-02-28
+1048,941,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Four times daily",10,167,Yes,2023-01-04
+1049,113,"Phenobarbital 60mg",Anticonvulsant,Oral,"As needed",21,171,No,2023-03-02
+1050,723,"Carbamazepine 200mg",Anticonvulsant,Oral,"Twice daily",21,165,Yes,2023-12-05
+1051,946,"Warfarin 5mg",Anticoagulant,Oral,"Four times daily",14,23,Yes,2022-08-08
+1052,509,"Furosemide 40mg",Diuretic,Oral,"Twice daily",3,178,No,2023-06-11
+1053,322,"Ferrous Sulphate 200mg","Iron supplement",Oral,"As needed",30,12,No,2022-03-12
+1054,440,"Atorvastatin 20mg",Lipid-lowering,Oral,"Once daily",90,30,Partial,2023-09-03
+1055,1592,"Folic Acid 5mg",Supplement,Oral,"Twice daily",10,107,Yes,2022-09-08
+1056,1161,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Four times daily",3,134,No,2022-12-08
+1057,939,"Hydrochlorothiazide 25mg",Diuretic,Oral,"As needed",14,71,Partial,2022-08-03
+1058,1697,"Vitamin B12 1mg",Vitamin,Oral,"Four times daily",7,33,Yes,2022-06-27
+1059,770,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",90,111,Yes,2023-07-27
+1060,486,"Vitamin B12 1mg",Vitamin,Oral,"Twice daily",5,155,Yes,2023-12-02
+1061,1084,"Carbamazepine 200mg",Anticonvulsant,Oral,"As needed",3,82,Yes,2023-06-09
+1062,1100,"Spironolactone 25mg",Diuretic,Oral,"Three times daily",10,16,No,2023-04-26
+1063,1647,"Warfarin 5mg",Anticoagulant,Oral,"Four times daily",21,101,No,2022-09-25
+1064,702,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Once daily",5,147,Yes,2022-03-09
+1065,515,"Vitamin B12 1mg",Vitamin,Oral,"As needed",90,76,Partial,2022-06-20
+1066,1001,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Once daily",10,31,Yes,2022-06-13
+1067,1677,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",90,84,Partial,2022-01-08
+1068,1639,"Amoxicillin 500mg",Antibiotic,Oral,"Once daily",7,180,Yes,2022-04-20
+1069,678,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Once daily",90,140,Yes,2023-04-04
+1070,465,"Vitamin B12 1mg",Vitamin,Oral,"Once daily",14,50,No,2022-09-08
+1071,1737,"Bisoprolol 5mg",Beta-blocker,Oral,"Twice daily",90,85,No,2023-07-12
+1072,694,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Once daily",5,141,Partial,2023-09-18
+1073,1772,"Vitamin B12 1mg",Vitamin,Oral,"Twice daily",3,111,Yes,2022-01-25
+1074,591,"Bisoprolol 5mg",Beta-blocker,Oral,"Three times daily",5,102,Partial,2022-05-14
+1075,790,"Bisoprolol 5mg",Beta-blocker,Oral,"Four times daily",7,106,Yes,2023-07-21
+1076,1261,"Spironolactone 25mg",Diuretic,Oral,"As needed",5,7,No,2022-12-19
+1077,397,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Once daily",3,9,Yes,2023-04-16
+1078,328,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Twice daily",21,21,Yes,2023-02-11
+1079,734,"Bisoprolol 5mg",Beta-blocker,Oral,"Twice daily",7,54,No,2023-10-30
+1080,474,"Metformin 500mg",Antidiabetic,Oral,"Once daily",10,174,Partial,2022-02-02
+1081,819,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Once daily",5,157,Partial,2022-01-06
+1082,975,"Atorvastatin 20mg",Lipid-lowering,Oral,"Three times daily",30,162,Partial,2022-03-26
+1083,421,"Bisoprolol 5mg",Beta-blocker,Oral,"Twice daily",30,14,Partial,2023-05-23
+1084,254,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Four times daily",7,14,No,2022-10-17
+1085,316,"Prednisolone 5mg",Corticosteroid,Oral,"Once daily",3,116,No,2022-07-29
+1086,1164,"Ciprofloxacin 500mg",Antibiotic,Oral,"Three times daily",10,66,Yes,2023-01-07
+1087,122,"Metformin 500mg",Antidiabetic,Oral,"Once daily",30,52,Partial,2022-05-16
+1088,742,"Furosemide 40mg",Diuretic,Oral,"Once daily",3,84,No,2022-10-06
+1089,271,"Phenobarbital 60mg",Anticonvulsant,Oral,"Once daily",90,67,Yes,2023-01-07
+1090,822,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",21,30,Yes,2022-08-15
+1091,1092,"Azithromycin 500mg",Antibiotic,Oral,"Twice daily",3,156,Partial,2023-03-30
+1092,451,"Amoxicillin 500mg",Antibiotic,Oral,"Once daily",7,80,Yes,2023-05-05
+1093,1321,"Metronidazole 400mg",Antibiotic,Oral,"Once daily",10,91,No,2023-10-09
+1094,1433,"Azithromycin 500mg",Antibiotic,Oral,"Four times daily",30,91,Yes,2022-08-31
+1095,795,"Warfarin 5mg",Anticoagulant,Oral,"Once daily",10,103,Yes,2023-11-08
+1096,1729,"Ibuprofen 400mg",NSAID,Oral,"Three times daily",90,76,Yes,2022-08-15
+1097,1151,"Insulin Glargine 100IU/ml",Antidiabetic,Subcutaneous,"Once daily",21,134,Yes,2023-12-21
+1098,1589,"Metformin 500mg",Antidiabetic,Oral,"Once daily",14,31,Partial,2022-05-26
+1099,336,"Azithromycin 500mg",Antibiotic,Oral,"Four times daily",90,97,Yes,2022-04-05
+1100,1058,"Ciprofloxacin 500mg",Antibiotic,Oral,"Three times daily",30,137,Yes,2023-10-26
+1101,1174,"Lisinopril 10mg",Antihypertensive,Oral,"Three times daily",30,97,Yes,2022-01-19
+1102,1324,"Omeprazole 20mg","Proton pump inhibitor",Oral,"As needed",14,167,Partial,2023-01-05
+1103,851,"Ibuprofen 400mg",NSAID,Oral,"Three times daily",30,78,No,2022-06-15
+1104,852,"Amlodipine 5mg",Antihypertensive,Oral,"Once daily",5,170,No,2022-01-22
+1105,1085,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Twice daily",7,5,Yes,2023-01-20
+1106,601,"Prednisolone 5mg",Corticosteroid,Oral,"Once daily",3,108,No,2022-01-17
+1107,1424,"Losartan 50mg",Antihypertensive,Oral,"As needed",5,129,Partial,2022-02-03
+1108,171,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Three times daily",5,153,Yes,2023-02-04
+1109,503,"Losartan 50mg",Antihypertensive,Oral,"Four times daily",90,167,Partial,2022-01-22
+1110,576,"Cotrimoxazole 480mg",Antibiotic,Oral,"Four times daily",5,105,No,2022-06-13
+1111,1222,"Azithromycin 500mg",Antibiotic,Oral,"Twice daily",14,55,No,2023-09-11
+1112,657,"Azithromycin 500mg",Antibiotic,Oral,"Four times daily",21,113,No,2023-10-14
+1113,1470,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Four times daily",7,7,Yes,2022-01-04
+1114,1027,"Cotrimoxazole 480mg",Antibiotic,Oral,"As needed",90,25,Yes,2022-08-21
+1115,1508,"Phenobarbital 60mg",Anticonvulsant,Oral,"Three times daily",10,77,Partial,2023-01-21
+1116,1018,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Three times daily",5,69,Partial,2022-05-27
+1117,169,"Folic Acid 5mg",Supplement,Oral,"Four times daily",5,180,No,2023-03-25
+1118,265,"Metronidazole 400mg",Antibiotic,Oral,"Three times daily",10,21,Partial,2023-01-08
+1119,592,"Warfarin 5mg",Anticoagulant,Oral,"Three times daily",21,8,No,2022-02-22
+1120,597,"Amlodipine 5mg",Antihypertensive,Oral,"Twice daily",3,114,No,2023-08-20
+1121,66,"Prednisolone 5mg",Corticosteroid,Oral,"Three times daily",90,55,Partial,2023-03-11
+1122,746,"Carbamazepine 200mg",Anticonvulsant,Oral,"Three times daily",7,119,No,2022-05-23
+1123,936,"Warfarin 5mg",Anticoagulant,Oral,"Three times daily",10,110,No,2022-04-06
+1124,1519,"Amlodipine 5mg",Antihypertensive,Oral,"As needed",3,149,No,2022-06-13
+1125,654,"Cotrimoxazole 480mg",Antibiotic,Oral,"Three times daily",3,170,No,2022-04-30
+1126,949,"Cotrimoxazole 480mg",Antibiotic,Oral,"Four times daily",14,118,Yes,2022-06-04
+1127,925,"Losartan 50mg",Antihypertensive,Oral,"Twice daily",30,6,Partial,2022-10-30
+1128,1784,"Lisinopril 10mg",Antihypertensive,Oral,"Four times daily",3,114,Yes,2022-06-21
+1129,357,"Artemether/Lumefantrine 20/120mg",Antimalarial,Oral,"Three times daily",7,90,Partial,2022-07-27
+1130,574,"Azithromycin 500mg",Antibiotic,Oral,"Once daily",10,70,No,2022-04-06
+1131,999,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Four times daily",7,52,No,2022-01-29
+1132,377,"Carbamazepine 200mg",Anticonvulsant,Oral,"As needed",21,81,Yes,2023-05-19
+1133,1501,"Prednisolone 5mg",Corticosteroid,Oral,"Three times daily",3,29,Partial,2022-09-11
+1134,477,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",3,94,No,2022-10-02
+1135,233,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Twice daily",5,119,Yes,2023-09-21
+1136,64,"Amoxicillin 500mg",Antibiotic,Oral,"Twice daily",30,163,No,2022-04-16
+1137,1195,"Metformin 500mg",Antidiabetic,Oral,"As needed",7,154,Partial,2023-10-30
+1138,743,"Azithromycin 500mg",Antibiotic,Oral,"Three times daily",30,32,Yes,2022-03-04
+1139,1333,"Vitamin B12 1mg",Vitamin,Oral,"Four times daily",14,103,Partial,2023-02-23
+1140,427,"Losartan 50mg",Antihypertensive,Oral,"Four times daily",30,71,Partial,2023-07-23
+1141,209,"Losartan 50mg",Antihypertensive,Oral,"Three times daily",30,48,Partial,2022-02-18
+1142,127,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Three times daily",21,19,No,2023-11-28
+1143,675,"Atorvastatin 20mg",Lipid-lowering,Oral,"Three times daily",10,151,No,2023-08-02
+1144,329,"Salbutamol Inhaler 100mcg",Bronchodilator,Inhaled,"Three times daily",90,8,No,2023-08-16
+1145,378,"Spironolactone 25mg",Diuretic,Oral,"Twice daily",30,35,Yes,2022-05-28
+1146,1712,"Ibuprofen 400mg",NSAID,Oral,"Three times daily",21,32,Partial,2022-09-02
+1147,1616,"Ibuprofen 400mg",NSAID,Oral,"Twice daily",21,179,Partial,2022-05-25
+1148,1220,"Metformin 500mg",Antidiabetic,Oral,"Twice daily",7,177,No,2023-07-09
+1149,23,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Four times daily",21,149,Yes,2023-07-04
+1150,505,"Ferrous Sulphate 200mg","Iron supplement",Oral,"Once daily",3,94,Yes,2023-06-27
+1151,659,"Bisoprolol 5mg",Beta-blocker,Oral,"Twice daily",3,91,Yes,2022-01-16
+1152,446,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",10,8,No,2023-11-18
+1153,638,"Hydrochlorothiazide 25mg",Diuretic,Oral,"Twice daily",3,63,No,2023-06-24
+1154,1763,"Metronidazole 400mg",Antibiotic,Oral,"Once daily",5,115,No,2023-05-02
+1155,1775,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"Four times daily",7,21,No,2023-10-25
+1156,1134,"Lisinopril 10mg",Antihypertensive,Oral,"Once daily",21,8,Partial,2022-04-14
+1157,1596,"Warfarin 5mg",Anticoagulant,Oral,"Four times daily",3,159,Partial,2023-05-12
+1158,278,"Metronidazole 400mg",Antibiotic,Oral,"Three times daily",21,76,Yes,2023-03-23
+1159,313,"Warfarin 5mg",Anticoagulant,Oral,"Once daily",14,68,No,2023-04-11
+1160,3,"Vitamin B12 1mg",Vitamin,Oral,"Four times daily",90,58,No,2023-10-21
+1161,894,"Metronidazole 400mg",Antibiotic,Oral,"Twice daily",5,167,Partial,2023-01-17
+1162,985,"Fluoxetine 20mg",Antidepressant,Oral,"Four times daily",30,160,Partial,2023-09-06
+1163,801,"Carbamazepine 200mg",Anticonvulsant,Oral,"Four times daily",7,149,Partial,2022-07-04
+1164,1071,"Folic Acid 5mg",Supplement,Oral,"Four times daily",10,47,No,2023-05-03
+1165,1315,"Amoxicillin 500mg",Antibiotic,Oral,"Twice daily",14,63,Partial,2022-02-13
+1166,379,"Amoxicillin 500mg",Antibiotic,Oral,"As needed",5,151,No,2022-02-11
+1167,1683,"Furosemide 40mg",Diuretic,Oral,"Four times daily",30,87,No,2022-04-22
+1168,47,"Carbamazepine 200mg",Anticonvulsant,Oral,"Three times daily",5,180,Yes,2022-11-12
+1169,1452,"Amoxicillin 500mg",Antibiotic,Oral,"Once daily",90,106,No,2023-10-30
+1170,245,"Bisoprolol 5mg",Beta-blocker,Oral,"Twice daily",7,152,No,2023-03-31
+1171,1206,"Phenobarbital 60mg",Anticonvulsant,Oral,"As needed",5,169,No,2023-03-18
+1172,756,"Amlodipine 5mg",Antihypertensive,Oral,"Three times daily",5,154,Yes,2023-04-28
+1173,433,"Vitamin B12 1mg",Vitamin,Oral,"Once daily",7,179,Partial,2022-07-10
+1174,1535,"Bisoprolol 5mg",Beta-blocker,Oral,"Twice daily",30,66,Partial,2022-09-14
+1175,1511,"Folic Acid 5mg",Supplement,Oral,"Twice daily",90,68,No,2022-02-16
+1176,636,"Atorvastatin 20mg",Lipid-lowering,Oral,"Twice daily",5,139,Partial,2022-07-17
+1177,622,"Metronidazole 400mg",Antibiotic,Oral,"Once daily",10,93,No,2023-05-09
+1178,498,"Ciprofloxacin 500mg",Antibiotic,Oral,"Once daily",30,148,Yes,2023-02-28
+1179,163,"Lisinopril 10mg",Antihypertensive,Oral,"Once daily",5,78,Partial,2023-01-26
+1180,1663,"Carbamazepine 200mg",Anticonvulsant,Oral,"Twice daily",3,118,Yes,2022-09-19
+1181,1488,"Tenofovir/Lamivudine/Efavirenz 300/300/600mg",Antiretroviral,Oral,"As needed",90,63,No,2022-12-19
+1182,1160,"Metronidazole 400mg",Antibiotic,Oral,"Once daily",14,87,Partial,2023-03-04
+1183,1325,"Bisoprolol 5mg",Beta-blocker,Oral,"Three times daily",90,54,Yes,2023-10-30
+1184,181,"Lisinopril 10mg",Antihypertensive,Oral,"Four times daily",21,156,Yes,2023-02-19
+1185,750,"Phenobarbital 60mg",Anticonvulsant,Oral,"Twice daily",90,168,No,2022-01-20
+1186,516,"Metformin 500mg",Antidiabetic,Oral,"As needed",14,62,No,2022-07-19
+1187,1622,"Amlodipine 5mg",Antihypertensive,Oral,"Once daily",14,145,No,2023-01-10
+1188,642,"Paracetamol 500mg",Analgesic,Oral,"As needed",5,108,Partial,2023-03-20
+1189,905,"Metformin 500mg",Antidiabetic,Oral,"As needed",3,178,Partial,2022-03-12
+1190,740,"Ibuprofen 400mg",NSAID,Oral,"As needed",3,176,Yes,2022-10-16
+1191,1661,"Metronidazole 400mg",Antibiotic,Oral,"Four times daily",7,147,No,2022-06-24
+1192,1391,"Fluoxetine 20mg",Antidepressant,Oral,"Once daily",90,57,Partial,2023-12-11
+1193,1766,"Phenobarbital 60mg",Anticonvulsant,Oral,"Once daily",90,60,Partial,2022-07-26
+1194,880,"Atorvastatin 20mg",Lipid-lowering,Oral,"Three times daily",10,28,No,2022-03-29
+1195,1138,"Amoxicillin 500mg",Antibiotic,Oral,"Four times daily",7,43,No,2022-07-26
+1196,787,"Ibuprofen 400mg",NSAID,Oral,"Once daily",14,91,Yes,2023-10-28
+1197,1716,"Omeprazole 20mg","Proton pump inhibitor",Oral,"Once daily",10,75,No,2022-04-25
+1198,384,"Doxycycline 100mg",Antibiotic,Oral,"Once daily",30,78,Partial,2023-02-27
+1199,118,"Cotrimoxazole 480mg",Antibiotic,Oral,"As needed",7,127,Yes,2023-07-29
+1200,492,"Ciprofloxacin 500mg",Antibiotic,Oral,"Four times daily",5,57,Yes,2023-05-02

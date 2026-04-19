@@ -1,0 +1,1201 @@
+patient_id,first_name,last_name,sex,date_of_birth,age_years,county,blood_group,occupation,insurance_type,phone
+1,Michael,Payne,M,1975-04-08,48,Kisumu,A-,"Casual labourer",Out-of-pocket,0783197857
+2,Dylan,Simmons,M,1944-01-03,80,Nakuru,B-,Engineer,Out-of-pocket,0785329037
+3,Dennis,Palmer,M,2009-07-08,14,Kitale,AB+,Trader,None,0731429110
+4,Catherine,Kim,F,1959-04-25,64,Thika,A-,Teacher,NHIF,0758181396
+5,Madison,Reed,F,1945-12-15,78,Garissa,A-,Nurse,NHIF,0784093639
+6,Judy,Shaw,F,1986-10-07,37,Meru,A-,Farmer,Out-of-pocket,0748840994
+7,Gary,Sanchez,M,1988-05-15,35,Machakos,AB-,"Business person",NHIF,0738119557
+8,Brittany,Fox,F,1949-10-21,74,Kisumu,B-,"Business person",Private,0746231783
+9,Juan,Ruiz,M,1947-04-27,76,Nairobi,AB-,Housewife,NHIF,0738317637
+10,Laura,Wagner,F,2003-07-21,20,Kitale,B+,"Civil servant",NHIF,0785345555
+11,Alexis,Burns,F,1994-10-13,29,Thika,B-,"Business person",Out-of-pocket,0722201654
+12,Mark,Flores,M,1960-11-14,63,Kakamega,A-,Housewife,NHIF,0772820592
+13,Jean,Williams,F,1954-11-18,69,Nyeri,AB+,Trader,Out-of-pocket,0724972279
+14,Christina,Green,F,1998-01-24,25,Kericho,AB+,Engineer,Out-of-pocket,0778139880
+15,Jordan,Brooks,M,2004-10-07,19,Kisumu,AB-,Trader,NHIF,0781182864
+16,Bryan,Mendoza,M,2002-01-04,22,Kericho,AB-,Nurse,"Linda Mama",0751273847
+17,Joseph,Gutierrez,M,1950-02-24,73,Kitale,A-,Trader,Out-of-pocket,0726879290
+18,Roy,Hayes,M,2010-03-09,13,Garissa,O+,"Healthcare worker",None,0736998038
+19,Julie,Rose,F,1987-08-17,36,Kitale,A-,"Healthcare worker",NHIF,0755377076
+20,Dylan,Wells,M,1969-10-08,54,Nairobi,A-,"Police officer",Out-of-pocket,0740728046
+21,William,Hughes,M,1949-09-08,74,Eldoret,O-,"Healthcare worker",Out-of-pocket,0786644106
+22,Shirley,Mann,F,2000-07-07,23,Mombasa,A-,"Casual labourer",Private,0766851760
+23,Olivia,Weaver,F,1946-11-21,77,Machakos,A-,Farmer,Private,0755540424
+24,Eric,Roberts,M,1964-09-15,59,Kisumu,O+,"Business person",NHIF,0743528453
+25,Walter,Kennedy,M,1952-01-21,71,Garissa,A+,Teacher,None,0741726318
+26,Adam,Gibson,M,2001-04-28,22,Malindi,A+,"Business person",NHIF,0762401521
+27,Evelyn,Ward,F,1994-12-24,29,Nyeri,O-,"Business person",NHIF,0739219319
+28,Ethan,Gardner,M,2009-01-24,14,Thika,A+,Farmer,Out-of-pocket,0777491435
+29,Joseph,Murray,M,1950-03-03,73,Kakamega,A-,"Casual labourer",None,0764193837
+30,Willie,Morgan,M,1945-10-03,78,Malindi,AB-,Nurse,NHIF,0799889098
+31,Amy,Reed,F,1990-03-22,33,Machakos,AB+,Driver,NHIF,0719736572
+32,Harold,Snyder,M,1952-02-18,71,Nakuru,AB+,"Business person",None,0719233013
+33,Tyler,Cox,M,1960-08-27,63,Garissa,AB+,Unemployed,"Linda Mama",0797775215
+34,Eugene,Wells,M,1978-11-04,45,Kericho,B+,"Civil servant",NHIF,0724366125
+35,Justin,Cox,M,1966-12-11,57,Nakuru,AB+,Engineer,Private,0716818112
+36,Louis,Simmons,M,1975-01-01,49,Thika,B+,"Casual labourer","Linda Mama",0731687165
+37,Jean,Garza,F,1994-09-01,29,Mombasa,A-,Nurse,Out-of-pocket,0730005727
+38,Tyler,Burns,M,2010-03-14,13,Kisumu,A+,"Civil servant",NHIF,0715354599
+39,Sharon,Fox,F,1971-11-04,52,Thika,O+,Unemployed,Out-of-pocket,0741774346
+40,Edward,Gonzales,M,1943-03-24,80,Kericho,AB-,Trader,None,0799913412
+41,Justin,Green,M,1953-07-28,70,Nairobi,O-,"Healthcare worker",NHIF,0771780854
+42,Ruth,Murphy,F,1968-01-22,55,Nakuru,O+,Student,NHIF,0719317495
+43,Debra,Hicks,F,2005-07-22,18,Kisii,AB-,Farmer,NHIF,0745059710
+44,Ethan,Reed,M,1944-02-20,79,Malindi,AB-,"Police officer",Out-of-pocket,0768571795
+45,Jose,Tucker,M,1964-05-02,59,Meru,O+,Farmer,Out-of-pocket,0782269803
+46,Jerry,Jordan,M,1948-11-11,75,Kakamega,AB-,"Casual labourer",None,0750308572
+47,Amber,Barnes,F,1981-07-23,42,Eldoret,B+,"Healthcare worker",Private,0760888017
+48,Joe,Freeman,M,1978-07-18,45,Kisii,A+,"Civil servant",NHIF,0767698610
+49,Olivia,Hamilton,F,1996-11-07,27,Garissa,O-,Trader,None,0732775593
+50,Brandon,Ford,M,1982-02-27,41,Nyeri,B-,"Casual labourer",NHIF,0736726767
+51,Michael,Lopez,M,1971-08-20,52,Kisii,A-,Driver,Private,0794525678
+52,Dennis,Rice,M,1989-08-13,34,Nakuru,B+,"Casual labourer",Out-of-pocket,0724305904
+53,Cynthia,Rivera,F,2006-08-02,17,Garissa,B-,Nurse,None,0771265269
+54,Carl,Boyd,M,2007-09-20,16,Thika,O-,Unemployed,None,0777750178
+55,Jean,Graham,F,1960-12-28,63,Kitale,O-,"Civil servant",Out-of-pocket,0795585469
+56,Hannah,Gibson,F,1970-05-15,53,Mombasa,AB+,"Healthcare worker",NHIF,0752910691
+57,Kenneth,Hill,M,1969-07-23,54,Kisumu,B-,Teacher,Private,0754410148
+58,Victoria,Thomas,F,1966-07-13,57,Kericho,A+,Mechanic,None,0787267850
+59,Megan,Johnson,F,1985-05-25,38,Malindi,O+,Engineer,Out-of-pocket,0783300637
+60,Roger,Morris,M,1974-07-16,49,Nairobi,O+,Student,Out-of-pocket,0764266464
+61,Carl,Allen,M,2008-01-13,15,Kakamega,A+,Teacher,Out-of-pocket,0728213276
+62,Deborah,Gonzalez,F,1973-07-11,50,Nakuru,O-,Student,NHIF,0760885459
+63,Kayla,Vasquez,F,1972-02-16,51,Nairobi,A+,Student,NHIF,0719209801
+64,Vincent,Davis,M,1971-04-27,52,Nairobi,B+,"Healthcare worker",NHIF,0799853245
+65,Willie,Stewart,M,1999-12-09,24,Nyeri,AB-,"Business person",Out-of-pocket,0725372341
+66,Raymond,Ramirez,M,1943-05-19,80,Machakos,O+,Housewife,None,0736619372
+67,Dylan,Mills,M,1971-02-23,52,Nyeri,AB+,Mechanic,Out-of-pocket,0726247735
+68,Jack,Fernandez,M,1994-11-12,29,Mombasa,AB-,Farmer,None,0775793759
+69,Zachary,Ross,M,1998-12-05,25,Malindi,B+,"Police officer",Out-of-pocket,0797302916
+70,Julia,Mcdonald,F,2001-08-14,22,Kisii,AB+,Student,None,0721631697
+71,Joan,Ortiz,F,1999-10-20,24,Machakos,O+,Student,NHIF,0753622663
+72,Roger,Edwards,M,1985-05-11,38,Eldoret,AB+,Engineer,NHIF,0735643159
+73,Nicholas,Stephens,M,1992-08-18,31,Nyeri,B-,"Police officer",Private,0775876924
+74,Jennifer,White,F,1977-04-13,46,Meru,B-,"Civil servant",Out-of-pocket,0759529086
+75,Jean,Harrison,F,1984-07-24,39,Garissa,AB-,Student,Out-of-pocket,0746361787
+76,Angela,Cook,F,1955-12-07,68,Thika,A-,"Police officer",Out-of-pocket,0734850391
+77,Ryan,Payne,M,2001-05-24,22,Kakamega,AB+,Teacher,None,0749761527
+78,Jerry,Rivera,M,1978-01-23,45,Garissa,B+,"Civil servant",NHIF,0717318358
+79,Brittany,Allen,F,2002-02-28,21,Nairobi,AB+,Driver,Private,0755728776
+80,Richard,Cooper,M,2001-02-27,22,Mombasa,O+,Driver,NHIF,0794482772
+81,Kevin,Hill,M,1978-02-08,45,Mombasa,O+,Unemployed,Out-of-pocket,0793002706
+82,Lawrence,Perry,M,1997-08-10,26,Kisii,O+,"Civil servant",Out-of-pocket,0718083974
+83,Levi,Collins,M,1967-05-22,56,Mombasa,B+,"Healthcare worker",NHIF,0720075036
+84,James,Barnes,M,1997-12-20,26,Kitale,AB+,Farmer,NHIF,0747945817
+85,Karen,Warren,F,1969-05-26,54,Nyeri,B-,Housewife,NHIF,0740173413
+86,Justin,Torres,M,1949-01-06,75,Nyeri,AB+,Unemployed,Out-of-pocket,0786397676
+87,Lauren,Young,F,1999-12-10,24,Meru,O+,"Civil servant",Out-of-pocket,0776276072
+88,Lisa,Porter,F,1945-07-24,78,Thika,AB+,Farmer,NHIF,0787201917
+89,Levi,Stone,M,1974-10-02,49,Nyeri,B+,Driver,Out-of-pocket,0769355025
+90,Deborah,Burns,F,1995-11-27,28,Kitale,A-,Driver,NHIF,0754735895
+91,Amber,Clark,F,1960-06-14,63,Meru,O-,"Civil servant",Out-of-pocket,0763747791
+92,Harold,Thompson,M,1980-05-11,43,Mombasa,O+,Mechanic,Out-of-pocket,0710154493
+93,Joyce,Wilson,F,1964-09-12,59,Kakamega,O-,"Casual labourer",Private,0716927215
+94,Justin,Kennedy,M,1956-05-15,67,Kericho,O-,Teacher,NHIF,0794560158
+95,Russell,Green,M,1979-09-01,44,Garissa,O+,Teacher,NHIF,0725228493
+96,Ashley,Holmes,F,1959-08-23,64,Eldoret,AB+,Housewife,None,0773380266
+97,Harold,Wells,M,1958-07-07,65,Kericho,B+,Mechanic,NHIF,0765692629
+98,Andrea,Kelly,F,1940-05-24,83,Eldoret,O-,Mechanic,NHIF,0782287061
+99,Debra,Price,F,2010-09-13,13,Kitale,AB-,Mechanic,NHIF,0742051937
+100,Kathleen,Burton,F,1992-01-11,31,Meru,O-,"Police officer",None,0761167978
+101,Beverly,Ryan,F,1959-08-02,64,Kisumu,AB-,Mechanic,NHIF,0769096899
+102,Sean,Griffin,M,1941-12-05,82,Malindi,B+,Teacher,Private,0745570755
+103,Grace,Meyer,F,1990-11-03,33,Kisii,AB-,Mechanic,Out-of-pocket,0781621574
+104,Katherine,Mason,F,2002-09-02,21,Kakamega,A-,"Healthcare worker",Out-of-pocket,0748571356
+105,Howard,White,M,1995-02-25,28,Machakos,A-,Driver,NHIF,0750193656
+106,David,Ruiz,M,1947-05-12,76,Thika,O+,"Business person",NHIF,0765304649
+107,George,Hall,M,1950-10-28,73,Malindi,B-,Driver,None,0729208935
+108,Carl,Hunt,M,1972-08-09,51,Machakos,A+,Nurse,None,0748605268
+109,Charles,Hamilton,M,1984-10-10,39,Machakos,O+,"Police officer",NHIF,0750550084
+110,Jose,Herrera,M,1953-04-13,70,Kakamega,AB-,Unemployed,NHIF,0749625201
+111,Roy,Coleman,M,1975-01-19,48,Kisii,A+,Nurse,Out-of-pocket,0776669607
+112,Kathleen,Gordon,F,1985-04-21,38,Nakuru,AB+,"Casual labourer",Out-of-pocket,0798473848
+113,Jordan,Harris,M,1945-05-26,78,Kitale,A+,Unemployed,NHIF,0727637794
+114,Frank,Ruiz,M,1993-03-07,30,Kisumu,AB-,Engineer,Out-of-pocket,0746578001
+115,Jonathan,Herrera,M,1977-12-28,46,Thika,A-,Driver,"Linda Mama",0728892086
+116,Alan,Soto,M,1990-09-12,33,Mombasa,O+,Farmer,NHIF,0726587799
+117,Janet,Stone,F,1973-10-13,50,Kisii,AB-,Teacher,Out-of-pocket,0773280554
+118,Johnny,Henry,M,1981-10-08,42,Machakos,A-,"Casual labourer",None,0750559278
+119,Sandra,Scott,F,1945-01-10,79,Kitale,A-,Teacher,NHIF,0782148284
+120,Jose,Griffin,M,1987-11-24,36,Meru,O+,Unemployed,Out-of-pocket,0730739712
+121,Denise,Sanchez,F,2002-10-14,21,Eldoret,A+,"Police officer",NHIF,0769509870
+122,Amy,Ross,F,1952-11-12,71,Garissa,AB-,Farmer,NHIF,0735475673
+123,Harold,White,M,1967-11-21,56,Kakamega,A+,Farmer,Out-of-pocket,0742691263
+124,Willie,Evans,M,1948-09-07,75,Kakamega,B-,Mechanic,None,0754098516
+125,Bryan,Smith,M,1975-03-05,48,Garissa,AB+,Trader,NHIF,0798725654
+126,Steven,Brown,M,1985-04-19,38,Thika,A+,"Business person",NHIF,0727013243
+127,Jacqueline,Robinson,F,1948-08-15,75,Nyeri,AB-,Engineer,Out-of-pocket,0770667140
+128,Joe,Lopez,M,2006-05-15,17,Machakos,A+,Farmer,"Linda Mama",0763904155
+129,Danielle,Ramirez,F,2002-12-15,21,Mombasa,A-,Student,Out-of-pocket,0718815720
+130,Scott,Snyder,M,2010-12-11,13,Malindi,AB+,Driver,Out-of-pocket,0767740376
+131,Harry,Robinson,M,2010-12-28,13,Nakuru,O+,Driver,None,0765541117
+132,Evelyn,Butler,F,1993-12-04,30,Thika,O+,Student,Out-of-pocket,0760237832
+133,Juan,Hayes,M,1948-02-27,75,Mombasa,A-,Housewife,NHIF,0760015814
+134,Austin,Thomas,M,1982-11-04,41,Malindi,AB-,Mechanic,Out-of-pocket,0766765623
+135,Brandon,Porter,M,1979-06-04,44,Kakamega,B-,"Business person",Out-of-pocket,0740097636
+136,Jack,Vargas,M,1987-02-25,36,Eldoret,B-,Trader,Private,0785291541
+137,Billy,Black,M,1974-01-06,50,Eldoret,AB+,Nurse,NHIF,0710819505
+138,Andrew,Chen,M,1991-02-05,32,Meru,A+,Teacher,Out-of-pocket,0738874646
+139,Victoria,Griffin,F,1983-03-12,40,Eldoret,AB-,Trader,None,0790023800
+140,Richard,Flores,M,1960-10-02,63,Machakos,A-,"Civil servant",Private,0766910299
+141,Madison,Hamilton,F,1993-05-07,30,Nyeri,A-,Student,Private,0748016697
+142,Jacqueline,Boyd,F,1979-01-08,45,Malindi,A+,Farmer,NHIF,0738351344
+143,Levi,Peterson,M,1977-06-04,46,Nairobi,O-,"Police officer",Private,0727339011
+144,Ann,Garza,F,1969-09-18,54,Kisii,AB-,Teacher,NHIF,0715677713
+145,Jennifer,Wallace,F,1949-06-19,74,Malindi,O+,"Police officer",Out-of-pocket,0748858073
+146,Douglas,Garcia,M,1981-03-26,42,Kakamega,O-,Mechanic,Out-of-pocket,0758567046
+147,Zachary,Ramirez,M,1971-07-19,52,Malindi,A-,Housewife,None,0755568701
+148,Patrick,Obrien,M,1961-02-17,62,Machakos,A-,Engineer,Out-of-pocket,0756892354
+149,Rose,Holmes,F,1958-04-04,65,Kisumu,AB+,"Healthcare worker",NHIF,0730517835
+150,Edward,Tran,M,2003-08-25,20,Kakamega,O-,"Casual labourer",None,0785764804
+151,Judy,Bennett,F,1959-08-03,64,Kitale,O-,"Casual labourer",NHIF,0746866075
+152,Dennis,Stevens,M,1949-05-15,74,Kitale,A+,Farmer,NHIF,0748530827
+153,Bruce,White,M,2004-07-15,19,Kakamega,A+,Driver,None,0786726461
+154,Samuel,Hunter,M,2000-09-05,23,Nairobi,O-,Teacher,None,0756095437
+155,Jeremy,Holmes,M,1962-01-08,62,Meru,O-,Driver,Out-of-pocket,0791846696
+156,Jerry,Powell,M,1976-07-14,47,Nyeri,AB-,"Casual labourer",Out-of-pocket,0794676162
+157,Sarah,Hughes,F,1952-09-22,71,Malindi,AB+,"Civil servant",Out-of-pocket,0798122539
+158,Patrick,Lee,M,1958-06-10,65,Machakos,O+,"Business person",Out-of-pocket,0721370793
+159,Kathryn,Jenkins,F,1982-03-22,41,Meru,A-,"Casual labourer",Out-of-pocket,0778248169
+160,Jennifer,Ross,F,1979-03-07,44,Thika,O-,"Healthcare worker",NHIF,0728463709
+161,Charles,Watson,M,1952-09-25,71,Garissa,A+,"Casual labourer",NHIF,0792950779
+162,Bryan,Jenkins,M,1959-03-06,64,Kisii,B+,"Police officer",Private,0765144509
+163,Theresa,Stephens,F,1970-08-20,53,Eldoret,O-,"Healthcare worker",Out-of-pocket,0751536077
+164,Stephanie,Jimenez,F,1996-08-25,27,Eldoret,O+,Engineer,Out-of-pocket,0731751079
+165,Billy,Scott,M,1972-01-21,51,Kitale,AB-,Engineer,None,0779244185
+166,Brandon,Perez,M,1960-05-15,63,Kericho,B+,Mechanic,Private,0739801436
+167,Debra,Miller,F,1993-01-13,30,Garissa,AB-,"Healthcare worker",NHIF,0720952896
+168,Cynthia,Davis,F,1980-02-27,43,Meru,AB-,Trader,NHIF,0715140967
+169,Judith,Rice,F,1957-12-16,66,Kitale,A+,Nurse,NHIF,0744349528
+170,Kevin,Kennedy,M,2007-07-04,16,Nyeri,AB+,"Healthcare worker",NHIF,0716408822
+171,Peter,Hunt,M,1998-02-04,25,Kisii,O-,Unemployed,Out-of-pocket,0794819556
+172,Dennis,Torres,M,1977-07-01,46,Kakamega,AB-,"Healthcare worker",Out-of-pocket,0735140847
+173,Sean,Ross,M,1948-09-18,75,Garissa,A+,Housewife,None,0715843091
+174,Janet,Cooper,F,1942-06-26,81,Mombasa,AB-,"Healthcare worker",Out-of-pocket,0794323222
+175,Stanley,Guzman,M,1982-03-02,41,Thika,AB-,Mechanic,Out-of-pocket,0772360629
+176,Judy,Campbell,F,1957-02-23,66,Nyeri,O-,Farmer,NHIF,0715879578
+177,David,Bennett,M,1979-09-13,44,Kisii,O-,"Civil servant",NHIF,0796825515
+178,Brandon,Long,M,1946-11-11,77,Eldoret,A-,Trader,NHIF,0763690013
+179,Heather,Alvarez,F,1963-08-23,60,Kitale,AB-,Nurse,Out-of-pocket,0745798645
+180,Bobby,Simmons,M,1950-07-20,73,Kisii,B+,Engineer,NHIF,0723770458
+181,Samuel,Robertson,M,1977-05-15,46,Kakamega,O+,"Business person",Out-of-pocket,0757183837
+182,Elizabeth,Weaver,F,1985-10-14,38,Eldoret,A+,Teacher,Out-of-pocket,0764520614
+183,Frances,Dunn,F,1960-01-05,64,Kisii,O-,Farmer,NHIF,0741674763
+184,Carolyn,Russell,F,1944-10-05,79,Machakos,O-,Student,NHIF,0720319387
+185,Sean,Foster,M,1990-06-21,33,Eldoret,B-,Teacher,NHIF,0734970946
+186,Hannah,Sullivan,F,1955-05-25,68,Eldoret,O-,"Healthcare worker","Linda Mama",0748329479
+187,Rebecca,Young,F,1957-02-15,66,Kisumu,O-,Teacher,None,0752894344
+188,Diana,Taylor,F,2010-09-10,13,Kericho,AB+,Mechanic,NHIF,0795590648
+189,Jerry,Murray,M,1968-02-07,55,Nyeri,B+,"Healthcare worker",Out-of-pocket,0713527782
+190,Jean,Webb,F,1987-08-26,36,Garissa,B+,Unemployed,None,0718824561
+191,Diane,Nichols,F,2001-09-14,22,Nyeri,O+,Mechanic,Out-of-pocket,0726821075
+192,Marie,Jackson,F,1997-08-22,26,Garissa,AB-,"Business person",None,0783994695
+193,Stanley,King,M,1995-09-28,28,Nairobi,A-,Engineer,NHIF,0732099899
+194,Samuel,Daniels,M,1968-06-17,55,Kericho,AB+,Mechanic,NHIF,0736347197
+195,Kimberly,Mason,F,1978-10-18,45,Mombasa,B+,Unemployed,None,0730695604
+196,Roy,Snyder,M,1983-10-02,40,Kisii,A+,Teacher,NHIF,0796094462
+197,Denise,Collins,F,1993-10-21,30,Nairobi,O-,Nurse,Out-of-pocket,0748879071
+198,Megan,Ortiz,F,1991-05-15,32,Mombasa,A+,"Business person",Private,0774995086
+199,Sharon,Castillo,F,1958-06-28,65,Meru,AB-,"Police officer","Linda Mama",0756354851
+200,Kimberly,Hawkins,F,1987-09-18,36,Mombasa,AB-,"Healthcare worker",Private,0745899440
+201,Shirley,Torres,F,1952-01-10,72,Malindi,O+,"Healthcare worker","Linda Mama",0731434525
+202,Teresa,Stephens,F,1980-04-25,43,Kisumu,O-,Engineer,Private,0751411602
+203,Jennifer,White,F,1990-09-15,33,Nakuru,B-,Unemployed,NHIF,0716783418
+204,Martha,Simpson,F,2000-05-18,23,Nairobi,A-,Housewife,NHIF,0745496951
+205,Julie,Foster,F,1945-07-02,78,Kakamega,B-,Student,Out-of-pocket,0719869264
+206,Andrea,Reynolds,F,2010-05-27,13,Kakamega,A-,"Business person","Linda Mama",0762868861
+207,Catherine,Vargas,F,1986-03-07,37,Kakamega,O+,Engineer,NHIF,0715222944
+208,Dennis,Price,M,2000-09-15,23,Kisumu,B+,Student,None,0752752377
+209,Henry,Silva,M,1978-10-11,45,Garissa,O-,"Police officer",Out-of-pocket,0773739005
+210,Tyler,Hughes,M,1954-07-19,69,Eldoret,A+,Unemployed,Private,0797991930
+211,Philip,Wilson,M,2001-03-17,22,Machakos,O+,"Business person",None,0742507072
+212,Jesse,Schmidt,M,1954-04-01,69,Kitale,AB-,Housewife,NHIF,0737365878
+213,Andrea,Burton,F,2000-12-24,23,Nairobi,B+,Engineer,NHIF,0753627409
+214,Jacqueline,Jenkins,F,1980-03-15,43,Kericho,AB-,Engineer,NHIF,0796343485
+215,Julia,Herrera,F,1964-04-09,59,Garissa,AB+,"Healthcare worker",None,0749945150
+216,Diana,Collins,F,2002-06-16,21,Thika,AB+,"Civil servant",NHIF,0782905845
+217,Diane,Sanders,F,1958-05-02,65,Eldoret,A-,Student,None,0798043078
+218,Alexis,Bryant,F,1967-04-27,56,Garissa,AB+,Nurse,Out-of-pocket,0746456416
+219,Anthony,Silva,M,1970-04-02,53,Machakos,B-,"Casual labourer",NHIF,0723448342
+220,Christine,Nichols,F,2000-02-22,23,Nyeri,B+,Farmer,"Linda Mama",0731198492
+221,Denise,Hayes,F,2001-11-07,22,Nyeri,AB+,Student,NHIF,0717940667
+222,Ralph,Webb,M,1969-09-24,54,Meru,A+,Nurse,None,0766087572
+223,William,Coleman,M,2003-03-24,20,Kisii,AB+,Nurse,NHIF,0750049524
+224,Patrick,Cox,M,1998-11-18,25,Garissa,O-,Nurse,None,0777674279
+225,Anna,Roberts,F,1954-06-06,69,Meru,O-,"Casual labourer",NHIF,0734991216
+226,Randy,Alvarez,M,1977-10-22,46,Nyeri,B-,"Business person",Out-of-pocket,0795728324
+227,Kelly,Ford,F,1981-02-13,42,Machakos,A-,"Business person","Linda Mama",0774082804
+228,Shirley,Johnson,F,1973-07-08,50,Kitale,AB+,Student,NHIF,0786890296
+229,Larry,Wagner,M,1986-12-08,37,Nairobi,A-,Driver,NHIF,0764414096
+230,Marilyn,Walker,F,1977-06-20,46,Nakuru,B-,"Business person",Private,0771066203
+231,Victoria,Schmidt,F,2010-08-25,13,Garissa,B-,Trader,NHIF,0789968863
+232,Sean,Graham,M,2007-12-12,16,Mombasa,A-,Farmer,None,0777845324
+233,Jesse,Mcdonald,M,1959-03-11,64,Kisii,O-,Teacher,Out-of-pocket,0788268756
+234,Nancy,Murray,F,1997-01-15,26,Kisumu,O+,Driver,Out-of-pocket,0785000490
+235,Theresa,Wood,F,1942-07-09,81,Kisii,A+,"Police officer",NHIF,0719801857
+236,Nathan,Sanders,M,1948-09-02,75,Kericho,A-,Nurse,Private,0748532662
+237,Deborah,Pierce,F,1957-11-24,66,Machakos,O+,Student,"Linda Mama",0761335545
+238,Maria,Jenkins,F,1950-11-22,73,Kisii,B+,"Casual labourer",None,0725922674
+239,Albert,Bell,M,2007-03-24,16,Nakuru,A+,Trader,NHIF,0750045602
+240,Theresa,Stephens,F,2009-07-18,14,Malindi,B-,"Healthcare worker",Private,0730820038
+241,Stephanie,Soto,F,1954-01-26,69,Machakos,O+,Unemployed,Out-of-pocket,0712099943
+242,Jeffrey,Moore,M,1952-10-02,71,Kitale,A+,"Healthcare worker",Out-of-pocket,0763991141
+243,Kathleen,Woods,F,1967-01-05,57,Garissa,AB+,"Healthcare worker",None,0787324220
+244,Teresa,Porter,F,1981-04-10,42,Kericho,B+,"Casual labourer",Out-of-pocket,0765507111
+245,Brenda,Thomas,F,1962-11-22,61,Malindi,O-,Farmer,"Linda Mama",0796344420
+246,Jacqueline,Gray,F,1993-07-05,30,Eldoret,O+,"Business person",Out-of-pocket,0773554620
+247,Jacob,Brooks,M,1958-08-02,65,Garissa,O+,Housewife,Out-of-pocket,0727997624
+248,Shirley,Peterson,F,1966-06-21,57,Mombasa,O-,Mechanic,NHIF,0781891784
+249,Richard,Kelly,M,1988-11-20,35,Kakamega,A+,Mechanic,NHIF,0788864147
+250,Gerald,Collins,M,1982-05-01,41,Nakuru,B-,"Police officer",NHIF,0774279671
+251,Harry,Hunter,M,1966-07-08,57,Garissa,AB-,Trader,NHIF,0772579077
+252,Ruth,Bailey,F,1986-09-16,37,Kitale,A-,Trader,"Linda Mama",0773013937
+253,Sharon,Jimenez,F,1980-07-02,43,Kakamega,B-,"Police officer",NHIF,0745000508
+254,Emma,Flores,F,1965-06-08,58,Malindi,B-,Driver,Out-of-pocket,0755307111
+255,Cheryl,Soto,F,2002-08-06,21,Meru,AB-,"Business person",NHIF,0783356206
+256,Deborah,Woods,F,1947-09-02,76,Kisii,A-,Mechanic,Out-of-pocket,0710856822
+257,Donna,Dixon,F,1969-02-23,54,Kisumu,A+,"Healthcare worker",Out-of-pocket,0760090149
+258,Johnny,Hunt,M,2001-11-16,22,Nairobi,A+,Engineer,Out-of-pocket,0711590610
+259,Sean,Stephens,M,1975-09-10,48,Nairobi,O+,Trader,None,0734060788
+260,Matthew,Owens,M,1959-04-07,64,Kakamega,AB+,Mechanic,NHIF,0763270536
+261,Tyler,Henderson,M,1998-10-08,25,Meru,B-,"Civil servant",Out-of-pocket,0720820219
+262,Daniel,Henderson,M,1988-07-18,35,Kitale,A+,"Casual labourer",NHIF,0733002714
+263,Keith,Patterson,M,1982-10-28,41,Mombasa,A+,"Healthcare worker",NHIF,0786072480
+264,Anna,Lopez,F,1949-11-09,74,Kericho,A+,"Business person",None,0752209421
+265,Jeffrey,Crawford,M,1958-12-27,65,Malindi,A-,"Civil servant",NHIF,0742275631
+266,Theresa,Woods,F,1982-07-25,41,Meru,B+,Trader,"Linda Mama",0720526386
+267,Susan,Sanchez,F,1995-04-27,28,Mombasa,AB-,Unemployed,Out-of-pocket,0789941241
+268,Samantha,Davis,F,1974-08-16,49,Nakuru,AB-,Engineer,None,0767961650
+269,Juan,Burns,M,1988-02-25,35,Kakamega,AB+,Trader,NHIF,0719865900
+270,Justin,Flores,M,1988-12-26,35,Machakos,B+,"Police officer",NHIF,0758412365
+271,Daniel,Johnson,M,1979-08-12,44,Nyeri,AB+,Teacher,NHIF,0735151299
+272,Joan,Vargas,F,2005-07-04,18,Nairobi,A-,Student,Out-of-pocket,0790117857
+273,Heather,Brown,F,1977-07-13,46,Nyeri,A-,"Police officer",None,0742580349
+274,Juan,Perry,M,1961-03-09,62,Eldoret,AB+,Driver,NHIF,0732442197
+275,Brenda,Vasquez,F,1978-08-26,45,Mombasa,AB-,"Civil servant",None,0793890601
+276,Doris,Silva,F,1965-08-04,58,Kisumu,AB+,Farmer,None,0754589439
+277,Christine,Alexander,F,1982-07-27,41,Kisii,B+,"Civil servant",NHIF,0736957830
+278,Katherine,Rivera,F,1990-06-10,33,Meru,O-,Unemployed,Out-of-pocket,0753739710
+279,Brenda,Torres,F,1990-06-04,33,Kericho,B-,Unemployed,"Linda Mama",0734149421
+280,Bobby,Moreno,M,1966-08-26,57,Eldoret,A-,Mechanic,None,0764914054
+281,Donna,Munoz,F,1978-04-09,45,Machakos,B+,"Police officer",Private,0760598851
+282,Kyle,Porter,M,2001-10-13,22,Garissa,O+,Engineer,NHIF,0758255231
+283,Anthony,Pierce,M,1971-11-22,52,Thika,B+,"Casual labourer",Out-of-pocket,0785594147
+284,Kayla,Hughes,F,1995-02-01,28,Mombasa,AB+,"Healthcare worker",Out-of-pocket,0779631857
+285,Kyle,Powell,M,1990-08-25,33,Machakos,B+,Student,"Linda Mama",0774796438
+286,Frank,Fisher,M,1950-02-27,73,Meru,B+,Student,NHIF,0771113711
+287,Lawrence,Herrera,M,1984-08-04,39,Kitale,O-,Student,NHIF,0715997257
+288,Robert,Castillo,M,1953-11-26,70,Kisumu,B-,Engineer,NHIF,0731493051
+289,Kathryn,Romero,F,1999-04-26,24,Malindi,B+,"Business person",Out-of-pocket,0768000104
+290,Linda,Gardner,F,1965-08-19,58,Malindi,O+,Farmer,Out-of-pocket,0737619925
+291,Kayla,Garza,F,1948-10-04,75,Nyeri,B+,Student,NHIF,0771411378
+292,Larry,Rose,M,2002-09-21,21,Thika,O+,Unemployed,NHIF,0725331969
+293,Rachel,Wallace,F,1962-11-23,61,Nyeri,AB+,Nurse,Out-of-pocket,0721375216
+294,Gregory,Walker,M,1970-05-04,53,Kisumu,AB-,"Police officer",NHIF,0762138657
+295,Doris,Scott,F,1989-07-06,34,Kitale,B+,Engineer,NHIF,0748766747
+296,Ronald,Bennett,M,1997-10-02,26,Kisii,AB-,Farmer,Private,0736189702
+297,Kathryn,Stevens,F,2003-07-22,20,Kitale,O+,"Police officer",None,0775592138
+298,Christopher,Chen,M,1943-04-10,80,Nairobi,AB+,"Healthcare worker",Out-of-pocket,0732576626
+299,Alice,Grant,F,2003-09-17,20,Mombasa,A-,"Civil servant",Out-of-pocket,0759239353
+300,Levi,Stephens,M,1996-09-07,27,Malindi,A-,"Police officer",None,0743223132
+301,Barbara,Reynolds,F,1973-06-28,50,Kisii,A-,Driver,None,0725755285
+302,Jeffrey,Gardner,M,1984-12-20,39,Machakos,O+,"Business person",Out-of-pocket,0737732020
+303,Joseph,Freeman,M,1984-09-09,39,Kakamega,B+,Student,"Linda Mama",0749276764
+304,Teresa,Kelly,F,2005-11-27,18,Mombasa,B+,Trader,Out-of-pocket,0717957216
+305,Denise,Allen,F,1956-04-05,67,Meru,AB-,Mechanic,NHIF,0762707402
+306,Emily,Tucker,F,1974-11-14,49,Malindi,O-,Teacher,Out-of-pocket,0722494970
+307,Frances,Dunn,F,1975-12-12,48,Kitale,O-,Student,Out-of-pocket,0722501261
+308,Abigail,Boyd,F,1985-02-26,38,Garissa,O+,"Healthcare worker","Linda Mama",0738434222
+309,Anna,Mendoza,F,1976-06-18,47,Kakamega,B+,Unemployed,None,0756135950
+310,David,Sanchez,M,1998-01-04,26,Kericho,B+,Driver,Private,0767418250
+311,Wayne,King,M,1978-03-28,45,Kericho,AB+,Teacher,Out-of-pocket,0743606680
+312,Tyler,Boyd,M,1961-01-13,63,Machakos,AB+,"Police officer",Out-of-pocket,0741426254
+313,Denise,White,F,1952-01-07,72,Kitale,A-,"Business person",Out-of-pocket,0779718627
+314,Patricia,Williams,F,1983-02-28,40,Malindi,B+,Driver,NHIF,0761414775
+315,Bobby,Clark,M,1953-06-12,70,Kericho,AB+,"Business person",NHIF,0727870584
+316,Thomas,Harrison,M,1941-10-21,82,Kisumu,O-,Student,Out-of-pocket,0794299475
+317,Adam,Silva,M,1996-04-03,27,Kericho,A-,"Business person",Out-of-pocket,0789131271
+318,Debra,Romero,F,1980-03-08,43,Eldoret,A-,"Healthcare worker",Out-of-pocket,0790531692
+319,Marilyn,Miller,F,1978-04-17,45,Kakamega,B-,"Police officer",NHIF,0796727439
+320,Nicholas,Tran,M,1989-02-08,34,Kitale,A-,Engineer,None,0711619606
+321,Katherine,King,F,1989-10-14,34,Thika,B+,Trader,Private,0719796799
+322,Dylan,Moore,M,1941-05-07,82,Nairobi,A+,Trader,NHIF,0748451741
+323,Kelly,Schmidt,F,1991-02-21,32,Garissa,B+,"Civil servant",NHIF,0720606094
+324,Kevin,Mcdonald,M,1981-07-19,42,Machakos,A-,"Civil servant",Out-of-pocket,0742029368
+325,Eric,Thompson,M,1995-02-15,28,Kakamega,A+,"Civil servant",Out-of-pocket,0798322292
+326,Donald,Brown,M,1957-12-01,66,Kisumu,O-,Student,Out-of-pocket,0744795538
+327,Tyler,Allen,M,1974-12-04,49,Nyeri,A+,Student,None,0746504617
+328,Larry,Ferguson,M,1949-08-15,74,Garissa,AB-,Farmer,Private,0786086168
+329,Tyler,Green,M,1972-02-19,51,Machakos,A-,"Healthcare worker",Out-of-pocket,0710344739
+330,John,Ortiz,M,1945-08-12,78,Malindi,B+,"Business person",None,0714746418
+331,Cynthia,Mendoza,F,1971-07-24,52,Thika,AB+,Mechanic,NHIF,0760037465
+332,Jeremy,Stone,M,1946-03-08,77,Nyeri,A+,Housewife,NHIF,0772423883
+333,Ruth,Ruiz,F,1951-09-15,72,Nairobi,AB-,"Healthcare worker",NHIF,0750790016
+334,Carl,Jimenez,M,2003-04-24,20,Kericho,B-,"Business person",NHIF,0765034115
+335,Gary,Woods,M,1984-11-27,39,Meru,A+,Student,NHIF,0798221829
+336,Isabella,Weaver,F,1979-02-07,44,Garissa,B-,Housewife,Private,0718038980
+337,Dennis,Kim,M,1951-01-08,73,Kericho,O+,"Police officer",None,0771533194
+338,Ethan,Harris,M,2004-03-21,19,Kisii,O+,Teacher,Out-of-pocket,0718359464
+339,Beverly,King,F,1970-05-09,53,Kisii,AB-,Nurse,None,0753788744
+340,Joan,Howard,F,1969-02-07,54,Kisumu,A-,"Business person",NHIF,0770339827
+341,Katherine,Barnes,F,1955-09-12,68,Nyeri,B-,Driver,NHIF,0745568761
+342,Daniel,Green,M,1978-12-23,45,Kakamega,A+,"Healthcare worker",None,0753995720
+343,Daniel,Ferguson,M,1971-06-13,52,Garissa,A+,"Casual labourer",NHIF,0733336132
+344,Douglas,Reynolds,M,2010-04-04,13,Kitale,A-,Trader,Out-of-pocket,0726301180
+345,Joseph,Obrien,M,1968-03-07,55,Kisii,O+,Student,Out-of-pocket,0796528158
+346,Ethan,Crawford,M,1973-02-01,50,Mombasa,B-,Nurse,Out-of-pocket,0727286109
+347,Patrick,Young,M,1945-08-02,78,Kisumu,O+,Mechanic,Out-of-pocket,0776588957
+348,Aaron,Fox,M,1994-03-12,29,Nakuru,B+,"Civil servant",NHIF,0729948970
+349,Joe,Shaw,M,1971-11-10,52,Kitale,O+,Nurse,Out-of-pocket,0718184472
+350,Scott,Russell,M,1957-07-07,66,Machakos,B-,"Casual labourer","Linda Mama",0782968364
+351,Aaron,Mann,M,1985-08-18,38,Nyeri,O-,Student,None,0777430081
+352,Heather,Howard,F,1963-01-11,61,Kakamega,B-,Farmer,None,0747706144
+353,Arthur,Harrison,M,1985-10-08,38,Kisumu,A-,"Healthcare worker",Out-of-pocket,0745772648
+354,Levi,Morris,M,1989-06-27,34,Kisii,B+,"Business person",NHIF,0752681823
+355,Janice,Davis,F,1985-10-19,38,Kisumu,B-,Mechanic,"Linda Mama",0776065552
+356,Melissa,Ellis,F,1944-02-02,79,Nakuru,B-,Farmer,Out-of-pocket,0710091737
+357,Julia,Phillips,F,1956-06-23,67,Kisumu,AB-,Farmer,NHIF,0788733350
+358,Mark,Owens,M,1986-02-12,37,Meru,O+,Unemployed,NHIF,0750502233
+359,Donna,Green,F,1995-11-16,28,Machakos,AB-,"Business person",Out-of-pocket,0785427317
+360,Cynthia,Boyd,F,1962-07-10,61,Meru,AB+,"Business person",NHIF,0710241310
+361,Alice,Rodriguez,F,1963-10-11,60,Kericho,B-,"Casual labourer",Out-of-pocket,0776596831
+362,Patrick,Grant,M,1949-04-12,74,Thika,B+,"Casual labourer",None,0721908603
+363,Joan,Williams,F,1973-04-08,50,Meru,A-,Student,NHIF,0724500158
+364,Richard,Russell,M,1996-12-14,27,Kisumu,O+,Driver,None,0757141449
+365,Betty,Bryant,F,1968-03-15,55,Mombasa,A+,"Civil servant",NHIF,0745047967
+366,Charles,Castillo,M,1961-07-06,62,Meru,A-,Engineer,None,0722496299
+367,Doris,Silva,F,2001-12-01,22,Malindi,B+,Unemployed,None,0731086112
+368,Matthew,Hughes,M,1966-04-14,57,Meru,AB+,"Casual labourer",NHIF,0741883191
+369,Richard,Bell,M,2010-08-05,13,Nairobi,AB-,Farmer,Private,0749533757
+370,Rebecca,Harris,F,1943-04-06,80,Machakos,AB+,Teacher,Private,0725503345
+371,Diane,Cole,F,2002-11-09,21,Mombasa,O+,"Business person",NHIF,0761196706
+372,Deborah,Graham,F,1945-05-15,78,Kitale,AB+,"Healthcare worker",None,0785731895
+373,Kevin,Kelley,M,1952-02-22,71,Thika,O+,Trader,Out-of-pocket,0784303190
+374,Jose,Marshall,M,1993-09-22,30,Kisii,O-,Unemployed,None,0773922841
+375,Lisa,Coleman,F,1944-09-19,79,Kericho,B+,Teacher,None,0770269093
+376,George,Edwards,M,1964-03-02,59,Malindi,A-,"Casual labourer",Private,0794184877
+377,Bryan,Bailey,M,1980-12-26,43,Mombasa,A-,Housewife,Out-of-pocket,0784095459
+378,Brenda,Marshall,F,1998-01-26,25,Meru,O+,Teacher,Private,0729891032
+379,Anthony,Chen,M,1952-05-28,71,Garissa,AB-,Nurse,Private,0761411224
+380,Teresa,Gordon,F,2000-01-06,24,Eldoret,O+,"Business person",Out-of-pocket,0763917932
+381,Henry,Hughes,M,1970-01-24,53,Kitale,AB+,Nurse,NHIF,0755347617
+382,Ruth,Kim,F,2002-12-22,21,Mombasa,B-,"Business person",NHIF,0769473299
+383,Anna,Weaver,F,1993-10-21,30,Mombasa,B-,Driver,NHIF,0764649480
+384,Hannah,Powell,F,1947-09-26,76,Kisumu,A-,"Civil servant",Out-of-pocket,0764141437
+385,Sean,Freeman,M,1943-03-07,80,Kericho,B-,Mechanic,NHIF,0714438720
+386,Susan,Ross,F,1965-05-12,58,Kisii,O-,Engineer,NHIF,0726625933
+387,Nicholas,Powell,M,2002-10-15,21,Kisumu,O-,Unemployed,Out-of-pocket,0756204319
+388,Larry,Dunn,M,1951-05-01,72,Malindi,A+,"Business person",None,0738765353
+389,Bruce,Morales,M,1966-05-21,57,Malindi,A+,Mechanic,Out-of-pocket,0711194267
+390,Kimberly,Holmes,F,1962-10-26,61,Nairobi,B-,"Civil servant",Out-of-pocket,0750998106
+391,Kelly,Jenkins,F,1984-08-09,39,Nakuru,O-,"Civil servant",Out-of-pocket,0793698993
+392,Sara,Clark,F,1940-09-22,83,Kisii,AB-,Engineer,Out-of-pocket,0791745321
+393,Nicole,Warren,F,1953-08-03,70,Thika,AB+,"Casual labourer",NHIF,0747162866
+394,Denise,Ferguson,F,1978-04-05,45,Garissa,B-,Nurse,NHIF,0790535106
+395,Beverly,Gray,F,1957-12-01,66,Machakos,O-,"Civil servant",NHIF,0766178935
+396,Heather,Gardner,F,1944-10-23,79,Kakamega,B-,Student,Out-of-pocket,0739845082
+397,Amber,Long,F,2004-05-28,19,Kisumu,B+,"Civil servant",NHIF,0727172371
+398,Sophia,Henry,F,1963-11-11,60,Machakos,A-,"Healthcare worker",NHIF,0751216287
+399,Christine,Powell,F,1973-10-10,50,Kitale,A-,Driver,NHIF,0795147289
+400,Arthur,Roberts,M,2004-02-28,19,Machakos,O+,Engineer,NHIF,0717256074
+401,Kenneth,Phillips,M,1983-07-19,40,Kericho,O-,"Business person",NHIF,0734207075
+402,Roger,Price,M,1962-06-21,61,Nairobi,A+,Driver,NHIF,0732629881
+403,Roger,Torres,M,1951-03-20,72,Malindi,O+,Housewife,Private,0774075580
+404,Mary,Martinez,F,2008-04-24,15,Thika,A+,Nurse,NHIF,0781274148
+405,Robert,Salazar,M,1940-11-24,83,Nakuru,B-,"Police officer",None,0751888314
+406,Anthony,Russell,M,2004-10-10,19,Kisumu,A-,Mechanic,NHIF,0749034245
+407,Rose,Marshall,F,2007-06-14,16,Kericho,B+,Student,"Linda Mama",0775790669
+408,Kayla,Carter,F,1961-07-01,62,Nakuru,B-,"Police officer","Linda Mama",0738345472
+409,Dylan,Stevens,M,1961-02-12,62,Meru,A+,Housewife,None,0744331441
+410,Bryan,Gonzalez,M,1953-11-27,70,Nairobi,A+,"Police officer",NHIF,0769634854
+411,Ashley,Kennedy,F,1972-08-23,51,Kisumu,B-,"Police officer",Out-of-pocket,0711248835
+412,Victoria,Robertson,F,1952-11-17,71,Eldoret,B+,Housewife,None,0724081350
+413,Brandon,Robinson,M,1953-08-07,70,Kakamega,B-,Trader,NHIF,0780215481
+414,Dennis,Garza,M,1992-05-06,31,Nairobi,O-,Nurse,NHIF,0774513622
+415,Amy,Smith,F,1941-11-03,82,Kericho,A-,Mechanic,Out-of-pocket,0776317520
+416,Daniel,Obrien,M,2005-02-24,18,Meru,A-,Nurse,NHIF,0741025808
+417,Emma,Reed,F,1999-01-04,25,Kisii,B+,Mechanic,NHIF,0748999266
+418,Theresa,Bennett,F,1994-12-04,29,Mombasa,A+,Farmer,None,0799034004
+419,Patrick,Long,M,1996-10-09,27,Kericho,A-,Student,None,0734544318
+420,Douglas,Butler,M,1998-05-27,25,Malindi,O-,Trader,Private,0732384662
+421,Steven,Rice,M,1947-03-04,76,Malindi,O-,Trader,Out-of-pocket,0768809216
+422,Joe,Perry,M,1985-10-01,38,Kisii,B+,Driver,None,0725158211
+423,Lauren,Lopez,F,1948-05-21,75,Thika,A+,"Police officer",None,0780439867
+424,Eugene,Alvarez,M,2006-09-23,17,Meru,A-,Housewife,Out-of-pocket,0743363439
+425,Debra,Robertson,F,1989-03-27,34,Kisii,A+,Farmer,Out-of-pocket,0731062435
+426,Martha,Nelson,F,1949-08-11,74,Nakuru,AB-,"Civil servant",NHIF,0739891163
+427,Julie,Rogers,F,1950-08-15,73,Nyeri,O-,Teacher,None,0770004467
+428,Ashley,Medina,F,1942-02-13,81,Malindi,A+,Engineer,Out-of-pocket,0722199793
+429,Frances,Henry,F,1966-11-22,57,Kitale,AB-,Student,None,0739919562
+430,Christine,Henry,F,2000-12-22,23,Thika,O-,Teacher,NHIF,0798437437
+431,James,Castillo,M,1985-11-26,38,Eldoret,AB-,"Police officer",NHIF,0732032560
+432,Donna,Nichols,F,1992-02-09,31,Kakamega,B-,"Healthcare worker",NHIF,0762733674
+433,Harold,Mann,M,1964-12-11,59,Mombasa,O+,Farmer,None,0789028889
+434,Stanley,Reynolds,M,1998-11-19,25,Garissa,B+,Driver,NHIF,0716519170
+435,Sara,Herrera,F,2005-03-23,18,Kakamega,B+,"Police officer",None,0723898777
+436,Beverly,Porter,F,1981-09-13,42,Malindi,B-,"Civil servant",NHIF,0756017729
+437,Joan,Wright,F,1957-07-20,66,Meru,AB+,Mechanic,Out-of-pocket,0752132393
+438,Jason,Collins,M,1977-11-12,46,Kericho,B+,"Police officer",Out-of-pocket,0733865616
+439,Diana,Robinson,F,1985-09-16,38,Kakamega,O+,"Casual labourer",Out-of-pocket,0781659221
+440,Kelly,Brown,F,2006-02-01,17,Malindi,B+,Farmer,Out-of-pocket,0736830448
+441,Kayla,Torres,F,1960-05-22,63,Eldoret,B+,Mechanic,NHIF,0749613096
+442,Vincent,Woods,M,1944-06-27,79,Kitale,A-,Unemployed,None,0785414925
+443,Howard,Holmes,M,1989-04-17,34,Nyeri,AB+,"Police officer",Out-of-pocket,0761215153
+444,Victoria,Torres,F,1980-09-02,43,Nairobi,AB+,"Healthcare worker",Out-of-pocket,0769467023
+445,Louis,Garza,M,1987-10-18,36,Meru,B-,Trader,Out-of-pocket,0735970823
+446,Joan,Rivera,F,1949-03-06,74,Meru,A-,Housewife,NHIF,0747461811
+447,Kimberly,Adams,F,1972-01-11,52,Kitale,B+,Farmer,NHIF,0753302669
+448,Jordan,Silva,M,1978-08-26,45,Kakamega,AB-,Teacher,Out-of-pocket,0752662313
+449,Ronald,Marshall,M,1948-09-06,75,Malindi,O+,Teacher,NHIF,0738635863
+450,Christine,Ross,F,1977-04-25,46,Kakamega,O-,Engineer,None,0797147586
+451,Mark,Rose,M,1984-08-08,39,Kericho,B-,Farmer,Out-of-pocket,0753075436
+452,Sandra,Russell,F,1972-09-24,51,Eldoret,A+,Nurse,Out-of-pocket,0760326016
+453,Cheryl,Lopez,F,1977-11-07,46,Thika,A-,Teacher,NHIF,0782205759
+454,Jordan,Taylor,M,1966-11-21,57,Nyeri,B-,Mechanic,Out-of-pocket,0723948820
+455,Albert,Schmidt,M,1995-11-27,28,Mombasa,B+,Farmer,Private,0754522084
+456,Daniel,Jackson,M,1946-03-26,77,Eldoret,A-,Unemployed,None,0744715141
+457,Heather,Reynolds,F,1991-07-11,32,Nairobi,O+,"Casual labourer",NHIF,0710791740
+458,Vincent,Grant,M,1945-12-28,78,Mombasa,AB-,Nurse,Out-of-pocket,0748901209
+459,Madison,Thompson,F,1976-08-13,47,Malindi,A+,Driver,NHIF,0739509878
+460,Howard,Bell,M,2009-05-21,14,Kisumu,AB+,"Casual labourer",None,0796965116
+461,Patricia,Wells,F,1958-02-02,65,Nairobi,O+,Engineer,Out-of-pocket,0721425533
+462,Sharon,Dunn,F,1984-04-14,39,Kericho,B+,"Business person",NHIF,0792796892
+463,Stephanie,Robinson,F,1963-11-26,60,Kakamega,A+,Mechanic,Out-of-pocket,0783665549
+464,Marie,Kennedy,F,1949-05-22,74,Mombasa,AB+,Teacher,NHIF,0787926229
+465,Christine,Long,F,1956-11-21,67,Nakuru,A-,"Civil servant",Out-of-pocket,0735970938
+466,Cheryl,Reynolds,F,1982-10-22,41,Eldoret,B+,Unemployed,Out-of-pocket,0752457517
+467,Amanda,Johnson,F,1980-04-26,43,Nakuru,O+,"Civil servant",None,0728026223
+468,Megan,Moreno,F,1997-06-25,26,Eldoret,O-,Engineer,NHIF,0796644469
+469,Scott,Scott,M,2008-04-09,15,Meru,A-,"Police officer",NHIF,0712500515
+470,Ethan,Guzman,M,1991-10-07,32,Kericho,A+,Engineer,NHIF,0782434236
+471,Denise,Burton,F,1959-06-13,64,Nakuru,AB+,"Business person",Private,0778506338
+472,Henry,Foster,M,2004-01-22,19,Nakuru,B+,Trader,Out-of-pocket,0769890694
+473,Edward,Chen,M,1958-12-24,65,Kitale,AB-,Farmer,NHIF,0775450221
+474,Thomas,Reed,M,1987-04-02,36,Machakos,B-,Engineer,None,0758486337
+475,Judith,Griffin,F,1945-01-21,78,Thika,A-,"Police officer","Linda Mama",0795035920
+476,Isabella,Reed,F,2009-10-06,14,Malindi,O+,Student,Out-of-pocket,0720447168
+477,Maria,Morales,F,2006-07-12,17,Kisii,AB-,Driver,Out-of-pocket,0791095825
+478,Jeremy,Scott,M,1996-03-08,27,Mombasa,AB+,"Healthcare worker",NHIF,0731120146
+479,Madison,Nichols,F,1955-11-08,68,Malindi,AB-,"Police officer",NHIF,0774265413
+480,Sharon,Olson,F,1960-11-27,63,Malindi,A+,"Healthcare worker",NHIF,0786972056
+481,Kenneth,Dixon,M,2005-01-19,18,Kisumu,A+,"Business person",NHIF,0734164229
+482,Doris,Chen,F,1942-12-24,81,Machakos,AB+,Teacher,NHIF,0791406527
+483,Megan,Baker,F,1968-07-20,55,Kisumu,B+,Unemployed,Out-of-pocket,0745503367
+484,Philip,Warren,M,1983-08-20,40,Kakamega,A-,"Healthcare worker",NHIF,0727745355
+485,Robert,Phillips,M,2006-09-22,17,Malindi,B+,Unemployed,NHIF,0773870080
+486,Albert,Aguilar,M,1955-02-16,68,Machakos,B+,Nurse,Out-of-pocket,0710161088
+487,Hannah,Vasquez,F,1987-01-23,36,Garissa,O+,"Healthcare worker",None,0774709513
+488,Debra,Crawford,F,1952-07-05,71,Eldoret,O-,Trader,NHIF,0721249805
+489,Doris,Washington,F,1992-05-07,31,Nairobi,A+,Unemployed,Out-of-pocket,0779761254
+490,Aaron,Wagner,M,1966-12-26,57,Thika,O+,Student,NHIF,0767186360
+491,Helen,Mcdonald,F,1994-10-12,29,Kakamega,AB+,"Casual labourer",NHIF,0737339300
+492,Jean,Mann,F,2001-03-12,22,Garissa,O-,"Civil servant","Linda Mama",0787531025
+493,Diana,Coleman,F,1957-11-04,66,Meru,B-,Driver,Out-of-pocket,0731715773
+494,Ryan,Murray,M,1991-06-26,32,Garissa,A+,"Business person",NHIF,0795345915
+495,Daniel,Nguyen,M,2000-10-14,23,Mombasa,A-,"Civil servant",NHIF,0720742751
+496,Philip,Russell,M,1991-10-21,32,Garissa,AB+,"Police officer","Linda Mama",0717712557
+497,Louis,Tran,M,1996-01-07,28,Kisii,AB+,"Healthcare worker",NHIF,0790465529
+498,Joe,Baker,M,1944-06-08,79,Machakos,A+,"Business person",NHIF,0747035619
+499,Rachel,Rose,F,1990-07-19,33,Nakuru,A+,"Police officer",Out-of-pocket,0722101856
+500,Sophia,Henry,F,1984-06-27,39,Eldoret,B-,Unemployed,"Linda Mama",0771036720
+501,Teresa,Johnson,F,1973-03-14,50,Garissa,A-,Engineer,NHIF,0749493811
+502,Sandra,Ford,F,1972-09-27,51,Nyeri,AB+,"Police officer",Private,0760610858
+503,Shirley,Spencer,F,1983-08-22,40,Kitale,A+,Driver,NHIF,0719066979
+504,Abigail,Torres,F,1968-11-23,55,Nakuru,AB-,Housewife,"Linda Mama",0779324022
+505,Harry,Reed,M,1971-05-03,52,Malindi,AB-,Teacher,Out-of-pocket,0733955951
+506,Katherine,Myers,F,1967-10-09,56,Kisumu,B-,Driver,Out-of-pocket,0741522559
+507,Larry,Evans,M,1969-04-27,54,Nakuru,AB-,"Business person",Out-of-pocket,0726089818
+508,Alan,Robertson,M,2003-10-01,20,Nyeri,A+,Mechanic,Private,0793304578
+509,Martha,Tucker,F,1975-08-06,48,Nyeri,AB+,Housewife,NHIF,0787398691
+510,Richard,Owens,M,1994-08-18,29,Nairobi,AB-,Housewife,None,0733461307
+511,Ashley,Rice,F,2006-08-11,17,Meru,A+,Farmer,Out-of-pocket,0760925964
+512,Samuel,Ross,M,1973-03-18,50,Eldoret,B-,"Civil servant",Private,0792286747
+513,Carolyn,Mitchell,F,2003-07-07,20,Malindi,AB-,Student,None,0747531240
+514,Deborah,Webb,F,1956-10-22,67,Nakuru,A-,"Police officer",NHIF,0741649234
+515,Maria,Turner,F,1958-12-05,65,Kitale,A+,"Business person",Private,0728048483
+516,Cheryl,Brooks,F,1972-09-28,51,Kakamega,A+,Housewife,NHIF,0731923376
+517,Ryan,Peterson,M,2000-11-04,23,Kitale,AB-,"Civil servant",NHIF,0785208908
+518,Debra,Garcia,F,1992-02-12,31,Kisii,B-,Unemployed,Out-of-pocket,0797124881
+519,Brandon,Myers,M,1981-11-17,42,Kitale,O-,Nurse,NHIF,0792364557
+520,Olivia,Dixon,F,1958-03-21,65,Nyeri,AB-,Housewife,Out-of-pocket,0786723896
+521,Karen,Lee,F,1960-06-08,63,Thika,AB-,"Casual labourer",NHIF,0745899536
+522,Anna,Hamilton,F,1986-12-19,37,Garissa,O-,Housewife,NHIF,0713100576
+523,Bobby,Rogers,M,1972-12-23,51,Meru,A-,"Healthcare worker",NHIF,0723825676
+524,Thomas,Hayes,M,2010-01-01,14,Nyeri,O+,Engineer,Out-of-pocket,0721173787
+525,Larry,Shaw,M,1959-02-21,64,Kericho,O+,"Civil servant",NHIF,0748141360
+526,Judy,Allen,F,1956-09-27,67,Kisumu,A+,Farmer,Out-of-pocket,0753647781
+527,Olivia,Woods,F,1974-09-15,49,Kisumu,B+,Unemployed,Out-of-pocket,0794697764
+528,Jacqueline,Hunt,F,2008-05-12,15,Kitale,B-,Trader,NHIF,0751321368
+529,Joyce,Bailey,F,1959-05-01,64,Nairobi,B+,Student,NHIF,0781819757
+530,Wayne,Ellis,M,2001-05-01,22,Nyeri,O+,Trader,NHIF,0741033204
+531,Christian,Powell,M,1964-07-18,59,Malindi,O+,"Healthcare worker",NHIF,0796703417
+532,Maria,Morris,F,1973-02-14,50,Machakos,B-,Engineer,Out-of-pocket,0792304487
+533,Pamela,Palmer,F,2008-05-14,15,Nakuru,A-,"Business person",NHIF,0724811778
+534,Grace,Reynolds,F,1974-12-20,49,Kitale,B-,Student,NHIF,0716661503
+535,Ronald,Clark,M,1976-05-05,47,Meru,O-,"Police officer",NHIF,0722106034
+536,John,Tran,M,1967-06-14,56,Eldoret,O-,Student,Private,0714259684
+537,Lisa,Kelley,F,1958-01-09,66,Nyeri,O+,Teacher,Out-of-pocket,0734374441
+538,Jonathan,Perry,M,1941-02-25,82,Meru,B-,Housewife,Out-of-pocket,0769453211
+539,Randy,Rodriguez,M,1965-08-24,58,Nyeri,A-,Engineer,Out-of-pocket,0737977300
+540,Heather,Fox,F,1979-06-06,44,Machakos,A+,"Police officer",None,0779917538
+541,Jonathan,Herrera,M,1978-04-12,45,Kericho,A+,Mechanic,Out-of-pocket,0725157001
+542,Louis,Patterson,M,1981-01-06,43,Nyeri,AB+,Unemployed,NHIF,0742626898
+543,David,Guzman,M,2000-12-20,23,Kisumu,AB-,Trader,NHIF,0731165928
+544,Nancy,Warren,F,1983-11-02,40,Nairobi,AB-,"Casual labourer",NHIF,0781988124
+545,Steven,Gibson,M,1969-06-18,54,Nyeri,AB-,Trader,None,0735899364
+546,Wayne,Jenkins,M,1985-12-05,38,Eldoret,A+,Driver,Out-of-pocket,0785031037
+547,Gloria,Rice,F,2002-04-19,21,Kisumu,AB-,Student,Out-of-pocket,0746953423
+548,Thomas,Harrison,M,1959-08-10,64,Kisii,AB+,Engineer,NHIF,0710096613
+549,Rose,Mitchell,F,1942-10-28,81,Thika,B-,Student,Out-of-pocket,0798354109
+550,Stephanie,Owens,F,2003-09-05,20,Kakamega,AB+,Student,Private,0753221337
+551,Matthew,Marshall,M,1948-01-27,75,Kisumu,B+,Mechanic,NHIF,0724368701
+552,Stephanie,Sanchez,F,1944-10-21,79,Kisii,O+,"Casual labourer",Private,0793747900
+553,Susan,Foster,F,1968-10-23,55,Mombasa,A+,Nurse,None,0798013189
+554,Lisa,West,F,1947-06-18,76,Meru,O+,Mechanic,NHIF,0717824896
+555,Jacqueline,Hernandez,F,1949-05-03,74,Nakuru,A-,Teacher,Out-of-pocket,0781358338
+556,Stephanie,Roberts,F,2007-11-08,16,Kakamega,B+,Engineer,Out-of-pocket,0765725133
+557,Stanley,Hunt,M,1985-11-15,38,Meru,O+,Nurse,NHIF,0734212413
+558,Andrea,Alvarez,F,1960-09-20,63,Kitale,AB-,Nurse,NHIF,0753574336
+559,Joyce,Arnold,F,1995-12-11,28,Kakamega,B-,Unemployed,Out-of-pocket,0760340113
+560,Carolyn,Reynolds,F,1997-07-01,26,Meru,A+,"Civil servant",Out-of-pocket,0779472352
+561,Benjamin,Johnson,M,1978-04-07,45,Kisii,AB-,Farmer,Out-of-pocket,0747038339
+562,Matthew,Martinez,M,1998-06-05,25,Kisumu,AB+,Student,None,0743535226
+563,Jonathan,Brooks,M,1951-10-13,72,Kakamega,B-,"Police officer",NHIF,0753579429
+564,Melissa,Gibson,F,1952-10-21,71,Eldoret,A+,"Police officer",None,0761210252
+565,Joseph,Tran,M,1982-06-27,41,Malindi,O+,Nurse,None,0740429530
+566,Louis,Obrien,M,1988-01-10,36,Garissa,A+,Student,Out-of-pocket,0730076290
+567,Andrea,Rice,F,1968-03-02,55,Machakos,O+,Driver,Out-of-pocket,0787209399
+568,Jacob,Jordan,M,1977-07-05,46,Kisumu,AB-,Teacher,Private,0716618423
+569,Helen,Perez,F,1991-09-14,32,Nyeri,B+,Trader,NHIF,0785067462
+570,Roger,Coleman,M,1965-09-20,58,Meru,B-,"Healthcare worker",NHIF,0767722445
+571,Danielle,Tucker,F,1951-02-22,72,Malindi,O+,Student,NHIF,0753048774
+572,Doris,Wagner,F,1943-05-06,80,Thika,O-,Unemployed,NHIF,0716023362
+573,Jason,Warren,M,1987-03-25,36,Meru,A-,Teacher,Out-of-pocket,0742621391
+574,Brandon,Brown,M,1983-12-26,40,Mombasa,AB+,Driver,Private,0754543739
+575,Randy,Mcdonald,M,1967-04-18,56,Garissa,AB+,Engineer,Private,0728971329
+576,Aaron,Burns,M,2007-01-09,16,Kisumu,A+,"Civil servant",NHIF,0792941828
+577,Susan,West,F,1941-02-13,82,Machakos,AB+,"Casual labourer",None,0798597172
+578,Dorothy,Jones,F,1977-11-13,46,Nakuru,O+,Engineer,"Linda Mama",0723368583
+579,Cheryl,Simpson,F,2008-02-06,15,Nakuru,O-,Engineer,None,0712884132
+580,Eric,Harrison,M,1979-06-16,44,Malindi,B+,Farmer,NHIF,0757232974
+581,Judy,Chavez,F,1970-09-09,53,Nyeri,A+,"Casual labourer",NHIF,0761965156
+582,Austin,Kim,M,1968-03-11,55,Kericho,O+,"Casual labourer",NHIF,0761298971
+583,Peter,Gutierrez,M,1959-07-10,64,Kericho,AB-,Driver,Out-of-pocket,0737750491
+584,Ethan,Woods,M,1965-03-10,58,Meru,B+,Housewife,"Linda Mama",0729482024
+585,Gregory,Moore,M,2008-12-04,15,Kisumu,AB-,Mechanic,None,0713957187
+586,Joyce,Gonzales,F,1978-08-24,45,Kericho,AB+,"Business person",Out-of-pocket,0724330619
+587,Ronald,Miller,M,1974-10-19,49,Kakamega,B-,Unemployed,NHIF,0713501001
+588,Lisa,Mills,F,2001-03-17,22,Kisii,O-,"Police officer",Out-of-pocket,0734692904
+589,Cheryl,Hayes,F,1957-03-07,66,Nakuru,A+,Housewife,Out-of-pocket,0712015179
+590,Joyce,Morris,F,1965-04-03,58,Kisumu,O-,Mechanic,Out-of-pocket,0753606752
+591,Shirley,Romero,F,1991-01-20,32,Meru,O+,"Police officer",NHIF,0792074794
+592,Lawrence,Ramirez,M,1997-08-27,26,Kericho,A+,Nurse,"Linda Mama",0779619091
+593,Isabella,Hernandez,F,1989-09-25,34,Machakos,A+,"Healthcare worker",NHIF,0763424009
+594,Pamela,Moreno,F,1961-07-10,62,Kakamega,A+,"Police officer",Out-of-pocket,0729091078
+595,Marie,Reynolds,F,1951-12-17,72,Mombasa,B+,Trader,Out-of-pocket,0783337520
+596,Henry,Gonzales,M,1981-08-01,42,Kisumu,O-,Unemployed,None,0737102854
+597,Nancy,Cooper,F,1981-12-21,42,Kericho,B+,"Police officer",Out-of-pocket,0722239481
+598,Russell,Reynolds,M,1986-02-17,37,Meru,O+,"Police officer",Out-of-pocket,0778674708
+599,Aaron,Kennedy,M,1988-01-25,35,Kisumu,AB-,Unemployed,None,0730144703
+600,Andrew,Rivera,M,1946-07-10,77,Eldoret,O-,"Civil servant",Out-of-pocket,0725777827
+601,Jason,Smith,M,1972-01-15,51,Kitale,O-,Engineer,None,0791602221
+602,Amy,Stewart,F,2000-08-14,23,Kitale,A-,Unemployed,Out-of-pocket,0742844845
+603,Grace,Mason,F,1966-01-06,58,Kisumu,A+,"Casual labourer",NHIF,0729511823
+604,Eugene,Tucker,M,1978-06-03,45,Nairobi,A-,Housewife,"Linda Mama",0731654047
+605,Julia,Robertson,F,1962-08-24,61,Kakamega,AB-,Nurse,NHIF,0750170625
+606,Janet,Perry,F,1948-07-27,75,Garissa,A-,"Civil servant",Private,0726377680
+607,Christine,Owens,F,1992-09-07,31,Meru,B-,Unemployed,NHIF,0786687590
+608,Gerald,Soto,M,1976-07-20,47,Kisii,AB-,"Civil servant",Out-of-pocket,0793650413
+609,Kimberly,Silva,F,2003-09-24,20,Machakos,O-,Driver,None,0791793056
+610,Russell,Richardson,M,1964-01-04,60,Nairobi,O-,"Casual labourer",Out-of-pocket,0737827473
+611,Joyce,Lopez,F,1982-06-18,41,Nyeri,B-,Farmer,Out-of-pocket,0747799296
+612,Sarah,Wood,F,1978-09-18,45,Thika,A+,Teacher,Out-of-pocket,0755816776
+613,Sophia,Freeman,F,1943-03-07,80,Thika,AB-,Nurse,Out-of-pocket,0773686372
+614,Bruce,Wright,M,2001-03-21,22,Kitale,AB-,Driver,Out-of-pocket,0765559839
+615,Lawrence,Brooks,M,1980-09-18,43,Nairobi,B-,Unemployed,Out-of-pocket,0757458790
+616,Kevin,Kim,M,1943-06-13,80,Machakos,B+,Unemployed,Out-of-pocket,0735149571
+617,Vincent,Wood,M,1980-12-02,43,Eldoret,O+,Teacher,Private,0741895802
+618,Joan,Chavez,F,1967-09-10,56,Kisumu,A-,Student,Out-of-pocket,0737125189
+619,Walter,Stevens,M,1943-08-17,80,Kisumu,B-,Student,None,0780280155
+620,Samantha,Torres,F,1952-09-22,71,Kisumu,B-,"Police officer",NHIF,0762021209
+621,James,James,M,1945-11-28,78,Kakamega,A-,Student,Private,0716192775
+622,Lawrence,Pierce,M,1979-01-19,44,Nyeri,AB+,"Casual labourer",None,0753067834
+623,Timothy,Ward,M,1975-09-11,48,Nyeri,O-,"Casual labourer",NHIF,0730041488
+624,Scott,Robinson,M,1941-10-18,82,Garissa,A-,"Healthcare worker",Out-of-pocket,0783734610
+625,Anna,Torres,F,1976-10-08,47,Kisumu,A-,"Civil servant",Out-of-pocket,0755464764
+626,Susan,King,F,1943-08-22,80,Nairobi,A-,Housewife,NHIF,0767239263
+627,Melissa,Garza,F,1997-10-12,26,Eldoret,AB-,Mechanic,NHIF,0781603135
+628,Vincent,Arnold,M,1999-10-05,24,Mombasa,O-,Teacher,Private,0796492401
+629,Judith,Cook,F,1968-03-28,55,Kericho,AB+,Nurse,NHIF,0734609232
+630,Samantha,Griffin,F,2002-01-03,22,Kitale,A-,Student,Private,0732924595
+631,Debra,Hunter,F,1956-09-04,67,Malindi,A-,Student,Out-of-pocket,0719519256
+632,Ann,Moreno,F,1991-10-14,32,Nakuru,B-,Engineer,NHIF,0774743230
+633,Sarah,Castillo,F,1966-12-19,57,Malindi,O+,Unemployed,Out-of-pocket,0783085160
+634,Edward,Robertson,M,1949-12-23,74,Kakamega,O-,Teacher,Out-of-pocket,0772130518
+635,Kathryn,Harris,F,1996-03-10,27,Malindi,A-,Unemployed,NHIF,0790048179
+636,Samantha,Tran,F,1947-02-07,76,Kisii,B+,Nurse,Out-of-pocket,0795380301
+637,Vincent,Nguyen,M,1959-08-18,64,Eldoret,O+,Unemployed,Out-of-pocket,0736261929
+638,Juan,Gray,M,1978-10-26,45,Kericho,AB+,Nurse,None,0768348074
+639,Nancy,Burns,F,1941-10-17,82,Malindi,B+,Mechanic,NHIF,0759556257
+640,James,Garza,M,1985-02-28,38,Eldoret,A+,"Healthcare worker",Private,0789210454
+641,Judy,Gray,F,1988-07-13,35,Malindi,B-,"Casual labourer",NHIF,0728665507
+642,Austin,Russell,M,1986-07-05,37,Eldoret,B+,"Business person",NHIF,0797025331
+643,Andrew,Stephens,M,2002-11-14,21,Kisumu,A-,"Business person",Out-of-pocket,0765815175
+644,Brittany,Hunter,F,1994-10-06,29,Kitale,O+,Engineer,None,0761635535
+645,Cynthia,Mitchell,F,1994-10-01,29,Kakamega,O-,Mechanic,Out-of-pocket,0777340900
+646,Joyce,Washington,F,1986-01-02,38,Kakamega,O-,"Police officer",NHIF,0787882357
+647,Marilyn,Lee,F,1958-12-24,65,Garissa,AB+,Driver,Out-of-pocket,0780243759
+648,Eric,Cole,M,1949-11-21,74,Garissa,AB+,Unemployed,NHIF,0756109986
+649,Arthur,Griffin,M,2005-08-19,18,Meru,AB-,Housewife,NHIF,0749542951
+650,Amanda,Martinez,F,1978-12-26,45,Kakamega,AB+,Farmer,Out-of-pocket,0787596783
+651,Jesse,Wilson,M,1977-12-20,46,Nairobi,AB+,Driver,NHIF,0777859961
+652,Scott,Cooper,M,1956-10-09,67,Eldoret,AB+,Farmer,Out-of-pocket,0791043555
+653,Dylan,Payne,M,1959-11-15,64,Thika,B+,"Civil servant",Out-of-pocket,0741701674
+654,Deborah,Harrison,F,1944-06-03,79,Kisumu,B+,Mechanic,Private,0765424925
+655,Amy,Robertson,F,1996-12-21,27,Kisumu,B-,Unemployed,Out-of-pocket,0756315279
+656,Bruce,Reed,M,1954-01-06,70,Kitale,O+,Driver,NHIF,0781473736
+657,Aaron,Fox,M,1989-08-09,34,Kisumu,O+,Farmer,NHIF,0770239684
+658,Theresa,Bennett,F,2007-11-02,16,Mombasa,AB-,Mechanic,Private,0797518806
+659,Christine,Howard,F,1974-02-09,49,Machakos,O+,Driver,Out-of-pocket,0742453439
+660,Lawrence,Alvarez,M,1963-06-18,60,Nairobi,A+,Mechanic,NHIF,0765196875
+661,Sean,Clark,M,1997-06-08,26,Meru,AB+,"Civil servant",NHIF,0713181023
+662,Joseph,Simpson,M,1967-10-21,56,Mombasa,A-,Teacher,None,0727435856
+663,Beverly,Arnold,F,1963-02-23,60,Kisumu,AB+,"Civil servant",Private,0720162184
+664,Brenda,Pierce,F,1994-12-22,29,Nyeri,AB-,"Civil servant",NHIF,0719931717
+665,Jessica,Perry,F,1989-06-02,34,Eldoret,AB+,"Business person",Private,0775997780
+666,Joe,Bell,M,1962-11-16,61,Mombasa,B+,Engineer,Out-of-pocket,0739311339
+667,Walter,Nichols,M,1973-02-02,50,Mombasa,A-,Unemployed,Out-of-pocket,0769845276
+668,Keith,Hill,M,1940-01-22,84,Malindi,AB+,"Business person",Out-of-pocket,0762523472
+669,Terry,Daniels,M,2002-08-14,21,Malindi,A-,Engineer,NHIF,0761596498
+670,Ashley,Freeman,F,2008-06-11,15,Machakos,AB+,Housewife,NHIF,0796848857
+671,Jerry,Fernandez,M,1983-02-27,40,Kitale,AB+,"Casual labourer",NHIF,0784420438
+672,Jose,Robertson,M,1964-05-23,59,Malindi,A-,"Casual labourer",Out-of-pocket,0775297400
+673,Jordan,Alexander,M,1964-03-02,59,Nakuru,A+,"Police officer","Linda Mama",0742008932
+674,Heather,Taylor,F,2009-11-10,14,Kitale,O-,Farmer,NHIF,0717523501
+675,Sophia,Hernandez,F,1991-02-07,32,Nyeri,O-,"Casual labourer",None,0782016051
+676,Randy,Guzman,M,1969-02-02,54,Meru,B+,Driver,Out-of-pocket,0773246028
+677,Eric,Schmidt,M,1956-01-06,68,Machakos,A+,Nurse,NHIF,0723058343
+678,Julia,Baker,F,1948-02-04,75,Kitale,B-,Teacher,None,0767205134
+679,Isabella,Salazar,F,1991-06-04,32,Machakos,B+,Student,None,0738619492
+680,Dylan,Hall,M,1982-02-04,41,Eldoret,B+,Trader,Private,0759650807
+681,Walter,Ortiz,M,1945-03-04,78,Nyeri,O+,Trader,NHIF,0775359668
+682,James,Johnson,M,1962-02-23,61,Machakos,AB+,Housewife,Out-of-pocket,0773889312
+683,Jeffrey,Torres,M,1974-09-15,49,Malindi,B-,"Business person",Out-of-pocket,0715049433
+684,Dennis,Medina,M,1951-11-27,72,Nyeri,AB+,Student,Private,0784854623
+685,Timothy,Walker,M,2007-02-20,16,Thika,B-,Driver,Out-of-pocket,0798493393
+686,Scott,Wilson,M,1964-02-26,59,Kisumu,O-,Driver,NHIF,0799945021
+687,Richard,Holmes,M,1986-05-07,37,Malindi,AB+,Student,Out-of-pocket,0770820445
+688,Anthony,Payne,M,1946-09-06,77,Kisumu,A+,Driver,Out-of-pocket,0719510600
+689,Philip,Hamilton,M,1981-07-07,42,Meru,AB-,"Healthcare worker",Out-of-pocket,0753772726
+690,Matthew,Rogers,M,1992-04-13,31,Kericho,B-,Teacher,Private,0775016103
+691,Zachary,Nguyen,M,1967-10-15,56,Kisumu,O+,Student,NHIF,0736059032
+692,Anna,Phillips,F,1982-03-02,41,Meru,A+,"Civil servant",NHIF,0772482955
+693,Victoria,Baker,F,1983-04-10,40,Kakamega,B+,Trader,Out-of-pocket,0792077910
+694,Jesse,Wells,M,1969-02-14,54,Kisii,O-,Mechanic,"Linda Mama",0789400640
+695,Olivia,Kim,F,1941-12-14,82,Meru,B-,"Healthcare worker",NHIF,0787774748
+696,Dylan,Hill,M,1940-07-02,83,Nairobi,O-,"Police officer",Out-of-pocket,0714512474
+697,Jacqueline,Bell,F,2001-12-27,22,Mombasa,O-,Driver,NHIF,0784958851
+698,Wayne,Ryan,M,1992-04-05,31,Thika,AB+,"Healthcare worker",Out-of-pocket,0722177508
+699,Gerald,Rose,M,1979-03-23,44,Kitale,A+,Driver,Private,0728605786
+700,Deborah,Ryan,F,1987-11-15,36,Meru,A+,Mechanic,Out-of-pocket,0761657620
+701,Jacqueline,Rodriguez,F,1977-07-25,46,Eldoret,B-,Trader,Out-of-pocket,0793276088
+702,Isabella,Anderson,F,2005-11-12,18,Kericho,A+,Teacher,NHIF,0772458605
+703,Jerry,Foster,M,1962-11-18,61,Meru,A-,Engineer,Out-of-pocket,0737476059
+704,Patrick,Gutierrez,M,2009-02-21,14,Kitale,B-,Trader,Out-of-pocket,0740257672
+705,Rachel,Kelly,F,2004-11-14,19,Eldoret,A+,Teacher,NHIF,0770721529
+706,Andrea,Owens,F,1955-08-23,68,Garissa,AB+,Driver,Out-of-pocket,0718808386
+707,Harold,Thompson,M,1950-07-06,73,Eldoret,A-,Teacher,NHIF,0725035684
+708,Keith,Hill,M,1966-09-21,57,Nairobi,AB+,Housewife,"Linda Mama",0782670169
+709,Arthur,Sanders,M,1993-08-24,30,Machakos,A+,"Civil servant",NHIF,0712957704
+710,Lawrence,Holmes,M,1982-07-19,41,Thika,AB-,Driver,Out-of-pocket,0781157706
+711,Evelyn,Chavez,F,1956-05-06,67,Nyeri,AB+,"Healthcare worker",Private,0748674340
+712,Andrew,Myers,M,1976-08-06,47,Kakamega,B+,"Police officer",Out-of-pocket,0734465275
+713,Russell,Meyer,M,1959-03-08,64,Mombasa,A+,Student,Out-of-pocket,0769175071
+714,Janet,Mitchell,F,1966-09-23,57,Nairobi,AB-,Student,NHIF,0770187134
+715,Albert,Chavez,M,1955-01-13,69,Kericho,O-,Trader,NHIF,0771477186
+716,Carol,Johnson,F,2009-09-11,14,Machakos,AB+,Driver,None,0787004412
+717,Willie,Weaver,M,1996-06-23,27,Mombasa,O-,Nurse,NHIF,0783948598
+718,Raymond,Miller,M,1991-10-27,32,Nakuru,O-,Student,NHIF,0717386489
+719,Ethan,Owens,M,1968-05-07,55,Nairobi,A-,Engineer,None,0721727533
+720,Stephanie,Ellis,F,1980-10-20,43,Garissa,A+,Nurse,Out-of-pocket,0763359331
+721,Dennis,Romero,M,1987-07-12,36,Nairobi,AB+,Student,NHIF,0769804203
+722,Ryan,Weaver,M,1996-12-14,27,Nyeri,O-,"Civil servant",NHIF,0766885794
+723,Donna,Crawford,F,1951-03-07,72,Eldoret,O-,Mechanic,Out-of-pocket,0755018873
+724,Dylan,Spencer,M,1988-02-01,35,Malindi,AB+,Housewife,NHIF,0772024691
+725,Jason,Mitchell,M,1988-05-18,35,Kitale,A+,Mechanic,None,0788545322
+726,Martha,Henry,F,1999-04-01,24,Nyeri,A+,"Business person",NHIF,0795973864
+727,Ashley,Wagner,F,1976-07-06,47,Kitale,B-,Farmer,NHIF,0747207440
+728,Sarah,Porter,F,1986-10-16,37,Kakamega,O+,Mechanic,NHIF,0773893102
+729,Tyler,Ford,M,1942-05-06,81,Kakamega,A+,"Business person",NHIF,0728186152
+730,Michelle,Wilson,F,1974-06-14,49,Machakos,AB-,Farmer,NHIF,0781083363
+731,Terry,Roberts,M,1963-02-20,60,Nyeri,B+,Engineer,NHIF,0752441045
+732,Anna,Warren,F,1986-02-18,37,Kakamega,AB-,Mechanic,NHIF,0728381043
+733,Janet,Obrien,F,2002-07-11,21,Kericho,B+,Teacher,NHIF,0777562908
+734,Timothy,Henry,M,2007-09-23,16,Garissa,A-,Housewife,Private,0720254278
+735,Steven,Jones,M,2001-06-10,22,Meru,AB-,"Business person",None,0790215042
+736,Melissa,Daniels,F,1978-01-24,45,Kisii,A-,"Healthcare worker",NHIF,0729107146
+737,Raymond,Allen,M,1966-03-03,57,Malindi,A-,Teacher,NHIF,0774995591
+738,Elizabeth,Turner,F,1953-01-26,70,Machakos,A+,Driver,NHIF,0743958759
+739,Thomas,Chavez,M,1941-02-26,82,Mombasa,B-,Unemployed,None,0734800996
+740,Linda,White,F,1958-12-09,65,Kakamega,AB-,Student,NHIF,0777194013
+741,Jeremy,Freeman,M,1948-02-27,75,Kakamega,A+,Engineer,NHIF,0735709072
+742,Amanda,Spencer,F,2008-01-24,15,Mombasa,B-,Nurse,Out-of-pocket,0773715236
+743,Brittany,Crawford,F,1963-08-22,60,Mombasa,B+,Mechanic,NHIF,0760951070
+744,Laura,Ford,F,1969-07-04,54,Nyeri,AB-,Teacher,Private,0779756655
+745,Keith,Arnold,M,1986-12-10,37,Garissa,A+,Teacher,NHIF,0725532025
+746,Pamela,Griffin,F,1979-11-27,44,Kitale,B-,Engineer,Private,0767440042
+747,Thomas,Hayes,M,1987-03-01,36,Machakos,O-,"Casual labourer",NHIF,0768795196
+748,Donald,Torres,M,1990-07-23,33,Kakamega,A-,"Police officer",None,0732645646
+749,Jerry,Turner,M,1983-04-20,40,Kisii,O+,Teacher,NHIF,0767002833
+750,Brenda,Arnold,F,1974-11-13,49,Thika,O-,"Casual labourer",Out-of-pocket,0764283500
+751,Frances,Kim,F,1958-08-04,65,Mombasa,AB+,Driver,Private,0794338531
+752,Michael,Sanchez,M,1946-02-16,77,Machakos,A+,"Business person",NHIF,0753883276
+753,Benjamin,Snyder,M,1952-02-22,71,Nyeri,O-,Trader,Private,0749401349
+754,Cheryl,Stevens,F,1973-09-11,50,Nyeri,A+,Trader,NHIF,0767768169
+755,Jose,Reynolds,M,1980-07-15,43,Kitale,A+,Farmer,NHIF,0798504649
+756,Diana,Nelson,F,2002-07-05,21,Eldoret,O+,Driver,Out-of-pocket,0786350455
+757,Beverly,Wells,F,2009-10-16,14,Kitale,B+,Engineer,NHIF,0745351739
+758,Janice,Jenkins,F,1985-05-11,38,Nairobi,A+,Unemployed,NHIF,0759178730
+759,Isabella,Burns,F,1943-11-11,80,Malindi,A-,Housewife,NHIF,0757964863
+760,Debra,Anderson,F,1971-04-08,52,Machakos,AB+,Unemployed,NHIF,0718791292
+761,Sandra,Alvarez,F,1961-01-18,62,Thika,A+,Driver,Out-of-pocket,0766703371
+762,Anna,Garcia,F,2000-10-01,23,Thika,O+,Unemployed,NHIF,0786844836
+763,Roger,Sanchez,M,1966-06-16,57,Garissa,AB-,"Business person",Out-of-pocket,0758765904
+764,Rebecca,Medina,F,1949-09-07,74,Eldoret,AB+,Farmer,NHIF,0786976644
+765,Cynthia,Snyder,F,1951-12-28,72,Kakamega,A-,Unemployed,NHIF,0719028796
+766,Kelly,Collins,F,1984-02-21,39,Kisii,AB+,Engineer,None,0768104261
+767,Rebecca,Fisher,F,1991-05-20,32,Garissa,O-,"Casual labourer",Out-of-pocket,0734239835
+768,Jordan,Garza,M,2006-03-19,17,Kitale,B-,"Casual labourer","Linda Mama",0772719315
+769,Abigail,Fernandez,F,1995-10-24,28,Machakos,A+,Engineer,NHIF,0772073912
+770,Nicholas,Hill,M,1978-07-14,45,Thika,A-,"Casual labourer",NHIF,0765356542
+771,Pamela,Holmes,F,1960-05-22,63,Kakamega,B-,Housewife,NHIF,0730127592
+772,Michael,Ortiz,M,1979-08-16,44,Garissa,O+,Housewife,Out-of-pocket,0714966557
+773,Brian,Howard,M,1957-01-09,67,Nyeri,AB+,"Casual labourer",Out-of-pocket,0796475652
+774,Philip,Gibson,M,1942-01-28,81,Kericho,A-,Student,Out-of-pocket,0718533790
+775,Carolyn,Rose,F,1951-07-27,72,Meru,B+,"Healthcare worker",NHIF,0777142220
+776,Lawrence,Boyd,M,2007-05-16,16,Kericho,A-,"Healthcare worker",Out-of-pocket,0752065222
+777,Sara,Gardner,F,1989-12-24,34,Nakuru,O+,"Healthcare worker",NHIF,0733508806
+778,Scott,Alexander,M,1992-05-28,31,Kakamega,A+,Driver,Out-of-pocket,0725161415
+779,Gloria,Simmons,F,2000-11-08,23,Eldoret,B+,Student,Private,0759357131
+780,Jennifer,Holmes,F,1944-12-22,79,Nyeri,A+,"Police officer",None,0742168745
+781,Jean,Russell,F,1979-11-23,44,Thika,A-,Engineer,None,0769378298
+782,Patricia,Bell,F,1972-05-03,51,Kericho,B-,"Civil servant",NHIF,0731505334
+783,Judy,Gray,F,1992-01-09,32,Kisii,A-,Mechanic,Out-of-pocket,0775993764
+784,Isabella,Gonzales,F,1982-12-14,41,Kericho,A-,Mechanic,NHIF,0745026810
+785,Dennis,Vasquez,M,2010-12-11,13,Kitale,A+,Trader,NHIF,0796113089
+786,Jordan,Hamilton,M,1957-01-13,67,Nakuru,AB+,Student,Out-of-pocket,0724875109
+787,Eric,Castro,M,1956-10-22,67,Malindi,AB-,Driver,Private,0727919382
+788,Melissa,Warren,F,1981-05-07,42,Mombasa,O+,Student,NHIF,0760643036
+789,Robert,Garcia,M,1969-02-15,54,Nakuru,AB+,"Police officer",None,0716681756
+790,Grace,Romero,F,1973-03-03,50,Thika,B+,Unemployed,NHIF,0780576741
+791,Evelyn,Stone,F,2003-02-08,20,Meru,B-,"Healthcare worker",None,0745729141
+792,Alexis,Tran,F,1988-03-14,35,Kisii,B-,Unemployed,NHIF,0747979220
+793,Peter,Campbell,M,1992-03-01,31,Eldoret,AB+,"Healthcare worker",Out-of-pocket,0743328672
+794,Sara,Warren,F,1998-02-01,25,Kitale,B+,Mechanic,NHIF,0763358890
+795,Dennis,Russell,M,1994-12-20,29,Eldoret,A-,Teacher,Out-of-pocket,0716994436
+796,Amy,Cole,F,1985-10-22,38,Nyeri,A+,Farmer,NHIF,0793169072
+797,Nicole,Coleman,F,1987-03-18,36,Nairobi,B+,"Civil servant",NHIF,0776147841
+798,Olivia,King,F,1951-06-23,72,Garissa,O+,"Business person",NHIF,0752046335
+799,Steven,Medina,M,1975-12-12,48,Kericho,O+,"Civil servant",None,0745328305
+800,Hannah,Bennett,F,1995-03-11,28,Meru,O-,Trader,"Linda Mama",0784581396
+801,Susan,Carter,F,1959-01-08,65,Kisumu,A+,Driver,NHIF,0772697508
+802,Sandra,Tran,F,1945-08-12,78,Meru,O-,Driver,Private,0729871432
+803,Jack,White,M,1966-05-06,57,Kisii,B+,"Police officer",Out-of-pocket,0746613462
+804,Ethan,Johnson,M,2007-10-06,16,Malindi,A-,"Healthcare worker",Out-of-pocket,0722657432
+805,Linda,Cox,F,1955-07-12,68,Kakamega,A-,Mechanic,NHIF,0713875470
+806,Harold,Daniels,M,2001-08-21,22,Eldoret,A+,Student,"Linda Mama",0798070016
+807,Samantha,Ryan,F,1956-04-28,67,Nairobi,AB+,Student,Out-of-pocket,0719492426
+808,Nancy,Butler,F,1972-03-08,51,Nyeri,O+,Teacher,NHIF,0737947183
+809,Jose,Obrien,M,1991-05-21,32,Nyeri,B+,Teacher,NHIF,0768030164
+810,Danielle,Hunter,F,1956-06-22,67,Mombasa,AB-,Engineer,NHIF,0769786268
+811,Judith,Kelly,F,1994-02-25,29,Malindi,AB-,Unemployed,NHIF,0794649276
+812,Nancy,Hernandez,F,2005-06-15,18,Machakos,B-,"Casual labourer",Out-of-pocket,0730813102
+813,Jacqueline,Dixon,F,2007-02-10,16,Kitale,O+,Teacher,None,0774103912
+814,Carol,Allen,F,1978-04-17,45,Malindi,AB+,Unemployed,NHIF,0720272020
+815,Terry,Ramirez,M,2005-07-14,18,Mombasa,O-,"Casual labourer",Out-of-pocket,0744008132
+816,Angela,Burns,F,1950-09-01,73,Mombasa,O-,"Business person",Out-of-pocket,0762741841
+817,Christopher,Fisher,M,1978-06-19,45,Meru,O-,Trader,Out-of-pocket,0793726413
+818,Catherine,Mitchell,F,1967-03-03,56,Meru,AB+,Mechanic,Out-of-pocket,0768223505
+819,James,Coleman,M,1954-01-06,70,Machakos,O-,Driver,Out-of-pocket,0798277293
+820,Nicole,Shaw,F,1986-12-22,37,Meru,O+,Trader,NHIF,0726789227
+821,John,Carter,M,1954-01-23,69,Nakuru,A+,"Healthcare worker",Private,0729482265
+822,Zachary,Mason,M,2008-04-03,15,Eldoret,O-,"Business person",Private,0712928205
+823,George,Flores,M,1996-08-16,27,Nairobi,O-,Unemployed,NHIF,0749571601
+824,Susan,Price,F,1941-02-21,82,Kisii,O+,Housewife,None,0787666600
+825,Barbara,Gibson,F,1991-08-17,32,Kakamega,O-,"Healthcare worker",Out-of-pocket,0780908408
+826,Nathan,Tucker,M,1980-09-03,43,Eldoret,O+,Nurse,Private,0776409428
+827,Joan,Rice,F,1995-01-06,29,Eldoret,B-,Driver,NHIF,0741152352
+828,Dylan,Warren,M,1983-10-28,40,Kisii,O-,"Business person",None,0762394739
+829,Theresa,Wagner,F,1986-08-26,37,Kisii,B+,Unemployed,NHIF,0721568480
+830,Kimberly,Hall,F,1965-03-20,58,Kitale,A-,Trader,Private,0776266658
+831,Amy,Collins,F,1946-01-12,78,Kericho,AB+,Student,Out-of-pocket,0733449822
+832,Thomas,Alvarez,M,1995-02-20,28,Nakuru,A-,Engineer,NHIF,0744604301
+833,Rachel,Pierce,F,1945-09-09,78,Kericho,B+,Mechanic,Out-of-pocket,0779174131
+834,Russell,Gonzalez,M,1996-08-27,27,Nyeri,A-,Teacher,Out-of-pocket,0791826622
+835,Austin,Hernandez,M,2004-02-06,19,Machakos,A-,Mechanic,NHIF,0758538289
+836,Bobby,Richardson,M,1996-09-16,27,Meru,A-,"Business person",Out-of-pocket,0754910261
+837,Donald,Phillips,M,1996-07-25,27,Nyeri,A+,"Healthcare worker",None,0773574016
+838,Pamela,Stevens,F,1961-02-09,62,Thika,O+,Student,Out-of-pocket,0742943913
+839,Vincent,Kelley,M,2007-07-26,16,Nakuru,B+,Trader,Private,0764936566
+840,Hannah,Fox,F,1986-01-15,37,Kisumu,A+,"Police officer",None,0719339029
+841,Alexander,Bennett,M,1991-03-14,32,Nairobi,O+,Trader,NHIF,0796096076
+842,Jesse,Anderson,M,2006-05-14,17,Malindi,AB+,"Police officer",Out-of-pocket,0756192019
+843,Scott,Harrison,M,1958-12-13,65,Kitale,B-,Nurse,Out-of-pocket,0792971716
+844,Brittany,Sanders,F,1991-04-10,32,Mombasa,A+,Engineer,NHIF,0726912191
+845,Laura,White,F,2005-09-10,18,Garissa,AB-,Trader,Out-of-pocket,0713143613
+846,Joe,Olson,M,1973-04-27,50,Nyeri,AB+,"Police officer",Private,0777816807
+847,Bobby,Thomas,M,1987-05-21,36,Garissa,AB-,Teacher,NHIF,0797370696
+848,Kyle,Brooks,M,1940-08-11,83,Nakuru,B-,Student,NHIF,0799512805
+849,Dennis,Jenkins,M,2006-12-08,17,Mombasa,AB-,Engineer,Out-of-pocket,0758488507
+850,Betty,Nguyen,F,1994-07-03,29,Mombasa,A+,Housewife,None,0773921605
+851,Kyle,Martin,M,1987-11-17,36,Malindi,O+,Mechanic,NHIF,0776951467
+852,Lauren,Mills,F,2002-12-14,21,Kisii,B+,"Business person",Out-of-pocket,0775063976
+853,Kimberly,Garza,F,2005-09-04,18,Meru,B-,Driver,Private,0731050667
+854,Ashley,Hunter,F,1992-02-04,31,Thika,AB+,Farmer,Out-of-pocket,0725803092
+855,Ruth,Powell,F,1978-05-16,45,Nairobi,B+,"Business person",Out-of-pocket,0766607262
+856,Raymond,Cox,M,1967-03-27,56,Meru,O-,Farmer,NHIF,0756794869
+857,David,Fisher,M,2001-10-10,22,Kakamega,O-,Nurse,NHIF,0760641104
+858,Sophia,Gordon,F,1956-03-17,67,Machakos,O-,Trader,Private,0770273791
+859,Bobby,Ruiz,M,1951-10-22,72,Kakamega,O+,Housewife,NHIF,0763069304
+860,Gloria,Lopez,F,1996-12-09,27,Machakos,A-,Mechanic,NHIF,0713329148
+861,Kathryn,Holmes,F,1955-11-18,68,Mombasa,B-,Unemployed,Out-of-pocket,0717096679
+862,Vincent,Hayes,M,2004-01-04,20,Machakos,B+,Farmer,NHIF,0737622679
+863,Russell,Guzman,M,1996-02-26,27,Garissa,AB-,Housewife,Out-of-pocket,0775964394
+864,Alexander,Patterson,M,1963-07-01,60,Kisii,AB-,Housewife,NHIF,0725387340
+865,Joe,Baker,M,1976-03-06,47,Eldoret,A-,"Business person",NHIF,0764663717
+866,Joseph,Silva,M,1981-03-01,42,Meru,A+,"Civil servant",NHIF,0752955238
+867,Adam,Mendoza,M,1973-07-27,50,Kericho,A-,Farmer,NHIF,0790128603
+868,Keith,Murray,M,2004-07-04,19,Eldoret,A+,Student,Private,0764636878
+869,Gerald,Davis,M,1992-11-08,31,Kericho,A+,"Civil servant",Out-of-pocket,0788674767
+870,Eric,Arnold,M,1956-05-19,67,Malindi,O-,Teacher,None,0777166896
+871,Andrew,Powell,M,2009-03-26,14,Nakuru,O+,Nurse,Out-of-pocket,0715609238
+872,Carl,Shaw,M,1977-11-06,46,Nairobi,A+,Nurse,None,0746682099
+873,Danielle,Perry,F,1984-11-07,39,Kakamega,AB+,Farmer,NHIF,0781684250
+874,Benjamin,Thompson,M,1990-12-04,33,Kisii,B+,"Police officer",Out-of-pocket,0747508257
+875,Sharon,Mendez,F,2004-06-22,19,Thika,AB+,Trader,Out-of-pocket,0746643203
+876,Roy,Mendoza,M,1983-04-15,40,Kakamega,AB-,Farmer,None,0727948365
+877,Billy,Hayes,M,1940-01-22,84,Kisumu,O+,Engineer,None,0775629343
+878,Ann,Lee,F,1949-09-01,74,Kericho,O-,"Casual labourer",NHIF,0760516391
+879,Heather,Rivera,F,1941-02-15,82,Thika,B-,Driver,NHIF,0712655050
+880,Danielle,Daniels,F,1985-04-03,38,Kisii,AB+,Trader,Out-of-pocket,0741441568
+881,Carolyn,Martinez,F,1975-08-23,48,Meru,B-,Farmer,NHIF,0795689443
+882,Sandra,Kim,F,2004-08-06,19,Garissa,B-,"Casual labourer",Out-of-pocket,0790929605
+883,Thomas,Crawford,M,1956-12-03,67,Kisumu,AB+,Nurse,Out-of-pocket,0740596967
+884,Stephanie,Salazar,F,1942-12-22,81,Garissa,AB+,"Casual labourer",Out-of-pocket,0770924933
+885,Nathan,Hicks,M,1946-06-14,77,Kisii,O+,"Civil servant",NHIF,0779564413
+886,Martha,Ross,F,2006-01-24,17,Nakuru,A+,"Civil servant",None,0781458898
+887,Katherine,Johnson,F,1990-04-11,33,Mombasa,A+,"Police officer",NHIF,0766884191
+888,Eric,Turner,M,1961-06-10,62,Mombasa,A-,Farmer,Private,0713224383
+889,Angela,Morgan,F,1953-08-08,70,Thika,A+,Mechanic,NHIF,0741775196
+890,Bryan,Shaw,M,1996-02-21,27,Kitale,A-,Teacher,"Linda Mama",0714475312
+891,Katherine,Meyer,F,1948-03-02,75,Kericho,O-,Farmer,NHIF,0794045156
+892,Sarah,Clark,F,1947-09-02,76,Eldoret,O+,Housewife,NHIF,0765177982
+893,Bryan,Torres,M,1941-08-13,82,Kitale,O+,Nurse,Out-of-pocket,0723593293
+894,Denise,Stone,F,1943-08-17,80,Thika,B-,Teacher,NHIF,0789883050
+895,Dylan,Ryan,M,1964-10-05,59,Machakos,AB+,Student,Private,0793329195
+896,Deborah,Ortiz,F,1957-01-02,67,Kisumu,AB+,Unemployed,Private,0797470361
+897,Ruth,Burns,F,2009-03-05,14,Kitale,AB+,Unemployed,NHIF,0759503523
+898,Lawrence,Crawford,M,1958-01-08,66,Garissa,A+,Housewife,NHIF,0736893461
+899,Thomas,Castillo,M,1964-11-16,59,Meru,O-,Unemployed,Out-of-pocket,0787632976
+900,Julia,Brooks,F,1993-06-06,30,Mombasa,O-,Nurse,Out-of-pocket,0715662934
+901,Cynthia,Smith,F,1968-12-08,55,Kitale,B-,"Healthcare worker",Private,0754495204
+902,Sharon,Butler,F,1963-01-12,61,Nairobi,A-,Student,NHIF,0725460445
+903,Frank,Alexander,M,1964-11-19,59,Kericho,AB-,Farmer,"Linda Mama",0736725819
+904,Brandon,Hall,M,1968-05-24,55,Kisumu,AB-,Mechanic,Out-of-pocket,0733963425
+905,Robert,Rivera,M,1973-02-01,50,Kisii,B+,Housewife,Out-of-pocket,0724894008
+906,Sharon,Wood,F,1998-04-12,25,Nyeri,AB-,"Casual labourer",NHIF,0780722909
+907,Natalie,Taylor,F,1955-03-05,68,Nyeri,B-,"Healthcare worker",Out-of-pocket,0760231696
+908,Doris,Romero,F,1971-01-25,52,Kakamega,B-,Mechanic,Out-of-pocket,0729940314
+909,Shirley,Wilson,F,1975-03-28,48,Garissa,O-,"Healthcare worker",Out-of-pocket,0773171894
+910,George,Murray,M,1989-11-25,34,Garissa,AB-,Driver,Out-of-pocket,0734024774
+911,Natalie,Powell,F,2007-12-16,16,Meru,O-,Driver,NHIF,0763814070
+912,Jeffrey,Morris,M,1965-08-28,58,Nakuru,O+,"Healthcare worker",NHIF,0760611218
+913,Tyler,Peterson,M,2010-02-05,13,Nyeri,A-,"Civil servant",Private,0757187591
+914,Ethan,Hernandez,M,1999-09-20,24,Thika,O+,Driver,Private,0764888712
+915,Martha,Gray,F,1974-07-01,49,Kisumu,O-,"Healthcare worker",NHIF,0720185574
+916,Lisa,Watson,F,2004-09-18,19,Machakos,A-,Trader,NHIF,0740566959
+917,Donald,Jackson,M,1986-01-18,37,Nakuru,AB-,"Healthcare worker",Out-of-pocket,0743557605
+918,Alexis,Pierce,F,1975-04-23,48,Kakamega,B+,Mechanic,Out-of-pocket,0782897088
+919,Patricia,Tran,F,1978-05-27,45,Thika,O+,Housewife,None,0797954019
+920,Arthur,Wagner,M,2005-03-28,18,Malindi,B-,"Healthcare worker",Out-of-pocket,0738168948
+921,Kathleen,Castro,F,2010-08-24,13,Kisii,O-,Student,Out-of-pocket,0752020192
+922,Nathan,Tran,M,1993-04-15,30,Kitale,A+,Student,NHIF,0727226260
+923,Isabella,Williams,F,2003-11-27,20,Thika,AB-,"Healthcare worker",Private,0764139232
+924,Samantha,Crawford,F,1942-10-26,81,Nairobi,B+,"Business person","Linda Mama",0754325475
+925,Maria,Evans,F,1990-02-18,33,Malindi,B-,Driver,NHIF,0786439010
+926,Abigail,Chavez,F,1951-03-04,72,Machakos,B+,Farmer,None,0790982133
+927,Linda,Mitchell,F,1965-02-13,58,Eldoret,B-,"Healthcare worker",NHIF,0780383199
+928,Harold,Anderson,M,1987-09-01,36,Kisumu,AB-,Mechanic,None,0762493261
+929,Mark,King,M,2008-07-16,15,Meru,A-,Housewife,"Linda Mama",0737713235
+930,Jeffrey,James,M,1995-12-22,28,Kitale,B+,Unemployed,Out-of-pocket,0751649604
+931,Jeremy,Nichols,M,1998-05-07,25,Nairobi,B+,Driver,NHIF,0763584671
+932,Sean,Hughes,M,2002-08-15,21,Kakamega,A+,"Police officer",NHIF,0796744801
+933,Debra,Schmidt,F,1978-07-20,45,Kisii,B+,Housewife,NHIF,0792911191
+934,Evelyn,Russell,F,1963-12-19,60,Mombasa,O+,"Police officer",None,0742171352
+935,Scott,Mason,M,2008-05-22,15,Kericho,A-,"Police officer",Out-of-pocket,0739159454
+936,Joyce,Arnold,F,2010-02-12,13,Mombasa,A-,Engineer,Out-of-pocket,0753756742
+937,Joan,Nelson,F,1972-04-17,51,Nairobi,O-,Farmer,NHIF,0771995701
+938,Catherine,Grant,F,1991-04-13,32,Nairobi,A+,"Civil servant",NHIF,0728318112
+939,Amber,Dunn,F,1999-08-15,24,Mombasa,A-,Engineer,Out-of-pocket,0768750274
+940,Arthur,Kim,M,1960-03-27,63,Nairobi,A-,"Business person",NHIF,0781760022
+941,Amanda,Martin,F,1941-11-09,82,Kisumu,O-,Student,NHIF,0714623108
+942,Walter,Rice,M,1946-11-26,77,Garissa,A-,Housewife,Out-of-pocket,0769590884
+943,Bryan,Johnson,M,1946-07-25,77,Nakuru,B-,Student,None,0736841625
+944,Robert,Vasquez,M,1943-01-11,81,Kisii,B-,"Casual labourer",Out-of-pocket,0739604115
+945,Eugene,Nelson,M,1961-01-14,63,Garissa,A-,Mechanic,NHIF,0785437626
+946,Johnny,Collins,M,2009-07-14,14,Mombasa,B-,"Healthcare worker",NHIF,0753401695
+947,John,Butler,M,1980-01-13,43,Nakuru,O-,"Healthcare worker",NHIF,0747373949
+948,Elizabeth,Moore,F,1967-07-10,56,Nyeri,O-,Teacher,Out-of-pocket,0786397410
+949,Jonathan,Harris,M,1981-11-23,42,Malindi,B+,Student,NHIF,0752676804
+950,Sarah,Price,F,1942-10-19,81,Kitale,O+,Engineer,Out-of-pocket,0741195619
+951,Gary,Garcia,M,1955-05-08,68,Meru,O+,Trader,NHIF,0720655497
+952,Kenneth,Powell,M,2003-05-07,20,Kisumu,O+,"Healthcare worker",Out-of-pocket,0741952404
+953,Isabella,Hughes,F,1957-05-11,66,Machakos,A+,Engineer,Out-of-pocket,0765686049
+954,Kayla,Miller,F,1969-12-11,54,Thika,B-,"Healthcare worker",Out-of-pocket,0799255596
+955,Juan,Rice,M,1968-10-28,55,Malindi,AB-,"Business person",Private,0710811032
+956,Roger,Moore,M,1964-01-21,59,Kisumu,B-,"Business person",NHIF,0789541539
+957,Nicholas,Stevens,M,1950-07-24,73,Kitale,AB+,"Business person",Out-of-pocket,0742873271
+958,Melissa,Gordon,F,1971-05-10,52,Kakamega,O-,"Casual labourer",NHIF,0774581639
+959,Jerry,Coleman,M,1988-03-16,35,Kitale,O+,Engineer,Out-of-pocket,0768174055
+960,Gerald,Garcia,M,1988-07-28,35,Mombasa,AB+,Unemployed,Out-of-pocket,0784202557
+961,Jonathan,Perry,M,1999-05-15,24,Eldoret,O+,Engineer,Out-of-pocket,0719655576
+962,Donna,Nichols,F,2000-04-05,23,Kericho,B-,Farmer,NHIF,0777202790
+963,Cheryl,Henderson,F,1993-07-24,30,Thika,O+,Driver,NHIF,0788961498
+964,Adam,Martinez,M,1955-07-19,68,Kisumu,B-,Trader,Private,0744260204
+965,Frances,Daniels,F,2002-11-23,21,Thika,A+,"Casual labourer",NHIF,0766913730
+966,Eric,Bryant,M,1944-06-21,79,Meru,A+,"Police officer",Out-of-pocket,0729848692
+967,Madison,Griffin,F,1958-05-08,65,Kakamega,B+,Farmer,NHIF,0722389075
+968,Diane,Garza,F,1950-09-07,73,Kericho,O+,"Business person",None,0743939802
+969,Andrea,Fernandez,F,1988-10-10,35,Meru,O+,Trader,None,0721928391
+970,Louis,Webb,M,1984-03-09,39,Meru,B-,Nurse,Out-of-pocket,0751352528
+971,George,Ellis,M,1940-02-03,83,Nyeri,O+,Engineer,Private,0748700374
+972,Amanda,Rivera,F,1987-03-23,36,Kisumu,B-,Driver,NHIF,0724795927
+973,Alice,Edwards,F,1963-04-02,60,Meru,B+,Trader,Out-of-pocket,0744809624
+974,Lauren,Mason,F,1953-11-06,70,Mombasa,AB+,Teacher,NHIF,0747146394
+975,Alexander,Davis,M,1970-08-16,53,Machakos,A-,Farmer,NHIF,0710969945
+976,Matthew,Edwards,M,2006-01-13,17,Kakamega,AB+,Nurse,Private,0755235396
+977,Catherine,Jimenez,F,1983-06-27,40,Nakuru,AB-,"Casual labourer",NHIF,0791981404
+978,Dennis,Hughes,M,1952-01-15,72,Kisii,O+,"Police officer",None,0728637880
+979,Billy,Young,M,2007-05-23,16,Nyeri,B-,Student,Private,0798432853
+980,Frances,Gonzales,F,1964-01-21,59,Kisii,AB-,Farmer,Out-of-pocket,0716141035
+981,Theresa,Hamilton,F,1969-10-16,54,Malindi,A-,Student,Private,0773904001
+982,Bobby,Russell,M,1977-10-07,46,Meru,B+,Mechanic,Out-of-pocket,0786758128
+983,Steven,Medina,M,1951-05-27,72,Machakos,O-,"Business person",None,0725526124
+984,Beverly,Woods,F,1970-04-07,53,Kisumu,A-,Teacher,Private,0713922081
+985,Samuel,Russell,M,1975-04-24,48,Eldoret,O-,Nurse,Out-of-pocket,0799318726
+986,Albert,Munoz,M,2002-02-26,21,Meru,AB-,Mechanic,NHIF,0787305664
+987,Bruce,Castillo,M,1988-12-24,35,Meru,O+,"Casual labourer",Out-of-pocket,0785416933
+988,Kathleen,Morales,F,1973-02-10,50,Mombasa,A-,Teacher,NHIF,0789483803
+989,Howard,Robinson,M,1987-03-28,36,Thika,O+,Unemployed,Out-of-pocket,0751714724
+990,Dylan,Mcdonald,M,1964-07-14,59,Thika,AB-,Trader,Out-of-pocket,0726952687
+991,Anthony,Coleman,M,1941-09-28,82,Kitale,AB-,"Business person",None,0749838982
+992,Keith,Fox,M,1998-03-20,25,Eldoret,B+,"Police officer",Out-of-pocket,0714609555
+993,Ruth,Aguilar,F,1955-05-28,68,Meru,O-,"Casual labourer",None,0776441201
+994,Diana,Jenkins,F,1947-06-05,76,Kisii,B-,Mechanic,Out-of-pocket,0740208616
+995,Edward,Gibson,M,1990-05-27,33,Machakos,B+,Farmer,Out-of-pocket,0755286423
+996,Theresa,Hayes,F,1984-07-13,39,Mombasa,AB+,"Civil servant",Out-of-pocket,0736184828
+997,Betty,King,F,1981-10-28,42,Nyeri,A+,Mechanic,None,0750812122
+998,Denise,Adams,F,1957-08-23,66,Kitale,AB+,Nurse,NHIF,0739277781
+999,Randy,Palmer,M,1941-06-24,82,Kisii,A-,"Casual labourer",Out-of-pocket,0729811269
+1000,Kelly,Salazar,F,1961-01-04,63,Thika,O-,"Business person",None,0725750026
+1001,Janice,Patterson,F,1959-11-24,64,Malindi,B-,Farmer,NHIF,0763236763
+1002,Nicole,Mills,F,1962-11-24,61,Malindi,A-,Trader,Private,0797283256
+1003,Brenda,Dixon,F,1996-06-01,27,Mombasa,A-,Teacher,NHIF,0796088502
+1004,Robert,Crawford,M,2001-05-23,22,Meru,A-,Trader,Out-of-pocket,0761534222
+1005,Marie,Schmidt,F,1995-05-19,28,Kisumu,A-,Student,NHIF,0782143514
+1006,Douglas,Schmidt,M,1942-07-18,81,Kisii,O-,Teacher,Out-of-pocket,0788479996
+1007,Vincent,Kelley,M,1966-11-04,57,Kisumu,B+,Farmer,Out-of-pocket,0752184106
+1008,David,Allen,M,1966-11-06,57,Mombasa,AB+,Mechanic,Out-of-pocket,0721356205
+1009,Jeremy,Brooks,M,1986-09-06,37,Malindi,A+,"Healthcare worker",NHIF,0779718468
+1010,Beverly,Fernandez,F,1996-03-19,27,Kitale,AB-,Engineer,None,0757260360
+1011,Wayne,Sanchez,M,1945-04-02,78,Nakuru,B+,"Civil servant",None,0738885391
+1012,Billy,Wells,M,1967-10-12,56,Eldoret,B+,"Police officer",Out-of-pocket,0719980384
+1013,Helen,Perry,F,1960-07-15,63,Mombasa,AB+,"Casual labourer",Private,0729225877
+1014,Charles,Dixon,M,1974-11-23,49,Machakos,B-,"Police officer",NHIF,0798223735
+1015,Peter,Flores,M,1980-07-13,43,Nairobi,B-,Teacher,NHIF,0781332718
+1016,Juan,Kennedy,M,1992-02-11,31,Machakos,A-,Student,None,0746675397
+1017,Jacob,Ramos,M,1941-02-13,82,Nakuru,O+,Teacher,Out-of-pocket,0726576358
+1018,Sean,Weaver,M,1979-10-27,44,Nyeri,O-,Teacher,Out-of-pocket,0786793756
+1019,Jean,Howard,F,1952-01-06,72,Thika,O+,"Business person",NHIF,0781361168
+1020,Megan,Olson,F,1956-05-01,67,Machakos,B+,"Casual labourer",NHIF,0760841764
+1021,Susan,Soto,F,1987-12-25,36,Nakuru,O+,"Police officer",Private,0768916214
+1022,Olivia,Aguilar,F,1976-05-14,47,Garissa,B-,"Civil servant",Out-of-pocket,0721669195
+1023,Joyce,Tran,F,1980-02-21,43,Mombasa,A-,"Police officer",NHIF,0722567290
+1024,Jesse,Anderson,M,1950-12-10,73,Garissa,O-,Trader,None,0766906118
+1025,Gerald,Medina,M,2005-11-22,18,Kericho,A-,Housewife,NHIF,0735526064
+1026,Dennis,Simmons,M,2008-12-12,15,Nakuru,A+,Unemployed,Private,0732620027
+1027,Edward,Martin,M,1986-03-17,37,Thika,A+,Housewife,Private,0732881970
+1028,Sandra,Alvarez,F,1971-09-28,52,Nyeri,A-,"Civil servant",NHIF,0749398948
+1029,Laura,Smith,F,1990-04-10,33,Kericho,A+,Nurse,Private,0792912825
+1030,Jessica,Long,F,1940-10-15,83,Thika,AB+,Student,NHIF,0756938851
+1031,Douglas,Myers,M,1941-02-14,82,Kitale,B-,Teacher,Out-of-pocket,0730630696
+1032,Ashley,Gibson,F,1940-03-25,83,Machakos,AB+,"Healthcare worker",Private,0760238966
+1033,Carolyn,Romero,F,1963-09-26,60,Eldoret,A-,Driver,Out-of-pocket,0768969458
+1034,Kenneth,Myers,M,1995-01-12,28,Kericho,B-,Teacher,NHIF,0715403110
+1035,Henry,Vasquez,M,1982-01-06,42,Machakos,B-,Driver,"Linda Mama",0745675021
+1036,Peter,Ellis,M,2010-08-26,13,Machakos,B+,Student,Out-of-pocket,0763670451
+1037,Kimberly,Lewis,F,1953-01-05,71,Kisumu,AB-,Engineer,NHIF,0741743155
+1038,Alan,Castillo,M,1994-10-24,29,Nairobi,O+,Driver,NHIF,0775220319
+1039,Levi,Romero,M,1971-10-05,52,Meru,B+,"Healthcare worker",NHIF,0725437721
+1040,Brittany,Morgan,F,1994-04-16,29,Meru,A-,"Police officer",Out-of-pocket,0792020513
+1041,Timothy,Olson,M,1959-04-04,64,Kisumu,O+,Farmer,NHIF,0735793612
+1042,Nathan,Jones,M,1965-02-28,58,Nairobi,O+,Housewife,Out-of-pocket,0795001425
+1043,Jacob,Alvarez,M,1994-08-02,29,Garissa,O+,"Casual labourer",NHIF,0724771325
+1044,Carolyn,Kim,F,1984-12-14,39,Nakuru,AB-,Nurse,NHIF,0715488046
+1045,Richard,Robertson,M,1981-04-10,42,Kitale,AB+,Nurse,Out-of-pocket,0767835429
+1046,Jonathan,Ellis,M,1986-06-10,37,Mombasa,A-,"Casual labourer",NHIF,0784057077
+1047,Patrick,Ross,M,1986-12-25,37,Kakamega,AB-,"Healthcare worker",Out-of-pocket,0738190192
+1048,Nancy,Ramirez,F,1956-11-24,67,Kakamega,A-,Farmer,Out-of-pocket,0797826062
+1049,Timothy,Garza,M,1997-02-03,26,Garissa,AB-,"Civil servant",Out-of-pocket,0737111862
+1050,David,Allen,M,1964-07-18,59,Meru,AB+,Nurse,None,0785208373
+1051,Carolyn,Graham,F,1955-07-03,68,Kitale,O+,Engineer,None,0777628209
+1052,George,Porter,M,1975-12-05,48,Eldoret,A+,Unemployed,NHIF,0735526992
+1053,Martha,Warren,F,2008-09-03,15,Kisumu,O-,Trader,Out-of-pocket,0785497282
+1054,Julie,Gordon,F,1974-04-06,49,Nairobi,B+,Unemployed,NHIF,0711189346
+1055,Andrea,Daniels,F,2007-05-10,16,Kisii,B-,"Civil servant",Out-of-pocket,0784108442
+1056,George,Morales,M,1945-09-08,78,Eldoret,A+,"Casual labourer",NHIF,0747279846
+1057,Justin,Ryan,M,1946-11-08,77,Kisii,B-,Engineer,NHIF,0797059725
+1058,Judy,Hunter,F,1987-06-03,36,Meru,AB+,"Police officer",NHIF,0792071729
+1059,Samantha,Anderson,F,1941-06-08,82,Meru,AB+,"Business person",NHIF,0712098962
+1060,Philip,Grant,M,1988-11-09,35,Kisii,B-,Mechanic,Private,0753521847
+1061,Sharon,Guzman,F,1990-03-15,33,Nakuru,O+,Student,NHIF,0774291216
+1062,Keith,Campbell,M,1998-03-27,25,Kisii,B+,"Healthcare worker",Out-of-pocket,0734213769
+1063,Jennifer,James,F,1960-03-27,63,Malindi,B-,Teacher,NHIF,0767229772
+1064,Harold,Holmes,M,1991-02-24,32,Garissa,B+,"Police officer",Out-of-pocket,0711582229
+1065,Aaron,Russell,M,1942-02-27,81,Nairobi,A+,"Business person",NHIF,0721220004
+1066,Emily,Mason,F,1941-01-26,82,Mombasa,AB-,Mechanic,Out-of-pocket,0737155151
+1067,Gerald,Hawkins,M,1996-03-10,27,Thika,O-,"Business person",NHIF,0782950883
+1068,Judy,Washington,F,1955-01-27,68,Nairobi,A-,Engineer,NHIF,0778658060
+1069,Emily,Smith,F,1968-01-08,56,Malindi,O+,"Business person",NHIF,0748499846
+1070,Juan,Russell,M,1954-08-06,69,Mombasa,B-,Teacher,"Linda Mama",0747824471
+1071,Karen,Silva,F,1982-02-12,41,Kericho,A-,Nurse,NHIF,0730280697
+1072,Nathan,Harrison,M,1982-10-06,41,Machakos,O+,"Business person",None,0750475203
+1073,Debra,Clark,F,1974-08-22,49,Thika,AB+,Trader,None,0720250139
+1074,Kevin,Obrien,M,1958-06-05,65,Malindi,O-,"Police officer",Out-of-pocket,0774214057
+1075,Mark,Tucker,M,1994-12-09,29,Kisumu,A-,Student,"Linda Mama",0734410491
+1076,Rachel,Gray,F,2003-07-16,20,Meru,O+,Unemployed,Out-of-pocket,0754756934
+1077,Ralph,Ortiz,M,1989-07-18,34,Kitale,O-,Engineer,Out-of-pocket,0740885447
+1078,Lisa,Guzman,F,1993-09-19,30,Nyeri,B-,"Police officer",NHIF,0758547818
+1079,Jeffrey,Jones,M,1986-09-16,37,Kisumu,A-,Farmer,None,0758433612
+1080,Frank,Wallace,M,1958-09-14,65,Nakuru,B-,Mechanic,NHIF,0728495379
+1081,Harry,Garza,M,1958-07-24,65,Nairobi,O+,Student,NHIF,0724228398
+1082,Gerald,Simpson,M,1960-01-05,64,Thika,B+,Teacher,NHIF,0711674728
+1083,Carol,Arnold,F,1963-08-24,60,Kisumu,AB+,Driver,Private,0755276604
+1084,Marie,Meyer,F,1941-05-04,82,Kisumu,A+,Nurse,Out-of-pocket,0791090807
+1085,Jeremy,Adams,M,1941-07-27,82,Malindi,O-,Engineer,Out-of-pocket,0744635469
+1086,Diana,Murphy,F,1994-03-09,29,Mombasa,O+,"Business person",Out-of-pocket,0763741103
+1087,Jacob,Bell,M,1963-12-18,60,Kakamega,A-,Mechanic,Out-of-pocket,0774077726
+1088,Denise,Hicks,F,1991-07-06,32,Nairobi,AB-,"Casual labourer",Private,0746227990
+1089,Anthony,Martin,M,1986-10-25,37,Kisii,AB-,Farmer,NHIF,0731845331
+1090,Thomas,Edwards,M,1941-05-07,82,Garissa,B-,"Casual labourer",None,0742257238
+1091,Lisa,Freeman,F,1945-10-26,78,Kitale,A+,Farmer,NHIF,0751420243
+1092,Dennis,Kelley,M,1976-07-17,47,Nakuru,AB-,Trader,NHIF,0757759672
+1093,Harry,Stone,M,1952-06-14,71,Kericho,A-,Engineer,None,0730157712
+1094,Dylan,Perry,M,2001-10-28,22,Kisii,A+,"Civil servant",NHIF,0772157065
+1095,Jordan,White,M,1969-04-26,54,Machakos,B+,Trader,Out-of-pocket,0777326285
+1096,Joan,Torres,F,1956-06-10,67,Thika,O+,Farmer,None,0762027391
+1097,Jeffrey,Mendez,M,1949-03-19,74,Machakos,O-,Teacher,None,0729142470
+1098,Jean,Mann,F,1951-08-04,72,Kitale,AB-,"Business person",None,0731672470
+1099,Scott,Tucker,M,1986-06-03,37,Mombasa,B+,"Police officer",Out-of-pocket,0744620670
+1100,Angela,Arnold,F,1996-11-05,27,Mombasa,O-,Farmer,NHIF,0748470165
+1101,Joyce,Shaw,F,1956-08-12,67,Garissa,AB-,Student,NHIF,0765457991
+1102,Helen,Fox,F,1945-10-21,78,Nairobi,B-,"Police officer",None,0711066084
+1103,Anthony,Richardson,M,1988-03-19,35,Malindi,A-,"Healthcare worker",NHIF,0772045979
+1104,Jack,West,M,1999-11-18,24,Kericho,O-,Teacher,NHIF,0724542266
+1105,Christina,Phillips,F,1991-06-03,32,Thika,AB-,Unemployed,Private,0773917095
+1106,Scott,Griffin,M,1944-09-05,79,Kitale,B+,"Casual labourer",NHIF,0786263395
+1107,Bryan,Burton,M,1988-01-26,35,Thika,O+,Driver,NHIF,0738386094
+1108,Levi,Warren,M,1994-05-09,29,Machakos,B+,Teacher,NHIF,0746762949
+1109,Lisa,Brooks,F,1997-07-17,26,Nakuru,AB+,"Business person",None,0722407255
+1110,Catherine,Kelley,F,1978-03-07,45,Thika,O+,Driver,Private,0731567333
+1111,Rachel,Meyer,F,1989-01-18,34,Nyeri,B-,Teacher,Out-of-pocket,0787643527
+1112,Samuel,Boyd,M,1980-01-05,44,Kericho,O-,Nurse,NHIF,0752467541
+1113,Alan,Barnes,M,1973-09-24,50,Nairobi,O-,Mechanic,None,0795133372
+1114,Abigail,Guzman,F,1952-01-07,72,Meru,B-,Housewife,Out-of-pocket,0732293702
+1115,Laura,Patel,F,1966-04-22,57,Kakamega,A+,Student,None,0712173155
+1116,Ruth,Aguilar,F,1955-12-16,68,Machakos,O-,Housewife,Private,0757272989
+1117,Hannah,Arnold,F,1982-02-06,41,Kitale,O+,Student,NHIF,0789845027
+1118,Joe,Patterson,M,1988-05-28,35,Machakos,O+,"Casual labourer",NHIF,0793265522
+1119,Daniel,Clark,M,1951-11-01,72,Kakamega,O+,Teacher,Private,0793728466
+1120,Louis,Hamilton,M,2004-10-26,19,Nairobi,AB+,Mechanic,Private,0739914362
+1121,Jean,Perry,F,1954-04-28,69,Kitale,A-,Student,"Linda Mama",0772269929
+1122,Marie,Garza,F,1990-01-12,33,Nyeri,B-,Engineer,NHIF,0798406780
+1123,Ruth,Fisher,F,1970-01-14,54,Nairobi,A+,Farmer,NHIF,0760251887
+1124,Christine,Baker,F,1995-04-18,28,Malindi,B-,Unemployed,Out-of-pocket,0716923083
+1125,Kimberly,Munoz,F,1989-12-06,34,Malindi,AB-,Engineer,NHIF,0741000202
+1126,Russell,Allen,M,2004-02-21,19,Kakamega,O+,Mechanic,Out-of-pocket,0744927495
+1127,Samuel,Evans,M,1951-02-01,72,Malindi,A+,"Casual labourer",Out-of-pocket,0730541837
+1128,Johnny,Daniels,M,2009-02-19,14,Malindi,A+,"Police officer",Out-of-pocket,0770895423
+1129,Deborah,Gutierrez,F,1968-05-07,55,Garissa,B-,"Police officer",Out-of-pocket,0760748656
+1130,Beverly,Wilson,F,1975-02-05,48,Machakos,A+,"Casual labourer","Linda Mama",0723880694
+1131,Harold,Simpson,M,1955-02-05,68,Eldoret,AB+,Nurse,NHIF,0720385959
+1132,Carolyn,Collins,F,1990-02-16,33,Nyeri,A+,Housewife,NHIF,0793977718
+1133,Jeffrey,Warren,M,1993-07-11,30,Machakos,O-,Trader,NHIF,0750098215
+1134,Edward,Black,M,1944-02-11,79,Thika,O-,Unemployed,Out-of-pocket,0710673042
+1135,Lawrence,Payne,M,1972-02-07,51,Kakamega,A+,Engineer,NHIF,0778685213
+1136,Ryan,Foster,M,1954-04-01,69,Thika,B+,"Healthcare worker",NHIF,0726989313
+1137,Brenda,Herrera,F,1965-02-12,58,Meru,AB+,Driver,Out-of-pocket,0776545378
+1138,Frances,Butler,F,1964-05-06,59,Nakuru,AB+,Housewife,NHIF,0788863503
+1139,Amanda,Evans,F,2002-07-15,21,Malindi,AB+,Mechanic,NHIF,0724436339
+1140,Kelly,Phillips,F,1985-06-21,38,Kisii,A-,Driver,NHIF,0714531191
+1141,Janice,Barnes,F,1977-10-27,46,Kericho,AB-,Housewife,NHIF,0734146337
+1142,Kelly,Ryan,F,1963-06-08,60,Mombasa,B-,"Casual labourer",NHIF,0729466895
+1143,Ashley,Williams,F,1980-12-01,43,Meru,AB-,"Healthcare worker",Private,0753159218
+1144,Austin,Taylor,M,1989-05-20,34,Nakuru,B-,Teacher,Out-of-pocket,0791591543
+1145,Jesse,Holmes,M,1993-11-25,30,Malindi,AB-,Mechanic,NHIF,0736457435
+1146,Keith,Medina,M,1945-05-14,78,Mombasa,A-,Driver,NHIF,0753872387
+1147,Amy,Tucker,F,1942-05-01,81,Machakos,A+,Nurse,Private,0727590313
+1148,Barbara,Fernandez,F,2007-01-11,16,Machakos,A+,Teacher,Private,0765710942
+1149,Brenda,Gray,F,1984-07-03,39,Garissa,AB-,Driver,Out-of-pocket,0762791522
+1150,Brittany,Griffin,F,2003-11-04,20,Kisii,AB-,Unemployed,NHIF,0740066698
+1151,John,Scott,M,1953-06-28,70,Meru,O+,"Healthcare worker",NHIF,0735657019
+1152,Ann,Johnson,F,1946-05-26,77,Nairobi,A-,Farmer,None,0720071990
+1153,Christine,Mills,F,1988-05-23,35,Kisumu,B+,Unemployed,Private,0726950183
+1154,Emily,Kelley,F,1992-11-15,31,Machakos,A-,Engineer,Out-of-pocket,0787562374
+1155,Beverly,Ellis,F,1975-06-25,48,Meru,O-,"Healthcare worker",NHIF,0749759879
+1156,Dennis,Vargas,M,1971-11-21,52,Meru,B-,"Police officer",NHIF,0776384860
+1157,Ryan,Brown,M,1967-08-27,56,Malindi,B-,Driver,NHIF,0738006066
+1158,Ruth,Daniels,F,1998-11-05,25,Kisii,A-,Nurse,NHIF,0758807442
+1159,Joan,Shaw,F,2005-04-25,18,Malindi,B-,Teacher,NHIF,0732038057
+1160,Teresa,Holmes,F,1953-03-15,70,Kericho,A-,"Police officer",NHIF,0712226394
+1161,Deborah,Kelly,F,1943-08-22,80,Garissa,O-,Student,NHIF,0783860588
+1162,Dennis,Jordan,M,1967-03-13,56,Garissa,O+,Engineer,NHIF,0769235732
+1163,Janet,Sanchez,F,1946-11-13,77,Meru,O+,"Healthcare worker",NHIF,0764048419
+1164,Bryan,Ramos,M,2007-10-16,16,Garissa,O+,Teacher,Out-of-pocket,0796750938
+1165,Mark,Morris,M,1954-01-02,70,Kakamega,AB+,"Healthcare worker",NHIF,0723560284
+1166,Cynthia,Shaw,F,1991-07-13,32,Mombasa,B-,"Police officer",None,0746006180
+1167,Sharon,Baker,F,1966-06-21,57,Eldoret,AB+,"Police officer",NHIF,0734840859
+1168,Isabella,Wood,F,1970-03-11,53,Machakos,A-,"Business person",NHIF,0771098100
+1169,John,Boyd,M,2000-07-11,23,Nairobi,B+,"Civil servant",None,0732914336
+1170,Bryan,Myers,M,2000-10-01,23,Kitale,B-,Driver,NHIF,0712334156
+1171,Kathleen,Owens,F,2004-03-25,19,Kisumu,A-,Teacher,NHIF,0755053851
+1172,Cheryl,Gardner,F,1984-09-09,39,Machakos,O-,"Civil servant",NHIF,0711820133
+1173,Nicole,Daniels,F,1982-09-25,41,Machakos,O-,Teacher,NHIF,0779700460
+1174,Andrew,Gonzales,M,1968-11-05,55,Thika,O-,Farmer,NHIF,0767810328
+1175,Sharon,Grant,F,1951-04-13,72,Machakos,A-,"Civil servant",None,0783137443
+1176,Jacqueline,Hall,F,1973-11-12,50,Kericho,AB-,Housewife,Out-of-pocket,0747077262
+1177,Stephanie,Hernandez,F,2006-12-11,17,Kisii,A-,Housewife,Out-of-pocket,0786056143
+1178,Pamela,Lewis,F,1941-08-22,82,Kisumu,O-,"Casual labourer",NHIF,0748893851
+1179,Benjamin,Gibson,M,1976-02-26,47,Eldoret,A+,Driver,NHIF,0747985938
+1180,Richard,Ellis,M,1979-01-14,44,Thika,A+,Farmer,NHIF,0757005495
+1181,Andrea,Boyd,F,1959-02-23,64,Eldoret,B+,"Police officer",NHIF,0788547547
+1182,Frank,Morris,M,1944-08-12,79,Nakuru,O+,Housewife,NHIF,0723171952
+1183,Nicole,Simpson,F,1979-03-19,44,Malindi,AB-,Trader,Out-of-pocket,0736777331
+1184,Donna,Fisher,F,2010-04-10,13,Eldoret,A-,"Civil servant",Out-of-pocket,0794331525
+1185,Gloria,Campbell,F,1988-07-04,35,Kisumu,O-,"Police officer",NHIF,0757990755
+1186,Rachel,Romero,F,1999-07-14,24,Kitale,A+,Nurse,Out-of-pocket,0766494741
+1187,Vincent,Scott,M,1978-04-19,45,Garissa,AB-,"Business person",Out-of-pocket,0785910137
+1188,Susan,Spencer,F,1990-03-13,33,Machakos,A+,Driver,None,0779525894
+1189,Susan,Perez,F,1947-05-27,76,Machakos,A-,Student,Out-of-pocket,0749000574
+1190,Marilyn,Hughes,F,1947-02-24,76,Kakamega,A+,"Police officer",NHIF,0729347740
+1191,Donna,Morales,F,1959-05-21,64,Eldoret,A+,Trader,Private,0736937481
+1192,Thomas,Smith,M,1959-10-04,64,Garissa,A-,"Healthcare worker",NHIF,0773584629
+1193,Jeremy,Hamilton,M,1990-01-04,34,Eldoret,O+,Driver,"Linda Mama",0741531482
+1194,Julia,Fox,F,1996-11-20,27,Mombasa,O+,"Business person",Out-of-pocket,0734804490
+1195,Howard,Black,M,1970-03-17,53,Meru,B-,Driver,Private,0748849191
+1196,Dylan,Tran,M,1987-11-09,36,Malindi,O+,"Police officer",Out-of-pocket,0772272153
+1197,Kelly,Nguyen,F,1943-05-15,80,Mombasa,O+,Farmer,Out-of-pocket,0714574615
+1198,Elizabeth,Myers,F,1957-08-24,66,Kitale,AB+,Farmer,"Linda Mama",0758016078
+1199,Jack,Garza,M,2007-07-17,16,Mombasa,B+,"Casual labourer",NHIF,0798037888
+1200,Evelyn,Nichols,F,1957-05-26,66,Nyeri,AB+,Nurse,NHIF,0796588420
